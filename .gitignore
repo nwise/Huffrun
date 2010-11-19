@@ -1,0 +1,9 @@
+.rsync_cache
+config/database.yml
+log/*.log
+tmp/**/*
+doc/api
+doc/app
+nbproject
+public/assets
+  public/system
