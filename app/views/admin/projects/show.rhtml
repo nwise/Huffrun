@@ -1,0 +1,27 @@
+<p>
+  <b>Name:</b>
+  <%=h @project.name %>
+</p>
+
+<p>
+  <b>Description:</b>
+  <%=h @project.description %>
+</p>
+
+<p>
+  <b>Construction Cost:</b>
+  <% if @project.construction_cost.blank? %>
+   N/A
+  <% else %>
+  $<%= sprintf("%.2f", @project.construction_cost ) %>
+  <% end %>
+</p>
+
+<p>
+  <b>Completed:</b>
+  <%=h @project.completed %>
+</p>
+
+
+<%= link_to 'Edit', edit_project_path(@project) %> |
+<%= link_to 'Back', projects_path %>

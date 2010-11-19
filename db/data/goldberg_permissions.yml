@@ -1,0 +1,16 @@
+--- 
+goldberg_permissions_000001: 
+  name: Administer site
+  id: "1"
+goldberg_permissions_000002: 
+  name: Public pages - edit
+  id: "2"
+goldberg_permissions_000003: 
+  name: Public pages - view
+  id: "3"
+goldberg_permissions_000004: 
+  name: Public actions - execute
+  id: "4"
+goldberg_permissions_000005: 
+  name: Members only page -- view
+  id: "5"

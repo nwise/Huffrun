@@ -1,0 +1,145 @@
+--- 
+goldberg_controller_actions_000021: 
+  name: forgot_password_submit
+  permission_id: "4"
+  id: "21"
+  url_to_use: ""
+  site_controller_id: "10"
+goldberg_controller_actions_000010: 
+  name: list
+  permission_id: 
+  id: "10"
+  url_to_use: 
+  site_controller_id: "2"
+goldberg_controller_actions_000009: 
+  name: list
+  permission_id: 
+  id: "9"
+  url_to_use: 
+  site_controller_id: "8"
+goldberg_controller_actions_000022: 
+  name: reset_password
+  permission_id: "4"
+  id: "22"
+  url_to_use: ""
+  site_controller_id: "10"
+goldberg_controller_actions_000011: 
+  name: list
+  permission_id: 
+  id: "11"
+  url_to_use: 
+  site_controller_id: "5"
+goldberg_controller_actions_000023: 
+  name: reset_password_submit
+  permission_id: "4"
+  id: "23"
+  url_to_use: ""
+  site_controller_id: "10"
+goldberg_controller_actions_000012: 
+  name: list
+  permission_id: 
+  id: "12"
+  url_to_use: 
+  site_controller_id: "9"
+goldberg_controller_actions_000001: 
+  name: view_default
+  permission_id: "3"
+  id: "1"
+  url_to_use: 
+  site_controller_id: "1"
+goldberg_controller_actions_000024: 
+  name: index
+  permission_id: "3"
+  id: "24"
+  url_to_use: /admin/projects
+  site_controller_id: "12"
+goldberg_controller_actions_000013: 
+  name: forgotten
+  permission_id: "4"
+  id: "13"
+  url_to_use: 
+  site_controller_id: "3"
+goldberg_controller_actions_000002: 
+  name: view
+  permission_id: "3"
+  id: "2"
+  url_to_use: 
+  site_controller_id: "1"
+goldberg_controller_actions_000014: 
+  name: login_failed
+  permission_id: "4"
+  id: "14"
+  url_to_use: 
+  site_controller_id: "3"
+goldberg_controller_actions_000003: 
+  name: list
+  permission_id: 
+  id: "3"
+  url_to_use: 
+  site_controller_id: "7"
+goldberg_controller_actions_000015: 
+  name: list
+  permission_id: 
+  id: "15"
+  url_to_use: 
+  site_controller_id: "10"
+goldberg_controller_actions_000004: 
+  name: list
+  permission_id: 
+  id: "4"
+  url_to_use: 
+  site_controller_id: "6"
+goldberg_controller_actions_000016: 
+  name: self_register
+  permission_id: "4"
+  id: "16"
+  url_to_use: ""
+  site_controller_id: "10"
+goldberg_controller_actions_000005: 
+  name: login
+  permission_id: "4"
+  id: "5"
+  url_to_use: 
+  site_controller_id: "3"
+goldberg_controller_actions_000017: 
+  name: confirm_registration
+  permission_id: "4"
+  id: "17"
+  url_to_use: ""
+  site_controller_id: "10"
+goldberg_controller_actions_000006: 
+  name: logout
+  permission_id: "4"
+  id: "6"
+  url_to_use: 
+  site_controller_id: "3"
+goldberg_controller_actions_000018: 
+  name: confirm_registration_submit
+  permission_id: "4"
+  id: "18"
+  url_to_use: ""
+  site_controller_id: "10"
+goldberg_controller_actions_000007: 
+  name: link
+  permission_id: "4"
+  id: "7"
+  url_to_use: 
+  site_controller_id: "5"
+goldberg_controller_actions_000020: 
+  name: forgot_password
+  permission_id: "4"
+  id: "20"
+  url_to_use: ""
+  site_controller_id: "10"
+goldberg_controller_actions_000019: 
+  name: self_create
+  permission_id: "4"
+  id: "19"
+  url_to_use: ""
+  site_controller_id: "10"
+goldberg_controller_actions_000008: 
+  name: list
+  permission_id: 
+  id: "8"
+  url_to_use: 
+  site_controller_id: "1"

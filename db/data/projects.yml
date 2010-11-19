@@ -1,0 +1,131 @@
+--- 
+projects_000013: 
+  completed: "2008-09-15"
+  name: HR-25
+  id: "18"
+  description: "During the initial planning stages, the HR-25 site was found to have the worst water quality throughout the watershed. Because of its extreme downstream location, the project had not taken priority until 2009. At this point, the Ohio Department of Natural Resources, Division of Mineral Resources Management, Abandoned Mineland Division, funded a project uphill of the site. An abandoned and forfeited mining site was reclaimed and a pond on the site was mixed with steel slag. The effluent from this pond was mixed with the HR-25 effluent. A phase two will need to fully address the acid mine drainage. "
+  construction_cost: 
+projects_000002: 
+  completed: "2006-11-27"
+  name: Harsha North
+  id: "3"
+  description: |-
+    Harsha North was the highest contributor of AMD contamination and was also high in iron, acidity, and aluminum contribution. It was ranked second highest of all sites by the Huff Run group in their initial planning stages. The site was primarily toxic coal refuse piles and highwalls along with areas affected by deep mine entries, deep mine drainage and unreclaimed contour surface mines. The Harsha sites are located in the middle of the watershed.
+    
+    An Ohio EPA 319 grant administered by Crossroads RC&D along with an OSM Clean Streams grant were secured to fund this project. Aide from our local solid waste districts helped remove trash from the site. Harsha North was completed in November 2006.
+    
+    Construction was completed by Tuscon of New Philadelphia for $686,186. The design was done by ATC Associates for $106,909.
+  construction_cost: "200000.00"
+projects_000014: 
+  completed: "2008-03-24"
+  name: Taggart's Wetland
+  id: "19"
+  description: |
+    Around the midpoint of the stream, Huff Run breaks into a series of wetlands that were caused by a beaver dam in the late 1990s. Since, the beaver dam has broken up but the stream has never flowed as one unit though this area since. Wetlands are a great natural sink for pollution, taking out metals. Ed Taggart, our long time Huff Run President, lives along this wetland. We would like to raise the retention rate of the water in the wetland to capture more metal loading and drop out more acidity much like 
+    <a href="http://http://watersheddata.com/userview_file.aspx?UserFileLo=2&UserFileID=68">Raccoon Creek's Mulga Run Project</a>.
+
+  construction_cost: 
+projects_000003: 
+  completed: "2004-10-27"
+  name: Linden Bioremediation Project
+  id: "5"
+  description: "Linden was the third ranking site of importance by the Huff Run group. This was the first project in Ohio to use the Pyrolucite Bioremediation process. The process consists of a wetland to take metals out of the contaminated water and then a large limestone structure inoculated with microorganisms. These lab created creatures etch away limestone surfaces so that the surface area is renewed and AMD precipitate does not build up in the system. They also rid the water of manganese. This project was completed in the summer of 2002 when inoculation took place in early June 2003. Linden is also located in the middle of the watershed.\r\n\
+    Tuscon of New Philadelphia constructed the project for $321,619. Funds from the Office of Surface Mining and ODNR funded the project. Linden's design was completed by the Ohio Department of Natural Resources and Allegheny Mineral Abatement. "
+  construction_cost: "3500000.00"
+projects_000015: 
+  completed: "2008-03-24"
+  name: Harsha South
+  id: "20"
+  description: Harsha South is ranked among the highest of all the problem areas in Huff Run. The area has unreclaimed surface mining, exposed coal waste and abandoned mining facilities along with AMD discharges. Monitor wells have been established for further study. Drilling studies have concluded that there is extensive fracturing in underlying rock and soil. Restoration plans for this site are tough to create and are on hold.
+  construction_cost: 
+projects_000004: 
+  completed: "2008-09-27"
+  name: Fern Hill/ HR-42
+  id: "6"
+  description: HR-42 (also called Fern Hill for its large hillside of Christmas Ferns) consists of three acid pits and a large AMD plume that sits directly beside Huff Run itself, dumping severe amounts of AMD directly into the stream. A grant from the Office of Surface Mining paid for reclamation of the largest and nearest pit to the stream. Studies have shown that the hillside between the pits and the stream have fractured rock stained orange. We believe the pits were causing the seep and plume at stream level. HR-42 is just North East of Linden. Sampling is ongoing to determine the efficiency of the project. The seep on the hillside does seem to have diminished. The project was designed by the Ohio Department of Natural Resources and constructed by Red Malcuit for $106,500.
+  construction_cost: "20000.00"
+projects_000016: 
+  completed: "2008-03-24"
+  name: HR-38
+  id: "21"
+  description: The HR-38 site is in a downstream location and so has not been a priority to date. Because of its high acidity loading, the Department of Natural Resources, Division of Mineral Resources Management has agreed to fund a study of the project site to learn more about the area and discover the feasibility of a restoration project.
+  construction_cost: 
+projects_000005: 
+  completed: "2003-08-27"
+  name: Farr Anoxic Limestone Drain
+  id: "7"
+  description: "Farr/South Side Tipple  was a two phase process. First, regrading and revegetation were conducted. The following year, an anoxic limestone drain was put in place. This ALD has been working to take out alkalinity and raise pH but is not working at its full potential. Although Farr was number five in importance ranking, it is a highly visible area located close to Mineral City. Because of this, the group wanted the community to see a project right away. Farr is located in the South Western part of the watershed.\r\n\
+    A third phase will take place eventually to compensate for the excessive amount of water running through the system. Funding was provided an Ohio EPA 319 grant and ODNR.\r\n\
+    The project was designed by Gannett Flemming for $30,976 and constructed by Tuscon for about $150,000. "
+  construction_cost: "20000.00"
+projects_000017: 
+  completed: "2008-04-03"
+  name: Jobes Restoration
+  id: "22"
+  description: |
+    This project, like the Huff Run Abandoned Mineland Project, was funded by the Ohio Department of Natural Resources, Mineral Resources Management, Division of Abandoned Minelands. Completed in 1989, this was the very first project in the watershed. Sixteen acres of acid producing spoil was covered and revegetated as well as a three acre acidic pond reclaimed. This project is located on Huff Run Road near our Farr Project.
+    
+
+  construction_cost: 
+projects_000006: 
+  completed: "2008-11-27"
+  name: Belden Restoration
+  id: "8"
+  description: "The Belden project was studied and partially designed by the Army Corps of Engineers.  Their plans included reclamation of mine spoil and related land as well as a passive treatment system to treat the remaining seeps with a successive alkaline producing system (vertical flow wetlands). Belden discharges large acid loads directly into Huff Run and is the third worst acid loading site to Huff Run. Funding was secured from a <a href=\"http://www.epa.gov/twg/2005/2005index.html\">US EPA Targeted Watershed grant</a> as well as a grant from the Office of Surface Mining and match from ODNR.  \t\r\n\
+    The restoration project was constructed Fall 2008 and did not include all of the Army Corps' plans. ATC Associates completed the design for $123,000. Their plans included two steel slag leach beds,  reclamation of two ponds, reclamation of about ten acres of gob and toxic clay and steel slag berms across one of the ponds that feeds the leach beds. Belden was constructed by Tuscon from New Philadelphia for $688,330.\r\n\
+    Belden has won many <a href=\"http://www.huffrun.org/awards\">awards.\r\n  "
+  construction_cost: "700000.00"
+projects_000018: 
+  completed: "2008-10-09"
+  name: Hope Road West
+  id: "23"
+  description: "The Hope Road West Project located directly west of the Lindentree Project across Hope Road. The project area consists of two large acid mine drainage water-filled impoundments (each approximately 500 linear feet long) separated by an earthen dam and a haul road. The northern pond is of good quality while the lower pond has a pH of 4.0 and iron measuring 5.5mg/L. The area also includes an acre of exposed toxic spoil to the south. This discharges and spoil contributes low pH, and high acidity and metals loadings directly downstream of the Lindentree project\xC3\xA2\xE2\x82\xAC\xE2\x84\xA2s confluence with Huff Run."
+  construction_cost: "0.00"
+projects_000007: 
+  completed: "2004-04-27"
+  name: HRWRP Acid Pit
+  id: "9"
+  description: |-
+    The HRWRP Acid Pit #1 is a very small area with a large acid pit beside a gob pile. This project was finished in the summer of 2003 to refill the pit, regrade and revegetate the area. Open limestone channels were installed to treat the run off and keep it away from toxic spoil. This site is located West of the Harsha locations. A phase two will take place to improve wetlands leaving the site and reclaim sites contributing to seeps on the project.  	
+    Tuscon of New Philadelphia constructed the project for $150,000. ODNR designed the project. A grant from the Office of Surface Mining and match from the Ohio Department of Natural Resources funded the project.
+  construction_cost: "150000.00"
+projects_000008: 
+  completed: "2009-10-27"
+  name: Thomas Restoration Project
+  id: "12"
+  description: "Thomas is located south west of Linden. The site is composed of approximately twenty acres of surface mine water impoundments and toxic mine spoil. The impoundments are recharging a shallow deep mine, allowing for large contributions of metals and acidity to Huff Run. Plans for restoration include a limestone channel for drainage and erosion control plus a large sediment pond and regrading and revegetation of the spoils and pits. The project was designed by the Ohio Department of Natural Resources (ODNR). Funding was provided by an Ohio EPA 319 grant, an Office of Surface Mining grant and match from ODNR. "
+  construction_cost: "300000.00"
+projects_000009: 
+  completed: "2008-10-27"
+  name: Mineral-Zoar Road Reclamation
+  id: "13"
+  description: "The Mineral-Zoar Road Reclamation Project is the first reverse alkaline producing system (RAPS) in the state of Ohio. The project has removed all acidity and a great deal of acid mine drainage from two coal mines. The project has also decreased flooding in the direct vicinity. This project is located just north of Mineral City on both sides of Mineral Zoar Road. An Office of Surface Mining grant administered by Crossroads RC&D as well as match from the Ohio Department of Natural Resources funded construction which was completed in 2009.  \t"
+  construction_cost: "200000.00"
+projects_000010: 
+  completed: "2003-10-27"
+  name: Huff Run Abandoned Mine Land Project
+  id: "15"
+  description: The Huff Run ALM Reclamation Project was the first major project in the watershed.  It was completed in 1998 to reduce sedimentation and acid loading from a large, unreclaimed surface mine.  The project involved the resoiling and revegetation of over 60 acres, 109,000 cubic yards of earthwork, 1600 linear feet of stream reconstruction and removal of an AMD impoundment. This project was in Mineral City, in the area of the American Legion Hall. The project was designed by ODNR and constructed for only $100,000. Maintenance was done on the project to fix erosion in 2004.
+  construction_cost: "100000.00"
+projects_000011: 
+  completed: "2005-10-27"
+  name: Lindentree Restoration
+  id: "16"
+  description: |-
+    The Lindentree Project was completed in the winter of 2004. The site is northeast of Linden and had consisted of many acidic ponds, high walls and exposed gob piles. The restoration project regraded and revegatated the area along with filling in acid pits and using mill slag and limestone channels to raise alkalinity. An existing wetland on the project site was enhanced. This is one of the first sites in Huff Run to make use of steel slag to boost alkalinity. An Ohio EPA 319 grant administered by Crossroads RC&D funded this project.
+    Baker Consulting designed the project for $60,239 and Monarelli constructed the job for $210,000.
+  construction_cost: "300000.00"
+projects_000012: 
+  completed: "2008-08-15"
+  name: Miller Mining Forfeture/ HR-22
+  id: "17"
+  description: "Located downstream in Tuscarawas County, the HR-22 site was forfeited by the Miller Mining Company. A small tributary from Huff Run flows from large gob piles. This small stream then flows though a forested area but outcroppings of toxic sandstone can be found along its banks and in the stream itself. A reclamation project funded by the Ohio Department of Natural Resources, Division of Mineral Resources Management, Abandoned Mineland Division reclaimed the gob piles during the summer of 2008.  They installed steel slag and limestone channels as well. "
+  construction_cost: "411000.00"
+projects_000001: 
+  completed: "2005-12-23"
+  name: Lyons Restoration
+  id: "2"
+  description: |-
+    The Lyons site was ranked fourth by the watershed group in its initial planning period. It was one of the highest contributors of AMD within the lower reaches of the watershed. The problems were caused by unvegetated coal refuse, open highwalls, acid pits and exposed spoil. Reclamation took place in 2005 and is now complete. The project was funded by the OEPA with administration by Crossroads RC&D. In the spring of 2006, tree seedlings and native grasses and wildflowers were planted on the newly reclaimed areas. A grant from the National Fish and Wildlife Foundation made this possible. Lyons is located near Mineral City, in the South Western part of the watershed.
+    The project was designed by ATC Associates $53,335 and constructed by Malcuit for $794,030.
+  construction_cost: "70000.00"

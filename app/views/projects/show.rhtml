@@ -1,0 +1,40 @@
+<h2 id='page_subtitle'><%= @project.name %></h2>
+<fieldset>
+	<legend>Project Details</legend>
+<p>
+	<%= @project.description %>
+</p>
+<!--
+<p>
+  <b>Construction Cost:</b> 
+  <%# if @project.construction_cost.blank? %>
+   N/A
+  <%# else %>
+  $<%#= sprintf("%.2f", @project.construction_cost ) %>
+  <%# end %>
+</p>
+<p>
+  <b>Completed:</b>
+  <%#=h @project.completed.strftime("%B-%Y") %>
+</p>
+-->
+</fieldset><br />
+<fieldset>
+	<legend>Project Images</legend>
+<% unless @project.project_images.empty? %>
+  <% @project.project_images.each do |pi| %>
+  <div style='float:left;width:300px;margin:12px;padding:5px;border:1px solid #eee;'>
+    <div style="float:left;padding-right:20px;width:100px;">
+      <%= link_to( image_tag(pi.public_filename(:thumb)), pi.public_filename ) %> 
+    </div>
+    <div style='float:left;width:160px;'><%=h pi.caption %></div>
+  </div>	
+  
+  <% end %>
+
+<% end %>
+</fieldset>
+<br />
+
+
+<%= link_to 'Back to Project List', :action => 'index' %>

@@ -1,0 +1,1073 @@
+--- 
+goldberg_roles_000002: 
+  name: Member
+  updated_at: 2010-08-30 12:20:29
+  start_path: 
+  cache: |
+    --- 
+    :menu: !ruby/object:Goldberg::Menu 
+      by_id: 
+        27: &id010 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 33
+          controller_action_id: 
+          id: 27
+          label: Events
+          name: events
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /events
+        16: &id004 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 13
+          controller_action_id: 
+          id: 16
+          label: AMD Projects
+          name: amd_projects
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /projects
+        22: &id008 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 21
+          controller_action_id: 
+          id: 22
+          label: Links
+          name: links
+          parent: 
+          parent_id: 19
+          site_controller_id: 
+          url: /links
+        17: &id012 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 14
+          controller_action_id: 
+          id: 17
+          label: Programming
+          name: programming
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /programming
+        23: &id003 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 38
+          controller_action_id: 
+          id: 23
+          label: Water Quality
+          name: water_quality
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /water_quality
+        1: &id015 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 1
+          controller_action_id: 
+          id: 1
+          label: Home
+          name: home
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /home
+        18: &id002 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 15
+          controller_action_id: 
+          id: 18
+          label: Membership
+          name: membership
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /membership
+        24: &id014 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 37
+          controller_action_id: 
+          id: 24
+          label: Thanks
+          name: thanks
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /thanks
+        2: &id009 !ruby/object:Goldberg::Menu::Node 
+          children: 
+          - 14
+          content_page_id: 6
+          controller_action_id: 
+          id: 2
+          label: Contact Us
+          name: contact_us
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /contact_us
+        19: &id011 !ruby/object:Goldberg::Menu::Node 
+          children: 
+          - 22
+          content_page_id: 16
+          controller_action_id: 
+          id: 19
+          label: Learn More
+          name: leran_more
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /learn_more
+        14: &id013 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 10
+          controller_action_id: 
+          id: 14
+          label: Credits &amp; Licence
+          name: credits
+          parent: 
+          parent_id: 2
+          site_controller_id: 
+          url: /credits
+        25: &id001 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 32
+          controller_action_id: 
+          id: 25
+          label: Publications
+          name: publications
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /publications
+        20: &id005 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 17
+          controller_action_id: 
+          id: 20
+          label: Support Us
+          name: support_us
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /support_us
+        15: &id016 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 12
+          controller_action_id: 
+          id: 15
+          label: Pollution
+          name: pollution
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /pollution
+        26: &id007 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 39
+          controller_action_id: 
+          id: 26
+          label: Meetings
+          name: meetings
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /meetings
+        21: &id006 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 
+          controller_action_id: 24
+          id: 21
+          label: Projects
+          name: projects
+          parent: 
+          parent_id: 3
+          site_controller_id: 12
+          url: /admin/projects
+      by_name: 
+        publications: *id001
+        membership: *id002
+        water_quality: *id003
+        amd_projects: *id004
+        support_us: *id005
+        projects: *id006
+        meetings: *id007
+        links: *id008
+        contact_us: *id009
+        events: *id010
+        leran_more: *id011
+        programming: *id012
+        credits: *id013
+        thanks: *id014
+        home: *id015
+        pollution: *id016
+      crumbs: 
+      - 1
+      root: &id017 !ruby/object:Goldberg::Menu::Node 
+        children: 
+        - 1
+        - 26
+        - 15
+        - 16
+        - 23
+        - 17
+        - 19
+        - 27
+        - 20
+        - 18
+        - 25
+        - 2
+        - 24
+        parent: 
+      selected: 
+        1: *id015
+      vector: 
+      - *id017
+      - *id015
+    :credentials: !ruby/object:Goldberg::Credentials 
+      actions: 
+        goldberg/site_controllers: 
+          list: false
+        goldberg/menu_items: 
+          list: false
+          link: true
+        goldberg/system_settings: 
+          list: false
+        goldberg/permissions: 
+          list: false
+        goldberg/roles: 
+          list: false
+        goldberg/content_pages: 
+          list: false
+          view_default: true
+          view: true
+        admin/projects: 
+          index: true
+        goldberg/auth: 
+          logout: true
+          login_failed: true
+          forgotten: true
+          login: true
+        goldberg/users: 
+          self_register: true
+          forgot_password: true
+          list: false
+          reset_password: true
+          forgot_password_submit: true
+          reset_password_submit: true
+          confirm_registration: true
+          self_create: true
+          confirm_registration_submit: true
+        goldberg/controller_actions: 
+          list: false
+      controllers: 
+        projects: true
+        goldberg/roles_permissions: false
+        goldberg/site_controllers: false
+        goldberg/menu_items: false
+        goldberg/system_settings: false
+        goldberg/roles: false
+        goldberg/permissions: false
+        goldberg/content_pages: false
+        admin/projects: false
+        goldberg/auth: false
+        goldberg/users: false
+        goldberg/controller_actions: false
+      pages: 
+        photo_contest: true
+        publications: true
+        watershed: true
+        membership: true
+        calendar: true
+        5KFunMile: true
+        water_quality: true
+        oil_gas: true
+        kayak: true
+        huff_history: true
+        minutes_archive: true
+        amd: true
+        dumping: true
+        support_us: true
+        awards: true
+        projects: true
+        admin: false
+        notfound: true
+        maps: true
+        riparian: true
+        learn_more: true
+        site_admin: false
+        bottle: true
+        fishy_news: true
+        meetings: true
+        blue_box: true
+        ag: true
+        unconfirmed: true
+        AmeriCorps: true
+        events: true
+        funding: true
+        links: true
+        programming: true
+        contact_us: true
+        orange_box: true
+        bylaws: true
+        sewage: true
+        credits: true
+        thanks: true
+        denied: true
+        expired: true
+        home: true
+        pollution: true
+      permission_ids: 
+      - 5
+      - 4
+      - 3
+      role_id: 2
+      role_ids: 
+      - 2
+      - 1
+      updated_at: 2010-08-30 12:20:29 -04:00
+
+  default_page_id: 
+  id: "2"
+  description: ""
+  parent_id: "1"
+  created_at: 2006-06-23 21:03:50
+goldberg_roles_000003: 
+  name: Administrator
+  updated_at: 2010-08-30 12:20:30
+  start_path: /menu/admin
+  cache: |
+    --- 
+    :menu: !ruby/object:Goldberg::Menu 
+      by_id: 
+        5: &id015 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 
+          controller_action_id: 4
+          id: 5
+          label: Permissions
+          name: setup/permissions
+          parent: 
+          parent_id: 9
+          site_controller_id: 6
+          url: /goldberg/permissions/list
+        27: &id018 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 33
+          controller_action_id: 
+          id: 27
+          label: Events
+          name: events
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /events
+        16: &id007 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 13
+          controller_action_id: 
+          id: 16
+          label: AMD Projects
+          name: amd_projects
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /projects
+        22: &id014 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 21
+          controller_action_id: 
+          id: 22
+          label: Links
+          name: links
+          parent: 
+          parent_id: 19
+          site_controller_id: 
+          url: /links
+        11: &id008 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 
+          controller_action_id: 11
+          id: 11
+          label: Menu Editor
+          name: setup/menus
+          parent: 
+          parent_id: 9
+          site_controller_id: 5
+          url: /goldberg/menu_items/list
+        6: &id010 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 
+          controller_action_id: 3
+          id: 6
+          label: Roles
+          name: setup/roles
+          parent: 
+          parent_id: 9
+          site_controller_id: 7
+          url: /goldberg/roles/list
+        17: &id020 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 14
+          controller_action_id: 
+          id: 17
+          label: Programming
+          name: programming
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /programming
+        12: &id005 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 
+          controller_action_id: 12
+          id: 12
+          label: System Settings
+          name: setup/system_settings
+          parent: 
+          parent_id: 9
+          site_controller_id: 9
+          url: /goldberg/system_settings/list
+        23: &id006 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 38
+          controller_action_id: 
+          id: 23
+          label: Water Quality
+          name: water_quality
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /water_quality
+        1: &id024 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 1
+          controller_action_id: 
+          id: 1
+          label: Home
+          name: home
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /home
+        7: &id002 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 
+          controller_action_id: 8
+          id: 7
+          label: Content Pages
+          name: setup/pages
+          parent: 
+          parent_id: 3
+          site_controller_id: 1
+          url: /goldberg/content_pages/list
+        18: &id004 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 15
+          controller_action_id: 
+          id: 18
+          label: Membership
+          name: membership
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /membership
+        13: &id001 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 
+          controller_action_id: 15
+          id: 13
+          label: Users
+          name: setup/users
+          parent: 
+          parent_id: 9
+          site_controller_id: 10
+          url: /goldberg/users/list
+        24: &id023 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 37
+          controller_action_id: 
+          id: 24
+          label: Thanks
+          name: thanks
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /thanks
+        2: &id017 !ruby/object:Goldberg::Menu::Node 
+          children: 
+          - 14
+          content_page_id: 6
+          controller_action_id: 
+          id: 2
+          label: Contact Us
+          name: contact_us
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /contact_us
+        8: &id022 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 
+          controller_action_id: 9
+          id: 8
+          label: Controllers / Actions
+          name: setup/controllers
+          parent: 
+          parent_id: 9
+          site_controller_id: 8
+          url: /goldberg/site_controllers/list
+        19: &id019 !ruby/object:Goldberg::Menu::Node 
+          children: 
+          - 22
+          content_page_id: 16
+          controller_action_id: 
+          id: 19
+          label: Learn More
+          name: leran_more
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /learn_more
+        14: &id021 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 10
+          controller_action_id: 
+          id: 14
+          label: Credits &amp; Licence
+          name: credits
+          parent: 
+          parent_id: 2
+          site_controller_id: 
+          url: /credits
+        3: &id012 !ruby/object:Goldberg::Menu::Node 
+          children: 
+          - 9
+          - 21
+          - 7
+          content_page_id: 9
+          controller_action_id: 
+          id: 3
+          label: Administration
+          name: admin
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /admin
+        25: &id003 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 32
+          controller_action_id: 
+          id: 25
+          label: Publications
+          name: publications
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /publications
+        9: &id016 !ruby/object:Goldberg::Menu::Node 
+          children: 
+          - 13
+          - 6
+          - 5
+          - 8
+          - 11
+          - 12
+          content_page_id: 8
+          controller_action_id: 
+          id: 9
+          label: Setup
+          name: setup
+          parent: 
+          parent_id: 3
+          site_controller_id: 
+          url: /site_admin
+        20: &id009 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 17
+          controller_action_id: 
+          id: 20
+          label: Support Us
+          name: support_us
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /support_us
+        15: &id025 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 12
+          controller_action_id: 
+          id: 15
+          label: Pollution
+          name: pollution
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /pollution
+        26: &id013 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 39
+          controller_action_id: 
+          id: 26
+          label: Meetings
+          name: meetings
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /meetings
+        21: &id011 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 
+          controller_action_id: 24
+          id: 21
+          label: Projects
+          name: projects
+          parent: 
+          parent_id: 3
+          site_controller_id: 12
+          url: /admin/projects
+      by_name: 
+        setup/users: *id001
+        setup/pages: *id002
+        publications: *id003
+        membership: *id004
+        setup/system_settings: *id005
+        water_quality: *id006
+        amd_projects: *id007
+        setup/menus: *id008
+        support_us: *id009
+        setup/roles: *id010
+        projects: *id011
+        admin: *id012
+        meetings: *id013
+        links: *id014
+        setup/permissions: *id015
+        setup: *id016
+        contact_us: *id017
+        events: *id018
+        leran_more: *id019
+        programming: *id020
+        credits: *id021
+        setup/controllers: *id022
+        thanks: *id023
+        home: *id024
+        pollution: *id025
+      crumbs: 
+      - 1
+      root: &id026 !ruby/object:Goldberg::Menu::Node 
+        children: 
+        - 1
+        - 26
+        - 15
+        - 16
+        - 23
+        - 17
+        - 19
+        - 27
+        - 20
+        - 18
+        - 25
+        - 2
+        - 24
+        - 3
+        parent: 
+      selected: 
+        1: *id024
+      vector: 
+      - *id026
+      - *id024
+    :credentials: !ruby/object:Goldberg::Credentials 
+      actions: 
+        goldberg/site_controllers: 
+          list: true
+        goldberg/menu_items: 
+          list: true
+          link: true
+        goldberg/system_settings: 
+          list: true
+        goldberg/permissions: 
+          list: true
+        goldberg/roles: 
+          list: true
+        goldberg/content_pages: 
+          list: true
+          view_default: true
+          view: true
+        admin/projects: 
+          index: true
+        goldberg/auth: 
+          logout: true
+          login_failed: true
+          forgotten: true
+          login: true
+        goldberg/users: 
+          self_register: true
+          forgot_password: true
+          list: true
+          reset_password: true
+          forgot_password_submit: true
+          reset_password_submit: true
+          confirm_registration: true
+          self_create: true
+          confirm_registration_submit: true
+        goldberg/controller_actions: 
+          list: true
+      controllers: 
+        projects: true
+        goldberg/roles_permissions: true
+        goldberg/site_controllers: true
+        goldberg/menu_items: true
+        goldberg/system_settings: true
+        goldberg/roles: true
+        goldberg/permissions: true
+        goldberg/content_pages: true
+        admin/projects: true
+        goldberg/auth: true
+        goldberg/users: true
+        goldberg/controller_actions: true
+      pages: 
+        photo_contest: true
+        publications: true
+        watershed: true
+        membership: true
+        calendar: true
+        5KFunMile: true
+        water_quality: true
+        oil_gas: true
+        kayak: true
+        huff_history: true
+        minutes_archive: true
+        amd: true
+        dumping: true
+        support_us: true
+        awards: true
+        projects: true
+        admin: true
+        notfound: true
+        maps: true
+        riparian: true
+        learn_more: true
+        site_admin: true
+        bottle: true
+        fishy_news: true
+        meetings: true
+        blue_box: true
+        ag: true
+        unconfirmed: true
+        AmeriCorps: true
+        events: true
+        funding: true
+        links: true
+        programming: true
+        contact_us: true
+        orange_box: true
+        bylaws: true
+        sewage: true
+        credits: true
+        thanks: true
+        denied: true
+        expired: true
+        home: true
+        pollution: true
+      permission_ids: 
+      - 1
+      - 5
+      - 4
+      - 2
+      - 3
+      role_id: 3
+      role_ids: 
+      - 3
+      - 2
+      - 1
+      updated_at: 2010-08-30 12:20:30 -04:00
+
+  default_page_id: "8"
+  id: "3"
+  description: ""
+  parent_id: "2"
+  created_at: 2006-06-23 21:03:48
+goldberg_roles_000001: 
+  name: Public
+  updated_at: 2010-08-30 12:20:29
+  start_path: 
+  cache: |
+    --- 
+    :menu: !ruby/object:Goldberg::Menu 
+      by_id: 
+        27: &id010 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 33
+          controller_action_id: 
+          id: 27
+          label: Events
+          name: events
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /events
+        16: &id004 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 13
+          controller_action_id: 
+          id: 16
+          label: AMD Projects
+          name: amd_projects
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /projects
+        22: &id008 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 21
+          controller_action_id: 
+          id: 22
+          label: Links
+          name: links
+          parent: 
+          parent_id: 19
+          site_controller_id: 
+          url: /links
+        17: &id012 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 14
+          controller_action_id: 
+          id: 17
+          label: Programming
+          name: programming
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /programming
+        23: &id003 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 38
+          controller_action_id: 
+          id: 23
+          label: Water Quality
+          name: water_quality
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /water_quality
+        1: &id015 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 1
+          controller_action_id: 
+          id: 1
+          label: Home
+          name: home
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /home
+        18: &id002 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 15
+          controller_action_id: 
+          id: 18
+          label: Membership
+          name: membership
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /membership
+        24: &id014 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 37
+          controller_action_id: 
+          id: 24
+          label: Thanks
+          name: thanks
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /thanks
+        2: &id009 !ruby/object:Goldberg::Menu::Node 
+          children: 
+          - 14
+          content_page_id: 6
+          controller_action_id: 
+          id: 2
+          label: Contact Us
+          name: contact_us
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /contact_us
+        19: &id011 !ruby/object:Goldberg::Menu::Node 
+          children: 
+          - 22
+          content_page_id: 16
+          controller_action_id: 
+          id: 19
+          label: Learn More
+          name: leran_more
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /learn_more
+        14: &id013 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 10
+          controller_action_id: 
+          id: 14
+          label: Credits &amp; Licence
+          name: credits
+          parent: 
+          parent_id: 2
+          site_controller_id: 
+          url: /credits
+        25: &id001 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 32
+          controller_action_id: 
+          id: 25
+          label: Publications
+          name: publications
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /publications
+        20: &id005 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 17
+          controller_action_id: 
+          id: 20
+          label: Support Us
+          name: support_us
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /support_us
+        15: &id016 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 12
+          controller_action_id: 
+          id: 15
+          label: Pollution
+          name: pollution
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /pollution
+        26: &id007 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 39
+          controller_action_id: 
+          id: 26
+          label: Meetings
+          name: meetings
+          parent: 
+          parent_id: 
+          site_controller_id: 
+          url: /meetings
+        21: &id006 !ruby/object:Goldberg::Menu::Node 
+          content_page_id: 
+          controller_action_id: 24
+          id: 21
+          label: Projects
+          name: projects
+          parent: 
+          parent_id: 3
+          site_controller_id: 12
+          url: /admin/projects
+      by_name: 
+        publications: *id001
+        membership: *id002
+        water_quality: *id003
+        amd_projects: *id004
+        support_us: *id005
+        projects: *id006
+        meetings: *id007
+        links: *id008
+        contact_us: *id009
+        events: *id010
+        leran_more: *id011
+        programming: *id012
+        credits: *id013
+        thanks: *id014
+        home: *id015
+        pollution: *id016
+      crumbs: 
+      - 1
+      root: &id017 !ruby/object:Goldberg::Menu::Node 
+        children: 
+        - 1
+        - 26
+        - 15
+        - 16
+        - 23
+        - 17
+        - 19
+        - 27
+        - 20
+        - 18
+        - 25
+        - 2
+        - 24
+        parent: 
+      selected: 
+        1: *id015
+      vector: 
+      - *id017
+      - *id015
+    :credentials: !ruby/object:Goldberg::Credentials 
+      actions: 
+        goldberg/site_controllers: 
+          list: false
+        goldberg/menu_items: 
+          list: false
+          link: true
+        goldberg/system_settings: 
+          list: false
+        goldberg/permissions: 
+          list: false
+        goldberg/roles: 
+          list: false
+        goldberg/content_pages: 
+          list: false
+          view_default: true
+          view: true
+        admin/projects: 
+          index: true
+        goldberg/auth: 
+          logout: true
+          login_failed: true
+          forgotten: true
+          login: true
+        goldberg/users: 
+          self_register: true
+          forgot_password: true
+          list: false
+          reset_password: true
+          forgot_password_submit: true
+          reset_password_submit: true
+          confirm_registration: true
+          self_create: true
+          confirm_registration_submit: true
+        goldberg/controller_actions: 
+          list: false
+      controllers: 
+        projects: true
+        goldberg/roles_permissions: false
+        goldberg/site_controllers: false
+        goldberg/menu_items: false
+        goldberg/system_settings: false
+        goldberg/roles: false
+        goldberg/permissions: false
+        goldberg/content_pages: false
+        admin/projects: false
+        goldberg/auth: false
+        goldberg/users: false
+        goldberg/controller_actions: false
+      pages: 
+        photo_contest: true
+        publications: true
+        watershed: true
+        membership: true
+        calendar: true
+        5KFunMile: true
+        water_quality: true
+        oil_gas: true
+        kayak: true
+        huff_history: true
+        minutes_archive: true
+        amd: true
+        dumping: true
+        support_us: true
+        awards: true
+        projects: true
+        admin: false
+        notfound: true
+        maps: true
+        riparian: true
+        learn_more: true
+        site_admin: false
+        bottle: true
+        fishy_news: true
+        meetings: true
+        blue_box: true
+        ag: true
+        unconfirmed: true
+        AmeriCorps: true
+        events: true
+        funding: true
+        links: true
+        programming: true
+        contact_us: true
+        orange_box: true
+        bylaws: true
+        sewage: true
+        credits: true
+        thanks: true
+        denied: true
+        expired: true
+        home: true
+        pollution: true
+      permission_ids: 
+      - 4
+      - 3
+      role_id: 1
+      role_ids: 
+      - 1
+      updated_at: 2010-08-30 12:20:29 -04:00
+
+  default_page_id: 
+  id: "1"
+  description: Members of the public who are not logged in.
+  parent_id: 
+  created_at: 2006-06-23 21:03:49

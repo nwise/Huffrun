@@ -1,0 +1,454 @@
+/* layout.css
+
+andreas09 v1.0 (Dec 10th 2005) - An open source template by Andreas
+Viklund - http://andreasviklund.com. Free to use for any purpose as
+long as the proper credits are given to the original author.
+*/
+
+body {
+	width:100%;
+	height:100%;
+	color:#303030;
+	font:76% Verdana,Tahoma,Arial,sans-serif;
+	margin:0;
+	padding:0;
+	text-align:center;
+	background: url(/images/fade.jpg) repeat-x;
+}
+
+a {
+	color:#505050;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+a:hover {
+	color:#808080;
+	text-decoration:none;
+}
+
+p {
+	line-height:1.5em;
+	margin:0 0 15px;
+}
+div.page{
+	width:100%;
+	height:100%;
+        margin-left:auto;
+	margin-right:auto;
+}
+/*** Main container ***/
+
+div.container {
+        width:1024px;	
+        top:0;
+        background:url(/images/background_2.jpg) center no-repeat;
+        height:768px;
+        margin-left:auto;
+        margin-right:auto;
+}
+div.wrapper{
+      float:left;	
+      height:100%;	
+}
+div.banner {
+	float:left;
+	width:1000px;
+	height:85px;
+	background-color:transparent;
+	margin:40px 0px 0px 0px;
+	clear:both;
+}
+div.banner img{
+  float:left;	
+}
+/*** Header section ***/
+
+div.header {
+color:#ffffff;
+height:85px;
+margin:0 20px 10px;
+text-align:left;
+}
+
+div.header img.logo_right {  
+float: right ;
+height:85px ;
+margin:0 0 0 0px ;
+border:0 0 0 0px ;
+}
+
+div.header p {
+line-height:1.5em;
+margin:0 0 0px;
+}
+
+div.header p.right_text { 
+text-align: right ;
+}
+
+div.header h1, div.header h2 {
+font-weight:400;
+letter-spacing:-2px;
+margin:0;
+padding:0;
+}
+
+div.header h1 {
+font-size:2.4em;
+padding-top:15px;
+}
+
+div.header h2 {
+font-size:1.6em;
+}
+
+/*** Horizontal menu ***/
+
+div.mainmenu {
+	float:left;
+	margin-bottom:25px;
+	text-align:right;
+	width:8.75em;
+	clear:left;
+	padding: 0px 0px 0px 0px;
+	margin:  0.63em 33px 0px 0px;	
+}
+
+div.mainmenu ul {	
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+div.mainmenu li {
+	float:right;
+	width:8.13em;
+	padding:0px 7px 0px 0px;
+	margin:0;
+}
+
+div.mainmenu li.selected a {
+	float:right;
+	width:8.13em;
+	color:#FB733F;	
+	text-decoration:none;
+}
+
+div.mainmenu a {
+	color:#000;
+	display:block;
+	margin:4px 0px 0px 0px;
+	padding:4px 0px 0px 0px;
+        text-decoration:none;
+
+}
+
+div.mainmenu a:hover {
+	width:8.13em;
+	color:#FB733F;
+	text-decoration:none;
+}
+
+
+
+/*** Content wrap ***/
+
+div.wrap {
+	font-size:0.9em;
+	padding:0px 0px 0px 0px ;
+	background-color:#5071B6;
+	border-left:1px solid #000;
+}
+div#center_content{        
+	float:left;	
+	margin:35px 0px 0px 0px;
+        
+}
+#center_wrap{
+	width:608px;
+	float:left;
+}
+div#center_top{
+	/* fixed height */
+	float:left;
+	clear:right;
+	height:14px;
+	width:608px;
+}
+div#center_top_left{
+	float:left;
+	width:12px;
+	height:14px;
+	background: url(/images/center_top_left.png) no-repeat;
+}
+div#center_top_middle{
+	float:left;
+	width:584px;
+	height:14px;
+	background: url(/images/center_top_middle.png) repeat-x;
+}
+div#center_top_right{
+	float:left;
+	width:12px;
+	height:14px;
+	background: url(/images/center_top_right.png) no-repeat;	
+}
+
+div#center_middle{
+	float:left;
+	width:608px;
+	background: url(/images/center_middle.png) repeat-y;
+	
+}
+div#center_middle_left{
+	float:left;
+	width:12px;
+	height:100%;
+	background: url(/images/center_middle_left.png) repeat-x;
+}
+div#center_middle_center{
+	float:left;
+	background: #fff;
+	width:565px;
+	margin-left:15px;
+	padding:0px 0px 0px 10px;
+        text-align:left;        
+}
+div#center_middle_right{
+	float:left;
+	width:12px;
+	height:100%;
+	background: url(/images/center_middle_right.png) repeat-x;	
+}
+
+div#center_bottom{
+	/* fixed height */
+	float:left;
+	
+	height:14px;
+	width:608px;
+}
+div#center_bottom_left{
+	float:left;
+	width:12px;
+	height:14px;
+	background: url(/images/center_bottom_left.png) no-repeat;
+}
+div#center_bottom_middle{
+	float:left;
+	width:584px;
+	height:14px;
+	background: url(/images/center_bottom_middle.png) repeat-x;
+}
+div#center_bottom_right{
+	float:left;
+	width:12px;
+	height:14px;
+	background: url(/images/center_bottom_right.png) no-repeat;	
+}
+
+div#right_side{	
+        float:right;
+        
+        left:820px;
+        margin:35px 70px 0px 0px;
+        padding:0px 0px 0px 0px;
+        width:177px;
+        height:300px;	
+}
+div.orange_box{
+	clear:right;
+}
+div.orange_top{
+	width:177px;
+	height:37px;                
+	background: url(/images/orange_top.png) no-repeat;
+}
+div.blue_box{
+	margin-top:40px;
+}
+div.blue_top{
+	width:177px;
+	height:37px;        
+	background: url(/images/blue_top.png) no-repeat;
+}
+div.blue_top > p{
+        color:#fff;
+        font-size:12px;
+        padding-top:7px;
+        font-weight:bolder;
+        text-transform:uppercase;
+}
+div.orange_top > p{
+        color:#fff;
+        font-size:12px;
+        padding-top:7px;
+        font-weight:bolder;
+        text-transform:uppercase;
+}
+div.right_middle{
+	width:157px;
+        text-align:left;
+	background: url(/images/right_middle.png) repeat-y;	
+	padding:10px;
+}
+div.right_bottom{
+	height:14px;
+	width:177px;
+	background: url(/images/right_bottom.png) no-repeat;	
+}
+/*** Sidebars ***/
+
+div.leftside,div.rightside {
+	margin:0;
+	padding:0 10px 10px;
+	width:165px;
+}
+
+div.leftside {
+	float:left;
+	margin-right:10px;
+}
+
+div.rightside {
+	float:right;
+	margin-left:10px;
+}
+
+div.leftside h1, div.rightside h1 {
+	color:#505050;
+	font-size:1.6em;
+	font-weight:bold;
+	letter-spacing:-1px;
+	margin:0 0 12px;
+}
+
+div.leftside h2, div.rightside h2 {
+	font-size:1.1em;
+	margin:0 0 20px;
+}
+
+div.leftside p, div.rightside p {
+	font-size:0.9em;
+	line-height:1.4em;
+	margin:0 0 16px 10px;
+}
+
+.linklist {
+	list-style:none;
+	margin:0 0 16px 10px;
+	padding:0;
+}
+
+.linklist li {margin-bottom:0.7em;}
+#clearing{clear:both;}
+
+
+/*** Content ***/
+
+.content {
+	float:right;
+	width: 610px;
+	background-color:#fff;
+	margin:0;
+	color:#2a2a2a;
+	padding: 10px 0px 0px 15px;
+	
+}
+
+div.content h1, div.content h2 {
+	background-color:inherit;
+	color:#606060;
+	font-size:1.8em;
+	font-weight:bold;
+	letter-spacing:-1px;
+	margin:0 0 15px;
+	padding:0;
+}
+
+div.content h2 {
+	font-size:1.6em;
+	margin-bottom:10px;
+}
+
+/*** Footer ***/
+
+div.footer {
+	background:#8b8b8b url(/images/footerbg.jpg) top left repeat-x;
+	clear:both;
+	color:#d0d0d0;
+	font-size:0.9em;
+	font-weight:bold;
+	margin:0;
+	padding:20px 0;
+	text-align:center;
+	width:770px;
+	margin-left:auto;
+	margin-right:auto;
+}
+div#footer{
+    float:left;
+    width:540px;
+    border-top:1px solid #ccc; 
+    margin:10px 0px 0px 30px;
+    padding-top:5px;
+}
+div.footer a {
+	color:#d0d0d0;
+	font-weight:bold;
+}
+
+/*** Various classes ***/
+
+.thumbnail {
+	background:#fafbfc;
+	border:1px solid #b0b0b0;
+	margin:0 0 10px 10px;
+	padding:5px;
+}
+
+
+.searchform {margin:0;}
+
+.searchbox {
+	background:#f0f0f0;
+	border:1px solid #b0b0b0;
+	margin:0 4px 0 0;
+	width:100px;
+}
+
+input[type="submit"] {
+	background:#f0f0f0;
+	border:1px solid #b0b0b0;
+}
+
+input[type="submit"]:hover {
+	background:#f8f9fa;
+	border:1px solid #909090;
+	color:#303030;
+}
+
+
+.clearingdiv {
+	clear:both;
+	height:30px;
+	width:1px;
+}
+
+.hide {display:none;}
+
+/*** Text format ***/
+
+.intro {
+	font-size:1.1em;
+	font-weight:bold;
+	letter-spacing:-1px;
+}
+
+.small {font-size:0.8em;}
+.large {font-size:1.4em;}
+.center {text-align:center;}
+.right {text-align:right;}
+
+/*** End of file ***/

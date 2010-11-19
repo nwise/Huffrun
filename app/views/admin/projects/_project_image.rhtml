@@ -1,0 +1,33 @@
+<fieldset>
+	<legend>Add Image</legend
+<%= error_messages_for :project_image %>
+
+<% form_for(:project_image, :url => add_image_project_url, 
+                      :html => { :multipart => true }) do |f| -%>
+  <p>
+    <label for="project_image_uploaded_data">Upload an Image:</label>
+    <%= f.file_field :uploaded_data %>
+  </p>
+  <p>
+    <label for="project_image_caption">Caption:</label>
+    <%= f.text_field :caption %>
+  </p>    
+  <p>
+    <%= submit_tag 'Add Image' %>
+  </p>
+<% end -%>
+</fieldset>
+<fieldset>
+	<legend>Project Images</legend>
+<% for project_image in @project.project_images %>
+	<%= link_to( image_tag(project_image.public_filename(:thumb)), project_image.public_filename) %> 
+	<%= project_image.caption %>
+	<%= link_to image_tag('remove.png'), delete_project_image_path( @project, project_image ), 
+               :image_id => project_image.id, 
+               :method => :post,
+			:confirm => 'Are you sure you want to delete this image?' %>
+	<br />
+<% end %>
+</fieldset>
+
+<br />

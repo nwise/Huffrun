@@ -1,0 +1,22 @@
+<table class="projects_table">  
+<% for project in @projects %>
+  <tr class='projects_table<%= cycle("_even", "_odd") %>'>
+  	<td class='project_name_cell'><%= link_to( project.name, { :action => 'show', :id => project.id } ) %></td> 
+	<td class='project_description_cell'>
+		<% if project.description.length > 250 %>
+		<%= project.description.slice(0..250) + '...' %>
+		<% else %>
+		<%= project.description %>
+		<% end %>
+	<td class='project_image_cell'> 
+		<% unless project.project_images.empty? -%>
+	    	<%= image_tag(project.project_images.first.public_filename(:thumb)) %>
+		<% end -%>
+	</td>
+  </tr>
+<% end %>
+</table>
+
+<%= link_to 'Previous page', { :page => @project_pages.current.previous } if @project_pages.current.previous %>
+<%= link_to 'Next page', { :page => @project_pages.current.next } if @project_pages.current.next %> 
+

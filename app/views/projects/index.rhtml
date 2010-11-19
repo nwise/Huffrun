@@ -1,0 +1,23 @@
+<h2>AMD Projects</h2>
+<% for project in @projects -%>
+  <div class='projects_table<%= cycle("_even", "_odd") %>'>
+  	<div class='project_name_cell'>
+  		<h3><%= link_to( project.name, { :action => 'show', :id => project.id } ) %></h3>
+	</div> 
+	<div class='project_image_cell'> 
+		<% unless project.project_images.empty? -%>
+	    	<%= image_tag(project.project_images.first.public_filename(:thumb)) %>
+		<% end -%>
+	</div>
+	<div class='project_description_cell'>
+		<% if project.description.length > 250 -%>
+		<%= project.description.slice(0..250) + '...' %>
+		<% else -%>
+		<%= project.description %>
+		<% end -%>&nbsp;
+		<%= link_to( 'Read More', { :action => 'show', :id => project.id } ) %>
+	</div>
+
+  </div>
+<% end -%>
+</table>

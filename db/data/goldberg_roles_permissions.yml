@@ -1,0 +1,21 @@
+--- 
+goldberg_roles_permissions_000003: 
+  permission_id: "2"
+  role_id: "3"
+  id: "7"
+goldberg_roles_permissions_000004: 
+  permission_id: "4"
+  role_id: "1"
+  id: "9"
+goldberg_roles_permissions_000005: 
+  permission_id: "5"
+  role_id: "2"
+  id: "10"
+goldberg_roles_permissions_000001: 
+  permission_id: "1"
+  role_id: "3"
+  id: "4"
+goldberg_roles_permissions_000002: 
+  permission_id: "3"
+  role_id: "1"
+  id: "6"
