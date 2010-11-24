@@ -1,10 +1,479 @@
 --- 
+goldberg_content_pages_000034: 
+  markup_style_id: 
+  name: thanks
+  created_at: 2008-09-15 11:23:19
+  permission_id: "3"
+  title: Thanks
+  updated_at: 2009-12-02 08:25:18
+  id: "37"
+  content: |-
+    <div align="left">
+    <h2><font color="#003366">Thank You </font></h2>
+    </div>
+    <p>
+    <table height="93" width="487" cellspacing="1" cellpadding="1" border="1">
+        <tbody>
+            <tr>
+                <td align="center"><img height="41" width="41" src="/files/Image/wrl_logo.gif" alt="" /></td>
+                <td>Thank you to <a target="_blank" href="http://www.wrladv.com">WRL Advertising</a> for designing, programming and hosting our website.</td>
+            </tr>
+            <tr>
+                <td align="center"><img height="43" width="45" src="/files/Image/ra_logo2.jpg" alt="" /></td>
+                <td><a target="_blank" href="http://www.ruralaction.org">Rural Action</a> is the sponsor of the HRWRP providing fiscal management, administration, oversite and technical assistance.</td>
+            </tr>
+            <tr>
+                <td align="center"><img height="48" width="48" src="/files/Image/US_EPA_logo.gif" alt="" /></td>
+                <td>Funding for this site was provided by <a target="_blank" href="http://www.epa.gov">US EPA</a>'s <a target="_blank" href="http://www.epa.gov/twg/">Targeted Watershed Grant Program</a>.</td>
+            </tr>
+            <tr>
+                <td align="center"><img height="38" width="50" alt="" src="/files/Image/DMRM2.JPG" /></td>
+                <td>Without the help of the <a target="_blank" href="http://www.ohiodnr.com/mineral/default/tabid/10352/Default.aspx">Ohio Department of Natural Resources, Division of Mineral Resources Management</a>, none of the work at Huff Run would ever happen. Their knowledge, engineering, and funds support the Partnership and their work.</td>
+            </tr>
+        </tbody>
+    </table>
+    <br />
+    The heron background photo is used with permission from Michelle Plauger.</p>
+    <p>&nbsp;</p>
+  markup_style: FCKeditor
+  content_cache: |-
+    <div align="left">
+    <h2><font color="#003366">Thank You </font></h2>
+    </div>
+    <p>
+    <table height="93" width="487" cellspacing="1" cellpadding="1" border="1">
+        <tbody>
+            <tr>
+                <td align="center"><img height="41" width="41" src="/files/Image/wrl_logo.gif" alt="" /></td>
+                <td>Thank you to <a target="_blank" href="http://www.wrladv.com">WRL Advertising</a> for designing, programming and hosting our website.</td>
+            </tr>
+            <tr>
+                <td align="center"><img height="43" width="45" src="/files/Image/ra_logo2.jpg" alt="" /></td>
+                <td><a target="_blank" href="http://www.ruralaction.org">Rural Action</a> is the sponsor of the HRWRP providing fiscal management, administration, oversite and technical assistance.</td>
+            </tr>
+            <tr>
+                <td align="center"><img height="48" width="48" src="/files/Image/US_EPA_logo.gif" alt="" /></td>
+                <td>Funding for this site was provided by <a target="_blank" href="http://www.epa.gov">US EPA</a>'s <a target="_blank" href="http://www.epa.gov/twg/">Targeted Watershed Grant Program</a>.</td>
+            </tr>
+            <tr>
+                <td align="center"><img height="38" width="50" alt="" src="/files/Image/DMRM2.JPG" /></td>
+                <td>Without the help of the <a target="_blank" href="http://www.ohiodnr.com/mineral/default/tabid/10352/Default.aspx">Ohio Department of Natural Resources, Division of Mineral Resources Management</a>, none of the work at Huff Run would ever happen. Their knowledge, engineering, and funds support the Partnership and their work.</td>
+            </tr>
+        </tbody>
+    </table>
+    <br />
+    The heron background photo is used with permission from Michelle Plauger.</p>
+    <p>&nbsp;</p>
+goldberg_content_pages_000023: 
+  markup_style_id: 
+  name: sewage
+  created_at: 2008-03-24 09:55:35
+  permission_id: "3"
+  title: Raw Sewage
+  updated_at: 2008-11-17 10:02:37
+  id: "26"
+  content: |-
+    <h2><font color="#000080">Raw Sewage</font></h2>
+    <p><img height="129" align="right" width="297" style="padding-left: 10px;" src="/files/Image/septic_tank_diagram3.JPG" alt="" />Fecal coliform levels are above Ohio EPA&rsquo;s primary contact standard in parts of Huff Run and its tributaries as measured by County Health Departments.<br />
+    <br />
+    Failing septic systems have been identified as a concern affecting water quality within Huff Run as well as an out dated sewer system in Mineral City. Many rounds of bacteriological sampling have been conducted along Huff Run and its major tributaries. Most test results were positive for E-coli and high levels of fecal coliform, chemical biological oxygen demand (CBOD) and ammonia. <br />
+    <br />
+    Many human health risks can be attributed to improper sewage disposal. Raw sewage contains various pathogens that are easily transmitted through open waterways. This is a particular concern in the recreational areas in Huff Run. The Jerry Shuman Ball fields and the Mineral City Park both have tributaries running right along them that are affected.&nbsp; Individuals coming into contact with contaminated water can contract illnesses such as typhoid, tuberculosis, dysentery, cholera, tetanus, hepatitis, and several types of gastroenteritis. Several types of internal parasites are also present in sewage, along with a number of fungal diseases.<br />
+    Also, the health of aquatic species can be adversely impacted leaving them vulnerable to disease after coming in contact with fecal coliform.</p>
+  markup_style: FCKeditor
+  content_cache: |-
+    <h2><font color="#000080">Raw Sewage</font></h2>
+    <p><img height="129" align="right" width="297" style="padding-left: 10px;" src="/files/Image/septic_tank_diagram3.JPG" alt="" />Fecal coliform levels are above Ohio EPA&rsquo;s primary contact standard in parts of Huff Run and its tributaries as measured by County Health Departments.<br />
+    <br />
+    Failing septic systems have been identified as a concern affecting water quality within Huff Run as well as an out dated sewer system in Mineral City. Many rounds of bacteriological sampling have been conducted along Huff Run and its major tributaries. Most test results were positive for E-coli and high levels of fecal coliform, chemical biological oxygen demand (CBOD) and ammonia. <br />
+    <br />
+    Many human health risks can be attributed to improper sewage disposal. Raw sewage contains various pathogens that are easily transmitted through open waterways. This is a particular concern in the recreational areas in Huff Run. The Jerry Shuman Ball fields and the Mineral City Park both have tributaries running right along them that are affected.&nbsp; Individuals coming into contact with contaminated water can contract illnesses such as typhoid, tuberculosis, dysentery, cholera, tetanus, hepatitis, and several types of gastroenteritis. Several types of internal parasites are also present in sewage, along with a number of fungal diseases.<br />
+    Also, the health of aquatic species can be adversely impacted leaving them vulnerable to disease after coming in contact with fecal coliform.</p>
+goldberg_content_pages_000012: 
+  markup_style_id: 
+  name: programming
+  created_at: 2007-12-21 22:45:09
+  permission_id: "3"
+  title: Programming
+  updated_at: 2009-04-01 12:54:53
+  id: "14"
+  content: |-
+    <h2><font color="#000080">Programming</font></h2>
+    <h2><strong><font color="#ff6600"><img height="150" width="200" align="left" alt="" style="padding-right: 10px;" src="/files/Image/eec_girls.JPG" /></font></strong></h2>
+    <p><strong><font color="#ff6600">Enviromental Explorers Club</font></strong> - <strong>Involved Youth</strong> - Our Explorers Club, for children ages 6 through 13, was established&nbsp; to further our ideal of greater sustainability through involving youth in our mission. EEC meets on the third Saturday of each month at the Nicole Donant Library in Mineral City from November through March and the Mineral City Park April through October. Meetings are from noon until 3:00pm. Children learn about the world around them, participate in games, create crafts and meet new friends. A different program is given each month.</p>
+    <p><img height="155" width="208" align="right" alt="" style="padding-left: 10px;" src="/files/Image/cookie_mining.JPG" /><strong><font color="#ff6600">Classroom Presentations</font></strong> - <strong>Students of Nature</strong> - The Huff Run Watershed Restoration Partnership would like to invite your school, church youth group, or other small group to participate in our Environmental Learning Outreach Program.&nbsp; We are bringing the environment to you!&nbsp; The participants will be encouraged to attend the <a href="/events">Huff Run Watershed Awareness Day</a> each year.&nbsp; The Awareness Day will give each student a chance to apply the knowledge they learned in the classroom and see the stream first-hand. We feel it is important to teach and involve the youth in our mission so that a greater sense of sustainability can be achieved for the future generations in the Huff Run Watershed.</p>
+    <p><strong><font color="#ff6600"><img height="150" width="200" align="left" src="/files/Image/adopt_a_highway.JPG" style="padding-right: 10px;" alt="" />Ad</font></strong><strong><font color="#ff6600">o</font></strong><strong><font color="#ff6600">p</font></strong><strong><font color="#ff6600">t a Highway </font></strong>- <strong>Community Pride </strong>- In 2007, HRWRP became involved with <a target="_blank" href="http://www.dot.state.oh.us/Divisions/HighwayOps/Maintenance/Pages/AdoptAHighway.aspx">ODOT's Adopt a Highway Program</a> by adopting two miles of State Route 800 South of Mineral City. Clean Up days are generally held four times a year. We are always looking for volunteers to help us beautify this stretch of road.</p>
+    <p>&nbsp;</p>
+  markup_style: FCKeditor
+  content_cache: |-
+    <h2><font color="#000080">Programming</font></h2>
+    <h2><strong><font color="#ff6600"><img height="150" width="200" align="left" alt="" style="padding-right: 10px;" src="/files/Image/eec_girls.JPG" /></font></strong></h2>
+    <p><strong><font color="#ff6600">Enviromental Explorers Club</font></strong> - <strong>Involved Youth</strong> - Our Explorers Club, for children ages 6 through 13, was established&nbsp; to further our ideal of greater sustainability through involving youth in our mission. EEC meets on the third Saturday of each month at the Nicole Donant Library in Mineral City from November through March and the Mineral City Park April through October. Meetings are from noon until 3:00pm. Children learn about the world around them, participate in games, create crafts and meet new friends. A different program is given each month.</p>
+    <p><img height="155" width="208" align="right" alt="" style="padding-left: 10px;" src="/files/Image/cookie_mining.JPG" /><strong><font color="#ff6600">Classroom Presentations</font></strong> - <strong>Students of Nature</strong> - The Huff Run Watershed Restoration Partnership would like to invite your school, church youth group, or other small group to participate in our Environmental Learning Outreach Program.&nbsp; We are bringing the environment to you!&nbsp; The participants will be encouraged to attend the <a href="/events">Huff Run Watershed Awareness Day</a> each year.&nbsp; The Awareness Day will give each student a chance to apply the knowledge they learned in the classroom and see the stream first-hand. We feel it is important to teach and involve the youth in our mission so that a greater sense of sustainability can be achieved for the future generations in the Huff Run Watershed.</p>
+    <p><strong><font color="#ff6600"><img height="150" width="200" align="left" src="/files/Image/adopt_a_highway.JPG" style="padding-right: 10px;" alt="" />Ad</font></strong><strong><font color="#ff6600">o</font></strong><strong><font color="#ff6600">p</font></strong><strong><font color="#ff6600">t a Highway </font></strong>- <strong>Community Pride </strong>- In 2007, HRWRP became involved with <a target="_blank" href="http://www.dot.state.oh.us/Divisions/HighwayOps/Maintenance/Pages/AdoptAHighway.aspx">ODOT's Adopt a Highway Program</a> by adopting two miles of State Route 800 South of Mineral City. Clean Up days are generally held four times a year. We are always looking for volunteers to help us beautify this stretch of road.</p>
+    <p>&nbsp;</p>
+goldberg_content_pages_000001: 
+  markup_style_id: "1"
+  name: home
+  created_at: 2006-06-12 00:31:56
+  permission_id: "3"
+  title: Huff Run Home
+  updated_at: 2010-08-26 15:38:59
+  id: "1"
+  content: |-
+    <p><img alt="" src="/files/Image/home_page_banner.JPG" />    The Huff Run Watershed Restoration Partnership, a citizen based catalyst group, was formed in 1996. The ultimate goal of the Partnership is to return Huff Run to its original warm water habitat. The group conducts extensive environmental education and works closely with government agencies to accomplish their restoration mission.</p>
+    <hr size="2" width="100%" />
+    <p>&nbsp;</p>
+    <table>
+        <tbody>
+            <tr>
+                <td align="center" valign="top"><img height="70" width="70" src="/files/Image/kayak.jpg" alt="" /></td>
+                <td valign="top"><font color="#008080"><strong>Kayak Raffle</strong></font> Congratulations Pat Downes! Huff Run raffled off a kayak donated by <a href="http://www.pscmetals.com/" target="_blank">PSC Metals</a>. Pat won! It is a yellow Potomac 100ES worth $400.&nbsp; The drawing was held at the Mineral City Party in the Park  on August 15.</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td valign="top"><img height="71" align="left" width="70" vspace="10" alt="" src="/files/Image/eec_logo.JPG" /></td>
+                <td valign="top">
+                <p><strong><font color="#008080">Environmental Explorers</font></strong> <font color="#008080"><strong>Club</strong></font>&nbsp; Our next EEC meeting will be September 18 from 1pm to 3pm at the Mineral City Park. The kids will learn about recycling. All children 6-13 are welcome to attend. Call <a href="http://www.huffrun.org/contact_us">Emily</a> if you have any questions.</p>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td align="center" valign="top">
+                <p><img height="66" width="70" src="/files/Image/5k_logo_little.gif" alt="" /></p>
+                </td>
+                <td valign="top">
+                <p><font color="#008080"><font color="#000000"><font face="Arial"><strong><font color="#008080">Huff Run 5K &amp; Fun Mile </font></strong><font color="#008080"><font color="#000000">Thank you to our 5K and Fun Mile runners! Find your times and a photo <a href="http://www.huffrun.org/5KFunMile">here</a>. Great job runners and volunteers! </font></font><br />
+                </font></font></font></p>
+                <p>&nbsp;</p>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td align="center" valign="top"><a href="/files/pdf/2010%20photo%20contest%20flyer%20final.pdf"><img height="61" width="70" src="/files/Image/Emily1.jpg" alt="" /><br />
+                </a></td>
+                <td valign="top">
+                <p><font color="#008080"><strong>Welcome Emily!</strong></font> Help us welcome<a href="http://www.huffrun.org/contact_us"> Emily Ankney</a>, our new AmeriCorps member! Emily will lead our Environmental Explorers Club, organize our Awareness Day field trips, and plan all our environmental education at Huff Run through August 2011. Welcome aboard!</p>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td valign="top">&nbsp;<a href="http://www.huffrun.org/bottle"><img height="74" width="70" src="/files/Image/bottle2.JPG" alt="" /></a></td>
+                <td valign="top">
+                <p><font color="#008080"><strong><em>Clearance</em> on Huff Run Water Bottles!<font color="#000000"><font face="Arial"> </font></font></strong><font color="#000000"><font face="Arial">You can now have your own</font></font><strong><font color="#000000"><font face="Arial">&nbsp;</font></font></strong><font color="#000000"><font face="Arial"><a target="_blank" href="http://www.alz.org/news_and_events_alzheimer_news_02-02-2005.asp">aluminum</a>  Huff Run Water Bottle for only $10 - that's 33% off! These three tone,  lightweight bottles come </font></font></font>emblazoned  <font color="#008080"><font color="#000000"><font face="Arial"> with  the Huff  Run logo along with a carabineer. <a href="http://www.huffrun.org/bottle">Purchase here</a>. Thank you for those who bought them at full price to help us reach our &quot;Heat Huff Run Fund&quot; goals! <br />
+                </font></font></font></p>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td valign="top"><img height="57" width="70" src="/files/Image/Bullfrog70.jpg" alt="" /></td>
+                <td valign="top"><font color="#008080"><strong>Annual Report</strong></font> Our Huff Run Watershed<a href="/files/pdf/2009_HR_annualreport_v001.pdf" target="_blank"> 2009 Annual Report</a> is now online! Visit our <a href="http://www.huffrun.org/publications" target="_blank">publications</a> page for this and past Annual Reports.</td>
+                <td>&nbsp;</td>
+            </tr>
+        </tbody>
+    </table>
+  markup_style: FCKeditor
+  content_cache: |-
+    <p><img alt="" src="/files/Image/home_page_banner.JPG" />    The Huff Run Watershed Restoration Partnership, a citizen based catalyst group, was formed in 1996. The ultimate goal of the Partnership is to return Huff Run to its original warm water habitat. The group conducts extensive environmental education and works closely with government agencies to accomplish their restoration mission.</p>
+    <hr size="2" width="100%" />
+    <p>&nbsp;</p>
+    <table>
+        <tbody>
+            <tr>
+                <td align="center" valign="top"><img height="70" width="70" src="/files/Image/kayak.jpg" alt="" /></td>
+                <td valign="top"><font color="#008080"><strong>Kayak Raffle</strong></font> Congratulations Pat Downes! Huff Run raffled off a kayak donated by <a href="http://www.pscmetals.com/" target="_blank">PSC Metals</a>. Pat won! It is a yellow Potomac 100ES worth $400.&nbsp; The drawing was held at the Mineral City Party in the Park  on August 15.</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td valign="top"><img height="71" align="left" width="70" vspace="10" alt="" src="/files/Image/eec_logo.JPG" /></td>
+                <td valign="top">
+                <p><strong><font color="#008080">Environmental Explorers</font></strong> <font color="#008080"><strong>Club</strong></font>&nbsp; Our next EEC meeting will be September 18 from 1pm to 3pm at the Mineral City Park. The kids will learn about recycling. All children 6-13 are welcome to attend. Call <a href="http://www.huffrun.org/contact_us">Emily</a> if you have any questions.</p>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td align="center" valign="top">
+                <p><img height="66" width="70" src="/files/Image/5k_logo_little.gif" alt="" /></p>
+                </td>
+                <td valign="top">
+                <p><font color="#008080"><font color="#000000"><font face="Arial"><strong><font color="#008080">Huff Run 5K &amp; Fun Mile </font></strong><font color="#008080"><font color="#000000">Thank you to our 5K and Fun Mile runners! Find your times and a photo <a href="http://www.huffrun.org/5KFunMile">here</a>. Great job runners and volunteers! </font></font><br />
+                </font></font></font></p>
+                <p>&nbsp;</p>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td align="center" valign="top"><a href="/files/pdf/2010%20photo%20contest%20flyer%20final.pdf"><img height="61" width="70" src="/files/Image/Emily1.jpg" alt="" /><br />
+                </a></td>
+                <td valign="top">
+                <p><font color="#008080"><strong>Welcome Emily!</strong></font> Help us welcome<a href="http://www.huffrun.org/contact_us"> Emily Ankney</a>, our new AmeriCorps member! Emily will lead our Environmental Explorers Club, organize our Awareness Day field trips, and plan all our environmental education at Huff Run through August 2011. Welcome aboard!</p>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td valign="top">&nbsp;<a href="http://www.huffrun.org/bottle"><img height="74" width="70" src="/files/Image/bottle2.JPG" alt="" /></a></td>
+                <td valign="top">
+                <p><font color="#008080"><strong><em>Clearance</em> on Huff Run Water Bottles!<font color="#000000"><font face="Arial"> </font></font></strong><font color="#000000"><font face="Arial">You can now have your own</font></font><strong><font color="#000000"><font face="Arial">&nbsp;</font></font></strong><font color="#000000"><font face="Arial"><a target="_blank" href="http://www.alz.org/news_and_events_alzheimer_news_02-02-2005.asp">aluminum</a>  Huff Run Water Bottle for only $10 - that's 33% off! These three tone,  lightweight bottles come </font></font></font>emblazoned  <font color="#008080"><font color="#000000"><font face="Arial"> with  the Huff  Run logo along with a carabineer. <a href="http://www.huffrun.org/bottle">Purchase here</a>. Thank you for those who bought them at full price to help us reach our &quot;Heat Huff Run Fund&quot; goals! <br />
+                </font></font></font></p>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td valign="top"><img height="57" width="70" src="/files/Image/Bullfrog70.jpg" alt="" /></td>
+                <td valign="top"><font color="#008080"><strong>Annual Report</strong></font> Our Huff Run Watershed<a href="/files/pdf/2009_HR_annualreport_v001.pdf" target="_blank"> 2009 Annual Report</a> is now online! Visit our <a href="http://www.huffrun.org/publications" target="_blank">publications</a> page for this and past Annual Reports.</td>
+                <td>&nbsp;</td>
+            </tr>
+        </tbody>
+    </table>
+goldberg_content_pages_000035: 
+  markup_style_id: 
+  name: water_quality
+  created_at: 2008-09-15 15:22:44
+  permission_id: "3"
+  title: Water Quality
+  updated_at: 2008-11-15 13:28:05
+  id: "38"
+  content: |-
+    <h2><strong><font color="#000080">Water Quality in the Huff Run Watershed</font></strong></h2>
+    <p><img class="" style="padding-left: 10px" height="225" alt="" width="300" align="right" src="/files/Image/USGS1web.JPG" />Our <a href="http://www.usgs.gov">United States Geological Survey</a> (USGS) gauge is located on County Road 90/ New Cumberland Road. This location is far downstream, about a mile up from the mouth of Huff Run, at our most polluted site. All the acid mine drainage and other pollution concerns culminate at this downstream site. Water quality here demonstrates the changes we are making to the stream. The gauge takes daily readings of <a target="_blank" href="http://www.watersheddata.com/HuffRun/index.aspx">chemical parameters</a> including pH, temperature, conductivity, and dissolved oxygen. USGS also maintains a <a target="_blank" href="http://waterdata.usgs.gov/oh/nwis/uv?site_no=03121850&amp;PARAneter_cd=00065,00060,00010">flow station</a> here.</p>
+    <p>Huff Run's staff as well as the <a href="http://www.ohiodnr.com/mineral/default/tabid/10352/Default.aspx">Ohio Department of Natural Resources (ODNR), Division of Mineral Resources Management</a> staff take chemical water quality samples throughout the watershed. Long term main stem samples, project sites, pre construction sampling sites and other data can be found at Huff Run's digital <a target="_blank" href="http://www.watersheddata.com">water quality database</a>. Huff Run is part of ODNR's Non Point Source Database Project which is&nbsp;developed by the <a target="_blank" href="http://www.voinovichschool.ohio.edu/index.aspx">Voinovich School of Leadership and Public Affairs.</a></p>
+  markup_style: FCKeditor
+  content_cache: |-
+    <h2><strong><font color="#000080">Water Quality in the Huff Run Watershed</font></strong></h2>
+    <p><img class="" style="padding-left: 10px" height="225" alt="" width="300" align="right" src="/files/Image/USGS1web.JPG" />Our <a href="http://www.usgs.gov">United States Geological Survey</a> (USGS) gauge is located on County Road 90/ New Cumberland Road. This location is far downstream, about a mile up from the mouth of Huff Run, at our most polluted site. All the acid mine drainage and other pollution concerns culminate at this downstream site. Water quality here demonstrates the changes we are making to the stream. The gauge takes daily readings of <a target="_blank" href="http://www.watersheddata.com/HuffRun/index.aspx">chemical parameters</a> including pH, temperature, conductivity, and dissolved oxygen. USGS also maintains a <a target="_blank" href="http://waterdata.usgs.gov/oh/nwis/uv?site_no=03121850&amp;PARAneter_cd=00065,00060,00010">flow station</a> here.</p>
+    <p>Huff Run's staff as well as the <a href="http://www.ohiodnr.com/mineral/default/tabid/10352/Default.aspx">Ohio Department of Natural Resources (ODNR), Division of Mineral Resources Management</a> staff take chemical water quality samples throughout the watershed. Long term main stem samples, project sites, pre construction sampling sites and other data can be found at Huff Run's digital <a target="_blank" href="http://www.watersheddata.com">water quality database</a>. Huff Run is part of ODNR's Non Point Source Database Project which is&nbsp;developed by the <a target="_blank" href="http://www.voinovichschool.ohio.edu/index.aspx">Voinovich School of Leadership and Public Affairs.</a></p>
+goldberg_content_pages_000024: 
+  markup_style_id: 
+  name: dumping
+  created_at: 2008-03-24 09:56:48
+  permission_id: "3"
+  title: Open and Illegal Dumping Grounds
+  updated_at: 2008-11-17 09:13:20
+  id: "27"
+  content: |-
+    <h2><font color="#000080">Open and Illegal Dumping Grounds</font></h2>
+    <p><img height="162" align="right" width="200" src="/files/Image/trash2.JPG" style="padding-left: 10px;" alt="" />Illegal dumping in the watershed within isolated forested areas, along roads and within unreclaimed strip pits is a problem.</p>
+    <p>Trash disposal fees are too high for low-income residents to dispose of major items (especially for tires and large appliances). Communities and individuals are uninformed about alternatives to and the effects of illegal dumping.</p>
+    <p>Harmful impacts to the watershed and water quality from illegally dumped trash include: debris jams which increase the impacts of flooding, surface water contamination from dump site runoff containing chemicals, and significant health risks. Some health risks include: injury due to sharp objects, increase in rodents, the potential spread of diseases (West Nile Virus, encephalitis and Dengue Fever) from mosquito breeding in scrap tires. Perhaps the most important component of the illegal trash dumping problem is the continued lack of respect for the environment and how that can affect future economic development in the area. Economic impacts caused by illegal trash dumping include: decreased property values because communities become unattractive, and increased cost because of government clean-up expenditures leading to higher local, state, and federal taxes.</p>
+  markup_style: FCKeditor
+  content_cache: |-
+    <h2><font color="#000080">Open and Illegal Dumping Grounds</font></h2>
+    <p><img height="162" align="right" width="200" src="/files/Image/trash2.JPG" style="padding-left: 10px;" alt="" />Illegal dumping in the watershed within isolated forested areas, along roads and within unreclaimed strip pits is a problem.</p>
+    <p>Trash disposal fees are too high for low-income residents to dispose of major items (especially for tires and large appliances). Communities and individuals are uninformed about alternatives to and the effects of illegal dumping.</p>
+    <p>Harmful impacts to the watershed and water quality from illegally dumped trash include: debris jams which increase the impacts of flooding, surface water contamination from dump site runoff containing chemicals, and significant health risks. Some health risks include: injury due to sharp objects, increase in rodents, the potential spread of diseases (West Nile Virus, encephalitis and Dengue Fever) from mosquito breeding in scrap tires. Perhaps the most important component of the illegal trash dumping problem is the continued lack of respect for the environment and how that can affect future economic development in the area. Economic impacts caused by illegal trash dumping include: decreased property values because communities become unattractive, and increased cost because of government clean-up expenditures leading to higher local, state, and federal taxes.</p>
+goldberg_content_pages_000013: 
+  markup_style_id: 
+  name: membership
+  created_at: 2007-12-21 22:45:41
+  permission_id: "3"
+  title: Membership
+  updated_at: 2010-08-30 12:20:29
+  id: "15"
+  content: |-
+    <h2><font color="#000080">Huff Run Membership</font></h2>
+    <p>Memberships run through our fiscal year: June to May.<br />
+    <br />
+    Member benefits include voting rights at our monthly meetings, annual membership cards, a welcome packet and a car window cling. Members also receive exclusive invitations to all Huff Run events, tours and activities.</p>
+    <p>You can join our Partnership online securely and quickly through PayPal by using the button below. There is no need to have a PayPal account, just a credit card. We also accept <a href="/contact_us">checks</a>. You can also donate to our cause at our <a href="/support_us">Support Us page</a>. Thank you.&nbsp;</p>
+    <div align="left">
+    <form method="post" action="https://www.paypal.com/cgi-bin/webscr">
+        <div align="left">&nbsp;</div>
+        <div align="center"><input type="hidden" value="_s-xclick" name="cmd" /> <input type="hidden" value="327215" name="hosted_button_id" /></div>
+        <table align="center">
+            <tbody>
+                <tr align="center">
+                    <td><input type="hidden" value="Membership type" name="on0" />Membership type</td>
+                </tr>
+                <tr>
+                    <td><select name="os0">
+                    <option value="Individual">Individual $5.00 	</option>
+                    <option value="Family">Family $10.00 	</option>
+                    <option value="Non-profit">Non-profit $25.00 	</option>
+                    <option value="Business">Business $50.00 </option>
+                    </select></td>
+                </tr>
+            </tbody>
+        </table>
+        <div align="center"><input type="hidden" value="USD" name="currency_code" /> <input border="0" type="image" alt="" name="submit" src="https://www.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif" /> <img height="1" border="0" width="1" src="https://www.paypal.com/en_US/i/scr/pixel.gif" alt="" /></div>
+    </form>
+    </div>
+    <hr />
+    <p><font size="2">
+    <table cellspacing="0" cellpadding="1" border="0" width="550">
+        <tbody>
+            <tr>
+                <td colspan="3"><font size="2"><strong><font color="#000080">Huff Run Watershed Restoration  Partnership,</font></strong></font><font size="2"><strong><font color="#000080">Inc. 2010/2011 Members</font></strong></font></td>
+            </tr>
+            <tr>
+                <td>Linda Ross<br />
+                Michael and Stacey Spillman<br />
+                Marlene Myer<br />
+                Christian Vermillion<br />
+                John D McConnell<br />
+                Donald and Shirley Holder<br />
+                Chuck and Margaret Knaack<br />
+                Ray Lehman<br />
+                Tom Kolp<br />
+                Dan and Nancy Trbovich</td>
+                <td>
+                <p>Jodi Malusky<br />
+                Sally Yance<br />
+                Bob Farnsworth<br />
+                Ed Taggart<br />
+                Ramon and Carole Halter<br />
+                Jim and Carol Toms<br />
+                Bruce and Patricia Downes<br />
+                Mike and Judy Farber<br />
+                Rick Cain<br />
+                Mark and Michelle Gross<br />
+                Dave and Jeanine Rock<br />
+                Amber, Eric and Lochlann Earnhardt</p>
+                </td>
+                <td>Gary and Renee Neisel<br />
+                Gary N. and Nancy Neisel<br />
+                Cameron and Elizabeth Krahel<br />
+                The Geib Family&nbsp;&nbsp; &nbsp;<br />
+                Kathy Smith<br />
+                Brady Steinbaugh<br />
+                John&nbsp; McCoury<br />
+                Terry Scott<br />
+                Chad Kinney<br />
+                Jim&nbsp; Gue<br />
+                Cheri Harris<br />
+                Mike and Rose Gintz</td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <p><font color="#333399"><strong><font size="2">Non Profit and Business Class</font></strong></font>&nbsp;</p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">Lindentree Industrial Corporation<br />
+                Beavers Marine Store<br />
+                Rosebud Mining Company</td>
+            </tr>
+        </tbody>
+    </table>
+    </font></p>
+    <p>&nbsp;</p>
+  markup_style: FCKeditor
+  content_cache: |-
+    <h2><font color="#000080">Huff Run Membership</font></h2>
+    <p>Memberships run through our fiscal year: June to May.<br />
+    <br />
+    Member benefits include voting rights at our monthly meetings, annual membership cards, a welcome packet and a car window cling. Members also receive exclusive invitations to all Huff Run events, tours and activities.</p>
+    <p>You can join our Partnership online securely and quickly through PayPal by using the button below. There is no need to have a PayPal account, just a credit card. We also accept <a href="/contact_us">checks</a>. You can also donate to our cause at our <a href="/support_us">Support Us page</a>. Thank you.&nbsp;</p>
+    <div align="left">
+    <form method="post" action="https://www.paypal.com/cgi-bin/webscr">
+        <div align="left">&nbsp;</div>
+        <div align="center"><input type="hidden" value="_s-xclick" name="cmd" /> <input type="hidden" value="327215" name="hosted_button_id" /></div>
+        <table align="center">
+            <tbody>
+                <tr align="center">
+                    <td><input type="hidden" value="Membership type" name="on0" />Membership type</td>
+                </tr>
+                <tr>
+                    <td><select name="os0">
+                    <option value="Individual">Individual $5.00 	</option>
+                    <option value="Family">Family $10.00 	</option>
+                    <option value="Non-profit">Non-profit $25.00 	</option>
+                    <option value="Business">Business $50.00 </option>
+                    </select></td>
+                </tr>
+            </tbody>
+        </table>
+        <div align="center"><input type="hidden" value="USD" name="currency_code" /> <input border="0" type="image" alt="" name="submit" src="https://www.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif" /> <img height="1" border="0" width="1" src="https://www.paypal.com/en_US/i/scr/pixel.gif" alt="" /></div>
+    </form>
+    </div>
+    <hr />
+    <p><font size="2">
+    <table cellspacing="0" cellpadding="1" border="0" width="550">
+        <tbody>
+            <tr>
+                <td colspan="3"><font size="2"><strong><font color="#000080">Huff Run Watershed Restoration  Partnership,</font></strong></font><font size="2"><strong><font color="#000080">Inc. 2010/2011 Members</font></strong></font></td>
+            </tr>
+            <tr>
+                <td>Linda Ross<br />
+                Michael and Stacey Spillman<br />
+                Marlene Myer<br />
+                Christian Vermillion<br />
+                John D McConnell<br />
+                Donald and Shirley Holder<br />
+                Chuck and Margaret Knaack<br />
+                Ray Lehman<br />
+                Tom Kolp<br />
+                Dan and Nancy Trbovich</td>
+                <td>
+                <p>Jodi Malusky<br />
+                Sally Yance<br />
+                Bob Farnsworth<br />
+                Ed Taggart<br />
+                Ramon and Carole Halter<br />
+                Jim and Carol Toms<br />
+                Bruce and Patricia Downes<br />
+                Mike and Judy Farber<br />
+                Rick Cain<br />
+                Mark and Michelle Gross<br />
+                Dave and Jeanine Rock<br />
+                Amber, Eric and Lochlann Earnhardt</p>
+                </td>
+                <td>Gary and Renee Neisel<br />
+                Gary N. and Nancy Neisel<br />
+                Cameron and Elizabeth Krahel<br />
+                The Geib Family&nbsp;&nbsp; &nbsp;<br />
+                Kathy Smith<br />
+                Brady Steinbaugh<br />
+                John&nbsp; McCoury<br />
+                Terry Scott<br />
+                Chad Kinney<br />
+                Jim&nbsp; Gue<br />
+                Cheri Harris<br />
+                Mike and Rose Gintz</td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <p><font color="#333399"><strong><font size="2">Non Profit and Business Class</font></strong></font>&nbsp;</p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">Lindentree Industrial Corporation<br />
+                Beavers Marine Store<br />
+                Rosebud Mining Company</td>
+            </tr>
+        </tbody>
+    </table>
+    </font></p>
+    <p>&nbsp;</p>
+goldberg_content_pages_000002: 
+  markup_style_id: "1"
+  name: expired
+  created_at: 2006-06-12 00:33:14
+  permission_id: "3"
+  title: Session Expired
+  updated_at: 2007-12-21 21:25:33
+  id: "2"
+  content: |
+    h1. Session Expired
+    
+    Your session has expired due to inactivity.
+    
+    To continue please login again.
+
+  markup_style: Textile
+  content_cache: |-
+    <h1>Session Expired</h1>
+    
+    	<p>Your session has expired due to inactivity.</p>
+    
+    
+    	<p>To continue please login again.</p>
 goldberg_content_pages_000036: 
   markup_style_id: 
   name: meetings
-  updated_at: 2009-09-11 14:04:45
-  title: Meetings
+  created_at: 2008-09-16 14:37:12
   permission_id: "3"
+  title: Meetings
+  updated_at: 2009-09-11 14:04:45
   id: "39"
   content: |-
     <h2><font size="4"><strong><font color="#000080">Partnership Monthly Meetings&nbsp;</font></strong></font></h2>
@@ -19,13 +488,13 @@ goldberg_content_pages_000036:
     <p>Please review <a href="http://www.huffrun.org/minutes_archive">last month's minutes</a> before attending the next meeting. We also have an archive of past minutes from mid 2005.</p>
     <p>Our <a href="http://www.huffrun.org/bylaws">bylaws</a> require a quorum of five members in attendance. All <a href="http://www.huffrun.org/membership">current members</a> may vote at meetings.</p>
     <p align="center"><img height="225" width="300" src="/files/Image/hrwrp_meeting.JPG" alt="" /></p>
-  created_at: 2008-09-16 14:37:12
 goldberg_content_pages_000025: 
   markup_style_id: 
   name: watershed
-  updated_at: 2008-10-20 14:05:18
-  title: What is a Watershed?
+  created_at: 2008-03-24 11:03:57
   permission_id: "3"
+  title: What is a Watershed?
+  updated_at: 2008-10-20 14:05:18
   id: "28"
   content: |-
     <h2><font color="#000080">What is a Watershed?</font></h2>
@@ -38,13 +507,13 @@ goldberg_content_pages_000025:
     <p>A watershed is an area of land surrounding and &ldquo;shedding&rdquo; water into a stream, lake, river or wetland. When it rains, all the run off flows into this common area. In fact, all the surface water (smaller streams, ponds, lakes) is related to this larger water body. They all affect its water quality.</p>
     <p>All land is part of a watershed. If you live in the Huff Run Watershed, your actions affect Huff Run but also affect other bodies of water that you might not think about. The water that flows into Huff Run, flows into the Conotton Creek which in turn runs into the Tuscarawas River. The Tusc flows into the Muskingum River and on to the Ohio River. The Ohio dumps into the Mississippi and then into the Gulf of Mexico. This is why the HRWRP takes the watershed approach to cleaning up the Huff Run.</p>
     <p align="center"><img height="238" width="412" alt="" src="/files/Image/what_is_a_watershed.JPG" /></p>
-  created_at: 2008-03-24 11:03:57
 goldberg_content_pages_000014: 
   markup_style_id: 
   name: learn_more
-  updated_at: 2009-03-30 20:34:20
-  title: Learn More
+  created_at: 2007-12-21 22:46:03
   permission_id: "3"
+  title: Learn More
+  updated_at: 2009-03-30 20:34:20
   id: "16"
   content: |-
     <p><strong><font color="#333399" size="3">Learn about our Partnership, our work and how we operate. </font></strong></p>
@@ -73,13 +542,13 @@ goldberg_content_pages_000014:
     <p><a href="http://cfpub.epa.gov/surf/locate/index.cfm" target="_blank">Surf Your Watershed </a>- US EPA's tool to find watersheds and watershed groups.</p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
-  created_at: 2007-12-21 22:46:03
 goldberg_content_pages_000003: 
   markup_style_id: "1"
   name: notfound
-  updated_at: 2007-12-21 21:25:33
-  title: Not Found!
+  created_at: 2006-06-12 00:33:49
   permission_id: "3"
+  title: Not Found!
+  updated_at: 2007-12-21 21:25:33
   id: "3"
   content: |-
     h1. Not Found
@@ -95,13 +564,13 @@ goldberg_content_pages_000003:
     
     
     	<p>Please contact your system administrator.</p>
-  created_at: 2006-06-12 00:33:49
 goldberg_content_pages_000037: 
   markup_style_id: 
   name: photo_contest
-  updated_at: 2010-04-07 11:02:42
-  title: Huff Run Photo Contest
+  created_at: 2008-09-16 15:48:27
   permission_id: "3"
+  title: Huff Run Photo Contest
+  updated_at: 2010-04-07 11:02:42
   id: "40"
   content: |-
     <h2><font size="4" color="#000080">Huff Run Annual Photo Contest</font></h2>
@@ -190,13 +659,13 @@ goldberg_content_pages_000037:
         </tbody>
     </table>
     </p>
-  created_at: 2008-09-16 15:48:27
 goldberg_content_pages_000026: 
   markup_style_id: 
   name: huff_history
-  updated_at: 2009-12-02 08:49:38
-  title: Huff Run History
+  created_at: 2008-03-24 11:30:57
   permission_id: "3"
+  title: Huff Run History
+  updated_at: 2009-12-02 08:49:38
   id: "29"
   content: |-
     <h2><font color="#000080">Huff Run History</font></h2>
@@ -213,13 +682,13 @@ goldberg_content_pages_000026:
     <p>Read more historical information about the area and the watershed in our <a href="/publications" target="_blank">watershed action plan.</a></p>
     <h3><font color="#333399">Huff Run Watershed Restoration Partnership</font></h3>
     <p>The Huff Run Watershed Restoration Partnership (HRWRP) was formed during a meeting on August 15, 1996. A group of government agencies including the Ohio Department of Natural Resources, Division of Mineral Resources Management (then, Division of Mine Reclamation), the Office of Surface Mining, Crossroads RC&amp;D and the Ohio EPA. Many citizens stepped forward to become advocates for the stream and wildlife in the area. The Partnership was formed with the leadership and passion of these local people. By 1997, the group began meeting monthly. Shortly after, they established bylaws, filed for a 501&copy;3, created a mission statement and became incorporated. To educate the community, the group has organized field trips for students since 1997. The Huff Run AMDAT was completed early on as well as the first edition of their watershed plan.&nbsp; A full time Coordinator was hired in 2000 &ndash; the same year that Farr, the first passive treatment system in the watershed, was under construction.&nbsp; Since, the group has grown in size and has added VISTA volunteers, AmeriCorps members and interns to their staff.&nbsp; Numerous restoration projects have been completed because of this catalyst group with plans for many more. Huff Run&rsquo;s updated watershed plan was endorsed by the state of Ohio in 2005. Also, in 2005, Rural Action became the HRWRP&rsquo;s fiscal sponsor.</p>
-  created_at: 2008-03-24 11:30:57
 goldberg_content_pages_000015: 
   markup_style_id: 
   name: support_us
-  updated_at: 2009-04-01 12:57:32
-  title: Support Us
+  created_at: 2007-12-21 22:46:46
   permission_id: "3"
+  title: Support Us
+  updated_at: 2009-04-01 12:57:32
   id: "17"
   content: |-
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -254,13 +723,13 @@ goldberg_content_pages_000015:
         <p>&nbsp;</p>
         <p>&nbsp;</p>
     </form>
-  created_at: 2007-12-21 22:46:46
 goldberg_content_pages_000004: 
   markup_style_id: "1"
   name: denied
-  updated_at: 2007-12-21 21:25:33
-  title: Permission Denied!
+  created_at: 2006-06-12 00:34:30
   permission_id: "3"
+  title: Permission Denied!
+  updated_at: 2007-12-21 21:25:33
   id: "4"
   content: |-
     h1. Permission Denied
@@ -276,13 +745,13 @@ goldberg_content_pages_000004:
     
     
     	<p>Please contact your system administrator.</p>
-  created_at: 2006-06-12 00:34:30
 goldberg_content_pages_000038: 
   markup_style_id: 
   name: 5KFunMile
-  updated_at: 2010-08-26 15:28:30
-  title: Huff Run 5K and Fun Mile
+  created_at: 2008-10-09 13:03:12
   permission_id: "3"
+  title: Huff Run 5K and Fun Mile
+  updated_at: 2010-08-26 15:28:30
   id: "41"
   content: |-
     <h2><font color="#000080">Huff Run 5K &amp; Fun Mile<img height="99" align="right" width="105" src="/files/Image/5k_logo_NEW.gif" alt="" /></font></h2>
@@ -363,13 +832,13 @@ goldberg_content_pages_000038:
     <p align="center"><img src="/files/Image/fred_jerry.jpg" alt="" /></p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
-  created_at: 2008-10-09 13:03:12
 goldberg_content_pages_000027: 
   markup_style_id: 
   name: maps
-  updated_at: 2009-04-01 12:47:19
-  title: Watershed Maps
+  created_at: 2008-03-24 11:35:27
   permission_id: "3"
+  title: Watershed Maps
+  updated_at: 2009-04-01 12:47:19
   id: "30"
   content: |-
     <h2><font color="#000080">Huff Run Watershed Maps<br />
@@ -390,13 +859,13 @@ goldberg_content_pages_000027:
     <p><a href="/files/pdf/huff_run_road_map.pdf" target="_blank">Road map</a> - Road names are listed on this map. A map of Ohio with Huff Run's location is also included - 385 KB - pdf</p>
     <p><a target="_blank" href="/files/pdf/huff_run_road_map.pdf"><img height="263" width="556" alt="" src="/files/Image/hrmap.GIF" /></a></p>
     <p>&nbsp;</p>
-  created_at: 2008-03-24 11:35:27
 goldberg_content_pages_000016: 
   markup_style_id: 
   name: amd
-  updated_at: 2008-11-17 09:21:57
-  title: Acid Mine Drainage
+  created_at: 2007-12-22 07:51:00
   permission_id: "3"
+  title: Acid Mine Drainage
+  updated_at: 2008-11-17 09:21:57
   id: "18"
   content: |-
     <h2><font color="#000080">Acid Mine Drainage</font></h2>
@@ -411,13 +880,13 @@ goldberg_content_pages_000016:
     <p>AMD degrades habitat allowing the survival of only the most pollution tolerant aquatic species. The precipitation coats the bottom of streams, clogging the habitat of aquatic insects and spawning areas for fish. It can also coal the gills and eggs of aquatic life, rendering the stream lifeless. In groundwater, high mineralization from AMD makes the water supply source unpotable. 
     <p>Wildlife habitat within the Huff Run Watershed has been severely impacted by previous surface mining activities as well as aquatic. Indigenous terrestrial species have been subjected to the loss of significant amounts of habitat as a result. Reclaimed areas, although providing some cover, have been converted from forested to grasslands, creating an alternate prairie like habitat which is not its original form. Significant positive impacts on local populations of wildlife could be achieved if reclamation and reforestation projects would be implemented. Restoring unreclaimed areas to their approximate original contour and establishing vegetation would provide wildlife habitat. In addition, reforestation of reclaimed grasslands would provide much needed quality habitat for wildlife indigenous to the region&rsquo;s forested areas.</p>
     <p>The environmental quality of the forested areas has been severely impacted by the unreclaimed surface mines and discarded tailings from deep mines. The unreclaimed areas have open highwalls, pit impoundment, exposed gob and spoil ridges. Many of the exposed gob and spoil ridges lack vegetation due to acid soil conditions and/or inadequate topsoil. These areas can be reclaimed to the approximate original contour and planted in trees and grasses enhancing wildlife habitat. In some areas vegetation has reestablished overly successful populations of opportunistic plant species. Here, species such as wild grape inhibit the growth of a diverse woodland plant community.</p>
-  created_at: 2007-12-22 07:51:00
 goldberg_content_pages_000005: 
   markup_style_id: "1"
   name: contact_us
-  updated_at: 2010-08-26 15:49:32
-  title: Contact Us
+  created_at: 2006-06-12 10:13:47
   permission_id: "3"
+  title: Contact Us
+  updated_at: 2010-08-26 15:49:32
   id: "6"
   content: |-
     <h2><font color="#000080">Contact Us</font></h2>
@@ -522,24 +991,24 @@ goldberg_content_pages_000005:
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
     <p>&nbsp;</p>
-  created_at: 2006-06-12 10:13:47
 goldberg_content_pages_000039: 
   markup_style_id: 
   name: fishy_news
-  updated_at: 2008-10-21 21:39:30
-  title: Fishy News
+  created_at: 2008-10-21 21:39:30
   permission_id: "3"
+  title: Fishy News
+  updated_at: 2008-10-21 21:39:30
   id: "42"
   content: <p><img height="47" align="left" width="63" src="/files/Image/fishy_news.jpg" alt="" />We have recently completed a fish study with the Ohio EPA. We found uncommon fish in our unpolluted areas. We also found twelve species of fish in the polluted reaches where there were only six before!</p>
   markup_style: FCKeditor
   content_cache: <p><img height="47" align="left" width="63" src="/files/Image/fishy_news.jpg" alt="" />We have recently completed a fish study with the Ohio EPA. We found uncommon fish in our unpolluted areas. We also found twelve species of fish in the polluted reaches where there were only six before!</p>
-  created_at: 2008-10-21 21:39:30
 goldberg_content_pages_000028: 
   markup_style_id: 
   name: funding
-  updated_at: 2009-12-02 08:43:42
-  title: Funding Restoration
+  created_at: 2008-03-24 12:22:13
   permission_id: "3"
+  title: Funding Restoration
+  updated_at: 2009-12-02 08:43:42
   id: "31"
   content: |-
     <h2><font color="#000080">Funding Restoration</font></h2>
@@ -566,13 +1035,13 @@ goldberg_content_pages_000028:
     <p><a href="http://www.timetorecycle.org/about/money.asp">Solid Waste Removal grants</a> from the Stark-Tuscarawas-Wayne Solid Waste District</p>
     <p>Summer Intern Program grant from the Office of Surface Mining</p>
     <p>Citizen Action Grant from Ohio EPA</p>
-  created_at: 2008-03-24 12:22:13
 goldberg_content_pages_000017: 
   markup_style_id: 
   name: awards
-  updated_at: 2009-12-03 08:26:41
-  title: Awards
+  created_at: 2008-02-12 20:49:01
   permission_id: "3"
+  title: Awards
+  updated_at: 2009-12-03 08:26:41
   id: "20"
   content: |-
     <h2><font color="#000080">Awards</font></h2>
@@ -641,13 +1110,13 @@ goldberg_content_pages_000017:
         </tbody>
     </table>
     </p>
-  created_at: 2008-02-12 20:49:01
 goldberg_content_pages_000006: 
   markup_style_id: "1"
   name: site_admin
-  updated_at: 2007-12-21 21:25:33
-  title: Site Administration
+  created_at: 2006-06-21 21:32:35
   permission_id: "1"
+  title: Site Administration
+  updated_at: 2007-12-21 21:25:33
   id: "8"
   content: |
     h1. Goldberg Setup
@@ -768,13 +1237,13 @@ goldberg_content_pages_000006:
     	<h2>System Settings</h2>
     
     	<p>Go here to view and edit the settings that determine how Goldberg operates.</p>
-  created_at: 2006-06-21 21:32:35
 goldberg_content_pages_000040: 
   markup_style_id: 
   name: AmeriCorps
-  updated_at: 2010-04-26 08:49:17
-  title: Hiring AmeriCorps Member
+  created_at: 2009-04-17 11:18:43
   permission_id: "3"
+  title: Hiring AmeriCorps Member
+  updated_at: 2010-04-26 08:49:17
   id: "43"
   content: |-
     <h2><font color="#000080">Now Hiring Huff Run AmeriCorps Member</font></h2>
@@ -795,13 +1264,13 @@ goldberg_content_pages_000040:
     <p><a target="_blank" href="/files/pdf/Huff%20Run%20AmeriCorps%20job%20description%202010.pdf">Job description</a> - pdf - 10kb</p>
     <p align="right">&nbsp;</p>
     <p>&nbsp;</p>
-  created_at: 2009-04-17 11:18:43
 goldberg_content_pages_000029: 
   markup_style_id: 
   name: publications
-  updated_at: 2010-07-26 10:25:00
-  title: Huff Run Publications
+  created_at: 2008-03-24 14:56:20
   permission_id: "3"
+  title: Huff Run Publications
+  updated_at: 2010-07-26 10:25:00
   id: "32"
   content: |-
     <h2><font color="#000080">Huff Run Watershed Publications</font></h2>
@@ -874,13 +1343,13 @@ goldberg_content_pages_000029:
     <p><a target="_blank" href="/files/pdf/Agriculture%20Newsletter%20Summer.pdf">Summer/ Fall 2009 Ag Newsletter</a> - July 2009 - Front page headlines: FSA's ACRE Program, Ag Expo 2009-&nbsp; two pages - 275 KB</p>
     <p><a target="_blank" href="/files/pdf/Agriculture%20Newsletter%20Winter%2009.pdf">Winter 2009 Ag Newsletter</a> - February 2009 - Front page headlines: Loans for Farmers, Sustainability: An Agrarian Standard - 715 KB</p>
     <p><a href="/files/pdf/Agriculture_Newsletter_Summer.pdf">Summer/ Fall 2008 Ag Newsletter</a> - August 2008 - Front page headlines: Aid to Help the Family Farm -1864 KB</p>
-  created_at: 2008-03-24 14:56:20
 goldberg_content_pages_000018: 
   markup_style_id: 
   name: links
-  updated_at: 2010-06-04 13:57:06
-  title: Links
+  created_at: 2008-02-12 20:55:40
   permission_id: "3"
+  title: Links
+  updated_at: 2010-06-04 13:57:06
   id: "21"
   content: |-
     <h2><font color="#000080">Please visit our friends' and partners' websites</font></h2>
@@ -917,13 +1386,13 @@ goldberg_content_pages_000018:
     <p><a href="http://www.epa.gov/twg/index.html" target="_blank">United States Environmental Protection Agency</a></p>
     <p><a href="http://www.usgs.gov" target="_blank">United States Geological Survey</a></p>
     <p>&nbsp;</p>
-  created_at: 2008-02-12 20:55:40
 goldberg_content_pages_000007: 
   markup_style_id: "1"
   name: admin
-  updated_at: 2008-09-15 14:47:37
-  title: Administration
+  created_at: 2006-06-26 16:47:09
   permission_id: "1"
+  title: Administration
+  updated_at: 2008-09-15 14:47:37
   id: "9"
   content: |-
     <h2>Site Administration</h2>
@@ -938,13 +1407,13 @@ goldberg_content_pages_000007:
     <p><a href="/goldberg/content_pages">Edit pages</a></p>
     <p><a href="/menu/setup/menus">Edit Menu</a></p>
     <p><a href="/admin/projects/">Edit Projects</a></p>
-  created_at: 2006-06-26 16:47:09
 goldberg_content_pages_000041: 
   markup_style_id: 
   name: bottle
-  updated_at: 2009-12-08 11:44:53
-  title: Huff Run Water Bottle
+  created_at: 2009-10-21 12:07:17
   permission_id: "3"
+  title: Huff Run Water Bottle
+  updated_at: 2009-12-08 11:44:53
   id: "44"
   content: |-
     <h2><font color="#000080">Huff Run Water Bottles</font></h2>
@@ -985,13 +1454,13 @@ goldberg_content_pages_000041:
         </tbody>
     </table>
     <input type="hidden" value="USD" name="currency_code" /> <input type="image" border="0" alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif" /> <img height="1" width="1" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" alt="" /></p>
-  created_at: 2009-10-21 12:07:17
 goldberg_content_pages_000030: 
   markup_style_id: 
   name: events
-  updated_at: 2009-04-01 12:42:58
-  title: Annual Events
+  created_at: 2008-03-24 15:47:54
   permission_id: "3"
+  title: Annual Events
+  updated_at: 2009-04-01 12:42:58
   id: "33"
   content: |-
     <h2><font color="#000080">Events</font></h2>
@@ -1010,13 +1479,13 @@ goldberg_content_pages_000030:
     <p><font color="#ff6600"><strong><img height="134" width="200" align="right" src="/files/Image/falltour05.JPG" style="padding-left: 10px;" alt="" />Fall Tour</strong> </font>- Alternating between weekday and weekend, we hold a tour of our restoration projects every year. We expect community members to attend weekend tours and those with professional interests to attend on weekdays but all are welcome. The tour usually encompasses four projects.</p>
     <p><a href="/photo_contest"><font color="#ff6600"><strong><img height="157" width="200" align="left" src="/files/Image/08wildflowerwinner.JPG" style="padding-right: 10px;" alt="" />Photo Contest</strong></font></a> - The Huff Run Photo Contest has been held since 2003. We only ask that you take your pictures within the watershed. The contest opens every spring and winners are announced at the Party in the Park.</p>
     <p><font color="#ff6600"><strong><img height="178" width="200" align="right" src="/files/Image/awarenessday07.JPG" style="" alt="" />Awareness Day</strong> </font>- Since its very beginning&nbsp; stages, the HRWRP's mission was to educate the community about water quality and has focused on children. Awareness Day field trips have been held since 1997 with classes coming from Bell Herron, Tusky Valley, Sandy Valley, Sherrodsville, home school groups and other area schools. The multiday event is always held in May with stations throughout the watershed that include fish collection, macroinvertebrate identification, restoration project tours, a water quality demonstration and enviroscape demonstrations. Our volunteers and partners make this program possible.&nbsp;</p>
-  created_at: 2008-03-24 15:47:54
 goldberg_content_pages_000019: 
   markup_style_id: 
   name: minutes_archive
-  updated_at: 2010-08-17 13:25:40
-  title: Minutes of Past  Meetings Archive
+  created_at: 2008-02-12 21:03:49
   permission_id: "3"
+  title: Minutes of Past  Meetings Archive
+  updated_at: 2010-08-17 13:25:40
   id: "22"
   content: |-
     <h2><font face="Arial" color="#000080">Archive of Past Minutes</font></h2>
@@ -1409,13 +1878,13 @@ goldberg_content_pages_000019:
     Ed Taggart adjourned the meeting at 6:26p.m. The motion was seconded by Belle Everett.<br />
     <br />
     Submitted by Melissa Thorne, AmeriCorps member</p>
-  created_at: 2008-02-12 21:03:49
 goldberg_content_pages_000008: 
   markup_style_id: "1"
   name: credits
-  updated_at: 2007-12-21 21:25:33
-  title: Credits and Licence
+  created_at: 2006-10-02 10:35:35
   permission_id: "3"
+  title: Credits and Licence
+  updated_at: 2007-12-21 21:25:33
   id: "10"
   content: |
     h1. Credits and Licence
@@ -1541,13 +2010,13 @@ goldberg_content_pages_000008:
     
     	<p>Goldberg&#8217;s implementation of tabbed panels was adapted from 
     <a href="http://support.internetconnection.net/CODE_LIBRARY/Javascript_Show_Hide.shtml">InternetConnection</a>.</p>
-  created_at: 2006-10-02 10:35:35
 goldberg_content_pages_000042: 
   markup_style_id: 
   name: kayak
-  updated_at: 2010-08-17 10:59:15
-  title: kayak
+  created_at: 2010-06-04 15:12:09
   permission_id: "3"
+  title: kayak
+  updated_at: 2010-08-17 10:59:15
   id: "45"
   content: |-
     <h1><font color="#000080">Kayak Raffle</font></h1>
@@ -1570,13 +2039,13 @@ goldberg_content_pages_000042:
     <p>&nbsp;</p>
     <p>Thank you Ed and Marissa for your adventurous fundraising!</p>
     <p>&nbsp;</p>
-  created_at: 2010-06-04 15:12:09
 goldberg_content_pages_000031: 
   markup_style_id: 
   name: bylaws
-  updated_at: 2008-10-20 14:20:01
-  title: HRWRP Bylaws
+  created_at: 2008-04-18 09:37:32
   permission_id: "3"
+  title: HRWRP Bylaws
+  updated_at: 2008-10-20 14:20:01
   id: "34"
   content: |-
     <h2><font color="#000080">Huff Run Watershed Restoration Partnership Bylaws</font></h2>
@@ -1793,13 +2262,13 @@ goldberg_content_pages_000031:
     <br />
     <br />
     &nbsp;&nbsp;&nbsp;</p>
-  created_at: 2008-04-18 09:37:32
 goldberg_content_pages_000020: 
   markup_style_id: 
   name: ag
-  updated_at: 2008-11-17 10:07:07
-  title: Agriculture
+  created_at: 2008-03-24 09:32:36
   permission_id: "3"
+  title: Agriculture
+  updated_at: 2008-11-17 10:07:07
   id: "23"
   content: |-
     <h2 align="left"><font color="#000080">Agriculture</font></h2>
@@ -1818,13 +2287,13 @@ goldberg_content_pages_000020:
     These pollution concerns are caused by a lack alternative water sources (spring developments, man made ponds, well water lines) for animals beyond tributaries and streams. Animals should be allowed minimal contact with the streams and fencing would solve this problem. <br />
     <br />
     The HRWRP still needs to conduct a complete inventory of agricultural problems in the watershed. Once complete, we hope to work with farmers to create alternative water sources for livestock and to install fencing. Currently, the HRWRP offers a bi-annual newsletters highlighting local, and national news highlights to the 30 or so agriculture landowners in the watershed.</font></p>
-  created_at: 2008-03-24 09:32:36
 goldberg_content_pages_000009: 
   markup_style_id: 
   name: unconfirmed
-  updated_at: 2007-12-21 21:25:33
-  title: Not Permitted
+  created_at: 2007-04-01 10:37:42
   permission_id: "3"
+  title: Not Permitted
+  updated_at: 2007-12-21 21:25:33
   id: "11"
   content: |
     h1. Not Permitted
@@ -1841,13 +2310,13 @@ goldberg_content_pages_000009:
     
     
     	<p>If there is an issue please contact the system administrator.</p>
-  created_at: 2007-04-01 10:37:42
 goldberg_content_pages_000043: 
   markup_style_id: 
   name: calendar
-  updated_at: 2010-07-31 10:44:50
-  title: Huff Run Calendar
+  created_at: 2010-07-31 10:39:33
   permission_id: "3"
+  title: Huff Run Calendar
+  updated_at: 2010-07-31 10:44:50
   id: "46"
   content: |-
     <h1>Events Calendar</h1>
@@ -1856,24 +2325,24 @@ goldberg_content_pages_000043:
   content_cache: |-
     <h1>Events Calendar</h1>
     <p><iframe width="550" scrolling="no" height="500" frameborder="0" style="border-width: 0pt;" src="http://www.google.com/calendar/embed?showTitle=0&amp;height=500&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=google_account%40huffrun.org&amp;color=%23853104&amp;ctz=America%2FNew_York"></iframe></p>
-  created_at: 2010-07-31 10:39:33
 goldberg_content_pages_000032: 
   markup_style_id: 
   name: orange_box
-  updated_at: 2010-08-26 15:39:39
-  title: Monthly Meeting
+  created_at: 2008-09-03 14:58:49
   permission_id: "3"
+  title: Monthly Meeting
+  updated_at: 2010-08-26 15:39:39
   id: "35"
   content: "<p style=\"padding-left: 7px; padding-right: 7px; line-height: 13px;\">Our next Huff Run meeting will be <font color=\"#ff6600\"><strong>September 21</strong><strong>,</strong><strong> 2010</strong></font> at the the Huff Run office at 8728 North High Street in Mineral City at 5:30pm. Join us.</p>"
   markup_style: FCKeditor
   content_cache: "<p style=\"padding-left: 7px; padding-right: 7px; line-height: 13px;\">Our next Huff Run meeting will be <font color=\"#ff6600\"><strong>September 21</strong><strong>,</strong><strong> 2010</strong></font> at the the Huff Run office at 8728 North High Street in Mineral City at 5:30pm. Join us.</p>"
-  created_at: 2008-09-03 14:58:49
 goldberg_content_pages_000021: 
   markup_style_id: 
   name: riparian
-  updated_at: 2009-04-01 12:56:28
-  title: Riparian Buffers
+  created_at: 2008-03-24 09:47:31
   permission_id: "3"
+  title: Riparian Buffers
+  updated_at: 2009-04-01 12:56:28
   id: "24"
   content: |-
     <h2><font color="#000080">Riparian Buffers</font></h2>
@@ -1888,13 +2357,13 @@ goldberg_content_pages_000021:
     <p>Riparian zones are called buffers for a reason. They work as buffers against surface run off that can carry non point source pollution (<a href="/amd">acid mine drainage</a>, road run off, pesticides, animal waste etc). The vegetation in the buffer zone slows the flow of surface runoff and allows it to percolate through the soil. Surface runoff is inversely proportional to the density of vegetation present. Leaf litter and humus dropped on the ground add to the ability of other vegetation to slow runoff. This results in a more gradual release of water from the watershed and stabilizes the watercourses and the ecosystem. When warm water from roads or surface water enters a cool water stream, this changes the equilibrium in the stream and can have a detrimental affect on aquatic life.</p>
     <p>The buffers also serve many functions critical to wildlife habitat by providing food, cover, travel, escape routes, roosting sites, nesting areas and den areas for land dwelling wildlife.</p>
     <p>In addition to helping wildlife and stream quality, buffers along streamside lots can benefit homeowners as well. While the vegetation is buffering the stream against pollutants, it soaks up water reducing flooding events.</p>
-  created_at: 2008-03-24 09:47:31
 goldberg_content_pages_000010: 
   markup_style_id: 
   name: pollution
-  updated_at: 2009-12-02 09:59:11
-  title: Pollution
+  created_at: 2007-12-21 22:44:21
   permission_id: "3"
+  title: Pollution
+  updated_at: 2009-12-02 09:59:11
   id: "12"
   content: |-
     <h2><font color="#000080">Pollution</font></h2>
@@ -1973,24 +2442,24 @@ goldberg_content_pages_000010:
         </tbody>
     </table>
     </p>
-  created_at: 2007-12-21 22:44:21
 goldberg_content_pages_000033: 
   markup_style_id: 
   name: blue_box
-  updated_at: 2008-11-05 12:59:15
-  title: Our Mission
+  created_at: 2008-09-03 14:59:23
   permission_id: "3"
+  title: Our Mission
+  updated_at: 2008-11-05 12:59:15
   id: "36"
   content: "<p style=\"padding-left: 7px; padding-right: 7px; line-height: 13px;\">To restore the Huff Run Watershed by improving water quality and enhancing wildlife habitat through community support and involvement.</p>"
   markup_style: FCKeditor
   content_cache: "<p style=\"padding-left: 7px; padding-right: 7px; line-height: 13px;\">To restore the Huff Run Watershed by improving water quality and enhancing wildlife habitat through community support and involvement.</p>"
-  created_at: 2008-09-03 14:59:23
 goldberg_content_pages_000022: 
   markup_style_id: 
   name: oil_gas
-  updated_at: 2009-04-01 12:49:47
-  title: Oil and Gas Development
+  created_at: 2008-03-24 09:51:43
   permission_id: "3"
+  title: Oil and Gas Development
+  updated_at: 2009-04-01 12:49:47
   id: "25"
   content: |-
     <h2><font color="#000080">Oil and Gas Development</font></h2>
@@ -2005,13 +2474,13 @@ goldberg_content_pages_000022:
     <p>Impacts to surface and ground water resources are evident as a result of historic well development. Ground water resources contaminated as a result of oil and gas development experience elevated levels of sodium (having the same effects as high salt diets), chloride (which is corrosive to plumbing and fixtures), calcium, magnesium (Calcium and magnesium together create &ldquo;total hardness.&rdquo;), potassium, barium (Barium is very toxic.), strontium and sulfate (Sulfate causes laxative effects.). In addition, oil and gas leach into developed aquifers from leaking production wells and improperly sealed abandoned wells. Often, access roads for new oil and gas wells are not planned, only created. Because these roads are not well planned, they often wash out causing erosion and sedimentation to Huff Run.<br />
     <br />
     At this point, the HRWRP is putting the oil and gas problem last on their list of priorities (<a href="/amd">acid mine drainage</a> being first). We will keep adding to ODNR/MRM's list of abandoned wells but we also want to talk to landowners about their wells and start conversation with the oil and gas companies about construction of better access roads and possible leaks.</p>
-  created_at: 2008-03-24 09:51:43
 goldberg_content_pages_000011: 
   markup_style_id: 
   name: projects
-  updated_at: 2007-12-22 09:50:05
-  title: Restoration Projects
+  created_at: 2007-12-21 22:44:44
   permission_id: "3"
+  title: Restoration Projects
+  updated_at: 2007-12-22 09:50:05
   id: "13"
   content: |-
     <p>We recieve government funding to conduct restoration projects to remedy our acid mine drainage pollution issues.</p>
@@ -2154,472 +2623,3 @@ goldberg_content_pages_000011:
             </tr>
         </tbody>
     </table>
-  created_at: 2007-12-21 22:44:44
-goldberg_content_pages_000034: 
-  markup_style_id: 
-  name: thanks
-  updated_at: 2009-12-02 08:25:18
-  title: Thanks
-  permission_id: "3"
-  id: "37"
-  content: |-
-    <div align="left">
-    <h2><font color="#003366">Thank You </font></h2>
-    </div>
-    <p>
-    <table height="93" width="487" cellspacing="1" cellpadding="1" border="1">
-        <tbody>
-            <tr>
-                <td align="center"><img height="41" width="41" src="/files/Image/wrl_logo.gif" alt="" /></td>
-                <td>Thank you to <a target="_blank" href="http://www.wrladv.com">WRL Advertising</a> for designing, programming and hosting our website.</td>
-            </tr>
-            <tr>
-                <td align="center"><img height="43" width="45" src="/files/Image/ra_logo2.jpg" alt="" /></td>
-                <td><a target="_blank" href="http://www.ruralaction.org">Rural Action</a> is the sponsor of the HRWRP providing fiscal management, administration, oversite and technical assistance.</td>
-            </tr>
-            <tr>
-                <td align="center"><img height="48" width="48" src="/files/Image/US_EPA_logo.gif" alt="" /></td>
-                <td>Funding for this site was provided by <a target="_blank" href="http://www.epa.gov">US EPA</a>'s <a target="_blank" href="http://www.epa.gov/twg/">Targeted Watershed Grant Program</a>.</td>
-            </tr>
-            <tr>
-                <td align="center"><img height="38" width="50" alt="" src="/files/Image/DMRM2.JPG" /></td>
-                <td>Without the help of the <a target="_blank" href="http://www.ohiodnr.com/mineral/default/tabid/10352/Default.aspx">Ohio Department of Natural Resources, Division of Mineral Resources Management</a>, none of the work at Huff Run would ever happen. Their knowledge, engineering, and funds support the Partnership and their work.</td>
-            </tr>
-        </tbody>
-    </table>
-    <br />
-    The heron background photo is used with permission from Michelle Plauger.</p>
-    <p>&nbsp;</p>
-  markup_style: FCKeditor
-  content_cache: |-
-    <div align="left">
-    <h2><font color="#003366">Thank You </font></h2>
-    </div>
-    <p>
-    <table height="93" width="487" cellspacing="1" cellpadding="1" border="1">
-        <tbody>
-            <tr>
-                <td align="center"><img height="41" width="41" src="/files/Image/wrl_logo.gif" alt="" /></td>
-                <td>Thank you to <a target="_blank" href="http://www.wrladv.com">WRL Advertising</a> for designing, programming and hosting our website.</td>
-            </tr>
-            <tr>
-                <td align="center"><img height="43" width="45" src="/files/Image/ra_logo2.jpg" alt="" /></td>
-                <td><a target="_blank" href="http://www.ruralaction.org">Rural Action</a> is the sponsor of the HRWRP providing fiscal management, administration, oversite and technical assistance.</td>
-            </tr>
-            <tr>
-                <td align="center"><img height="48" width="48" src="/files/Image/US_EPA_logo.gif" alt="" /></td>
-                <td>Funding for this site was provided by <a target="_blank" href="http://www.epa.gov">US EPA</a>'s <a target="_blank" href="http://www.epa.gov/twg/">Targeted Watershed Grant Program</a>.</td>
-            </tr>
-            <tr>
-                <td align="center"><img height="38" width="50" alt="" src="/files/Image/DMRM2.JPG" /></td>
-                <td>Without the help of the <a target="_blank" href="http://www.ohiodnr.com/mineral/default/tabid/10352/Default.aspx">Ohio Department of Natural Resources, Division of Mineral Resources Management</a>, none of the work at Huff Run would ever happen. Their knowledge, engineering, and funds support the Partnership and their work.</td>
-            </tr>
-        </tbody>
-    </table>
-    <br />
-    The heron background photo is used with permission from Michelle Plauger.</p>
-    <p>&nbsp;</p>
-  created_at: 2008-09-15 11:23:19
-goldberg_content_pages_000023: 
-  markup_style_id: 
-  name: sewage
-  updated_at: 2008-11-17 10:02:37
-  title: Raw Sewage
-  permission_id: "3"
-  id: "26"
-  content: |-
-    <h2><font color="#000080">Raw Sewage</font></h2>
-    <p><img height="129" align="right" width="297" style="padding-left: 10px;" src="/files/Image/septic_tank_diagram3.JPG" alt="" />Fecal coliform levels are above Ohio EPA&rsquo;s primary contact standard in parts of Huff Run and its tributaries as measured by County Health Departments.<br />
-    <br />
-    Failing septic systems have been identified as a concern affecting water quality within Huff Run as well as an out dated sewer system in Mineral City. Many rounds of bacteriological sampling have been conducted along Huff Run and its major tributaries. Most test results were positive for E-coli and high levels of fecal coliform, chemical biological oxygen demand (CBOD) and ammonia. <br />
-    <br />
-    Many human health risks can be attributed to improper sewage disposal. Raw sewage contains various pathogens that are easily transmitted through open waterways. This is a particular concern in the recreational areas in Huff Run. The Jerry Shuman Ball fields and the Mineral City Park both have tributaries running right along them that are affected.&nbsp; Individuals coming into contact with contaminated water can contract illnesses such as typhoid, tuberculosis, dysentery, cholera, tetanus, hepatitis, and several types of gastroenteritis. Several types of internal parasites are also present in sewage, along with a number of fungal diseases.<br />
-    Also, the health of aquatic species can be adversely impacted leaving them vulnerable to disease after coming in contact with fecal coliform.</p>
-  markup_style: FCKeditor
-  content_cache: |-
-    <h2><font color="#000080">Raw Sewage</font></h2>
-    <p><img height="129" align="right" width="297" style="padding-left: 10px;" src="/files/Image/septic_tank_diagram3.JPG" alt="" />Fecal coliform levels are above Ohio EPA&rsquo;s primary contact standard in parts of Huff Run and its tributaries as measured by County Health Departments.<br />
-    <br />
-    Failing septic systems have been identified as a concern affecting water quality within Huff Run as well as an out dated sewer system in Mineral City. Many rounds of bacteriological sampling have been conducted along Huff Run and its major tributaries. Most test results were positive for E-coli and high levels of fecal coliform, chemical biological oxygen demand (CBOD) and ammonia. <br />
-    <br />
-    Many human health risks can be attributed to improper sewage disposal. Raw sewage contains various pathogens that are easily transmitted through open waterways. This is a particular concern in the recreational areas in Huff Run. The Jerry Shuman Ball fields and the Mineral City Park both have tributaries running right along them that are affected.&nbsp; Individuals coming into contact with contaminated water can contract illnesses such as typhoid, tuberculosis, dysentery, cholera, tetanus, hepatitis, and several types of gastroenteritis. Several types of internal parasites are also present in sewage, along with a number of fungal diseases.<br />
-    Also, the health of aquatic species can be adversely impacted leaving them vulnerable to disease after coming in contact with fecal coliform.</p>
-  created_at: 2008-03-24 09:55:35
-goldberg_content_pages_000012: 
-  markup_style_id: 
-  name: programming
-  updated_at: 2009-04-01 12:54:53
-  title: Programming
-  permission_id: "3"
-  id: "14"
-  content: |-
-    <h2><font color="#000080">Programming</font></h2>
-    <h2><strong><font color="#ff6600"><img height="150" width="200" align="left" alt="" style="padding-right: 10px;" src="/files/Image/eec_girls.JPG" /></font></strong></h2>
-    <p><strong><font color="#ff6600">Enviromental Explorers Club</font></strong> - <strong>Involved Youth</strong> - Our Explorers Club, for children ages 6 through 13, was established&nbsp; to further our ideal of greater sustainability through involving youth in our mission. EEC meets on the third Saturday of each month at the Nicole Donant Library in Mineral City from November through March and the Mineral City Park April through October. Meetings are from noon until 3:00pm. Children learn about the world around them, participate in games, create crafts and meet new friends. A different program is given each month.</p>
-    <p><img height="155" width="208" align="right" alt="" style="padding-left: 10px;" src="/files/Image/cookie_mining.JPG" /><strong><font color="#ff6600">Classroom Presentations</font></strong> - <strong>Students of Nature</strong> - The Huff Run Watershed Restoration Partnership would like to invite your school, church youth group, or other small group to participate in our Environmental Learning Outreach Program.&nbsp; We are bringing the environment to you!&nbsp; The participants will be encouraged to attend the <a href="/events">Huff Run Watershed Awareness Day</a> each year.&nbsp; The Awareness Day will give each student a chance to apply the knowledge they learned in the classroom and see the stream first-hand. We feel it is important to teach and involve the youth in our mission so that a greater sense of sustainability can be achieved for the future generations in the Huff Run Watershed.</p>
-    <p><strong><font color="#ff6600"><img height="150" width="200" align="left" src="/files/Image/adopt_a_highway.JPG" style="padding-right: 10px;" alt="" />Ad</font></strong><strong><font color="#ff6600">o</font></strong><strong><font color="#ff6600">p</font></strong><strong><font color="#ff6600">t a Highway </font></strong>- <strong>Community Pride </strong>- In 2007, HRWRP became involved with <a target="_blank" href="http://www.dot.state.oh.us/Divisions/HighwayOps/Maintenance/Pages/AdoptAHighway.aspx">ODOT's Adopt a Highway Program</a> by adopting two miles of State Route 800 South of Mineral City. Clean Up days are generally held four times a year. We are always looking for volunteers to help us beautify this stretch of road.</p>
-    <p>&nbsp;</p>
-  markup_style: FCKeditor
-  content_cache: |-
-    <h2><font color="#000080">Programming</font></h2>
-    <h2><strong><font color="#ff6600"><img height="150" width="200" align="left" alt="" style="padding-right: 10px;" src="/files/Image/eec_girls.JPG" /></font></strong></h2>
-    <p><strong><font color="#ff6600">Enviromental Explorers Club</font></strong> - <strong>Involved Youth</strong> - Our Explorers Club, for children ages 6 through 13, was established&nbsp; to further our ideal of greater sustainability through involving youth in our mission. EEC meets on the third Saturday of each month at the Nicole Donant Library in Mineral City from November through March and the Mineral City Park April through October. Meetings are from noon until 3:00pm. Children learn about the world around them, participate in games, create crafts and meet new friends. A different program is given each month.</p>
-    <p><img height="155" width="208" align="right" alt="" style="padding-left: 10px;" src="/files/Image/cookie_mining.JPG" /><strong><font color="#ff6600">Classroom Presentations</font></strong> - <strong>Students of Nature</strong> - The Huff Run Watershed Restoration Partnership would like to invite your school, church youth group, or other small group to participate in our Environmental Learning Outreach Program.&nbsp; We are bringing the environment to you!&nbsp; The participants will be encouraged to attend the <a href="/events">Huff Run Watershed Awareness Day</a> each year.&nbsp; The Awareness Day will give each student a chance to apply the knowledge they learned in the classroom and see the stream first-hand. We feel it is important to teach and involve the youth in our mission so that a greater sense of sustainability can be achieved for the future generations in the Huff Run Watershed.</p>
-    <p><strong><font color="#ff6600"><img height="150" width="200" align="left" src="/files/Image/adopt_a_highway.JPG" style="padding-right: 10px;" alt="" />Ad</font></strong><strong><font color="#ff6600">o</font></strong><strong><font color="#ff6600">p</font></strong><strong><font color="#ff6600">t a Highway </font></strong>- <strong>Community Pride </strong>- In 2007, HRWRP became involved with <a target="_blank" href="http://www.dot.state.oh.us/Divisions/HighwayOps/Maintenance/Pages/AdoptAHighway.aspx">ODOT's Adopt a Highway Program</a> by adopting two miles of State Route 800 South of Mineral City. Clean Up days are generally held four times a year. We are always looking for volunteers to help us beautify this stretch of road.</p>
-    <p>&nbsp;</p>
-  created_at: 2007-12-21 22:45:09
-goldberg_content_pages_000001: 
-  markup_style_id: "1"
-  name: home
-  updated_at: 2010-08-26 15:38:59
-  title: Huff Run Home
-  permission_id: "3"
-  id: "1"
-  content: |-
-    <p><img alt="" src="/files/Image/home_page_banner.JPG" />    The Huff Run Watershed Restoration Partnership, a citizen based catalyst group, was formed in 1996. The ultimate goal of the Partnership is to return Huff Run to its original warm water habitat. The group conducts extensive environmental education and works closely with government agencies to accomplish their restoration mission.</p>
-    <hr size="2" width="100%" />
-    <p>&nbsp;</p>
-    <table>
-        <tbody>
-            <tr>
-                <td align="center" valign="top"><img height="70" width="70" src="/files/Image/kayak.jpg" alt="" /></td>
-                <td valign="top"><font color="#008080"><strong>Kayak Raffle</strong></font> Congratulations Pat Downes! Huff Run raffled off a kayak donated by <a href="http://www.pscmetals.com/" target="_blank">PSC Metals</a>. Pat won! It is a yellow Potomac 100ES worth $400.&nbsp; The drawing was held at the Mineral City Party in the Park  on August 15.</td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td valign="top"><img height="71" align="left" width="70" vspace="10" alt="" src="/files/Image/eec_logo.JPG" /></td>
-                <td valign="top">
-                <p><strong><font color="#008080">Environmental Explorers</font></strong> <font color="#008080"><strong>Club</strong></font>&nbsp; Our next EEC meeting will be September 18 from 1pm to 3pm at the Mineral City Park. The kids will learn about recycling. All children 6-13 are welcome to attend. Call <a href="http://www.huffrun.org/contact_us">Emily</a> if you have any questions.</p>
-                </td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td align="center" valign="top">
-                <p><img height="66" width="70" src="/files/Image/5k_logo_little.gif" alt="" /></p>
-                </td>
-                <td valign="top">
-                <p><font color="#008080"><font color="#000000"><font face="Arial"><strong><font color="#008080">Huff Run 5K &amp; Fun Mile </font></strong><font color="#008080"><font color="#000000">Thank you to our 5K and Fun Mile runners! Find your times and a photo <a href="http://www.huffrun.org/5KFunMile">here</a>. Great job runners and volunteers! </font></font><br />
-                </font></font></font></p>
-                <p>&nbsp;</p>
-                </td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td align="center" valign="top"><a href="/files/pdf/2010%20photo%20contest%20flyer%20final.pdf"><img height="61" width="70" src="/files/Image/Emily1.jpg" alt="" /><br />
-                </a></td>
-                <td valign="top">
-                <p><font color="#008080"><strong>Welcome Emily!</strong></font> Help us welcome<a href="http://www.huffrun.org/contact_us"> Emily Ankney</a>, our new AmeriCorps member! Emily will lead our Environmental Explorers Club, organize our Awareness Day field trips, and plan all our environmental education at Huff Run through August 2011. Welcome aboard!</p>
-                </td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td valign="top">&nbsp;<a href="http://www.huffrun.org/bottle"><img height="74" width="70" src="/files/Image/bottle2.JPG" alt="" /></a></td>
-                <td valign="top">
-                <p><font color="#008080"><strong><em>Clearance</em> on Huff Run Water Bottles!<font color="#000000"><font face="Arial"> </font></font></strong><font color="#000000"><font face="Arial">You can now have your own</font></font><strong><font color="#000000"><font face="Arial">&nbsp;</font></font></strong><font color="#000000"><font face="Arial"><a target="_blank" href="http://www.alz.org/news_and_events_alzheimer_news_02-02-2005.asp">aluminum</a>  Huff Run Water Bottle for only $10 - that's 33% off! These three tone,  lightweight bottles come </font></font></font>emblazoned  <font color="#008080"><font color="#000000"><font face="Arial"> with  the Huff  Run logo along with a carabineer. <a href="http://www.huffrun.org/bottle">Purchase here</a>. Thank you for those who bought them at full price to help us reach our &quot;Heat Huff Run Fund&quot; goals! <br />
-                </font></font></font></p>
-                </td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td valign="top"><img height="57" width="70" src="/files/Image/Bullfrog70.jpg" alt="" /></td>
-                <td valign="top"><font color="#008080"><strong>Annual Report</strong></font> Our Huff Run Watershed<a href="/files/pdf/2009_HR_annualreport_v001.pdf" target="_blank"> 2009 Annual Report</a> is now online! Visit our <a href="http://www.huffrun.org/publications" target="_blank">publications</a> page for this and past Annual Reports.</td>
-                <td>&nbsp;</td>
-            </tr>
-        </tbody>
-    </table>
-  markup_style: FCKeditor
-  content_cache: |-
-    <p><img alt="" src="/files/Image/home_page_banner.JPG" />    The Huff Run Watershed Restoration Partnership, a citizen based catalyst group, was formed in 1996. The ultimate goal of the Partnership is to return Huff Run to its original warm water habitat. The group conducts extensive environmental education and works closely with government agencies to accomplish their restoration mission.</p>
-    <hr size="2" width="100%" />
-    <p>&nbsp;</p>
-    <table>
-        <tbody>
-            <tr>
-                <td align="center" valign="top"><img height="70" width="70" src="/files/Image/kayak.jpg" alt="" /></td>
-                <td valign="top"><font color="#008080"><strong>Kayak Raffle</strong></font> Congratulations Pat Downes! Huff Run raffled off a kayak donated by <a href="http://www.pscmetals.com/" target="_blank">PSC Metals</a>. Pat won! It is a yellow Potomac 100ES worth $400.&nbsp; The drawing was held at the Mineral City Party in the Park  on August 15.</td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td valign="top"><img height="71" align="left" width="70" vspace="10" alt="" src="/files/Image/eec_logo.JPG" /></td>
-                <td valign="top">
-                <p><strong><font color="#008080">Environmental Explorers</font></strong> <font color="#008080"><strong>Club</strong></font>&nbsp; Our next EEC meeting will be September 18 from 1pm to 3pm at the Mineral City Park. The kids will learn about recycling. All children 6-13 are welcome to attend. Call <a href="http://www.huffrun.org/contact_us">Emily</a> if you have any questions.</p>
-                </td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td align="center" valign="top">
-                <p><img height="66" width="70" src="/files/Image/5k_logo_little.gif" alt="" /></p>
-                </td>
-                <td valign="top">
-                <p><font color="#008080"><font color="#000000"><font face="Arial"><strong><font color="#008080">Huff Run 5K &amp; Fun Mile </font></strong><font color="#008080"><font color="#000000">Thank you to our 5K and Fun Mile runners! Find your times and a photo <a href="http://www.huffrun.org/5KFunMile">here</a>. Great job runners and volunteers! </font></font><br />
-                </font></font></font></p>
-                <p>&nbsp;</p>
-                </td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td align="center" valign="top"><a href="/files/pdf/2010%20photo%20contest%20flyer%20final.pdf"><img height="61" width="70" src="/files/Image/Emily1.jpg" alt="" /><br />
-                </a></td>
-                <td valign="top">
-                <p><font color="#008080"><strong>Welcome Emily!</strong></font> Help us welcome<a href="http://www.huffrun.org/contact_us"> Emily Ankney</a>, our new AmeriCorps member! Emily will lead our Environmental Explorers Club, organize our Awareness Day field trips, and plan all our environmental education at Huff Run through August 2011. Welcome aboard!</p>
-                </td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td valign="top">&nbsp;<a href="http://www.huffrun.org/bottle"><img height="74" width="70" src="/files/Image/bottle2.JPG" alt="" /></a></td>
-                <td valign="top">
-                <p><font color="#008080"><strong><em>Clearance</em> on Huff Run Water Bottles!<font color="#000000"><font face="Arial"> </font></font></strong><font color="#000000"><font face="Arial">You can now have your own</font></font><strong><font color="#000000"><font face="Arial">&nbsp;</font></font></strong><font color="#000000"><font face="Arial"><a target="_blank" href="http://www.alz.org/news_and_events_alzheimer_news_02-02-2005.asp">aluminum</a>  Huff Run Water Bottle for only $10 - that's 33% off! These three tone,  lightweight bottles come </font></font></font>emblazoned  <font color="#008080"><font color="#000000"><font face="Arial"> with  the Huff  Run logo along with a carabineer. <a href="http://www.huffrun.org/bottle">Purchase here</a>. Thank you for those who bought them at full price to help us reach our &quot;Heat Huff Run Fund&quot; goals! <br />
-                </font></font></font></p>
-                </td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td valign="top"><img height="57" width="70" src="/files/Image/Bullfrog70.jpg" alt="" /></td>
-                <td valign="top"><font color="#008080"><strong>Annual Report</strong></font> Our Huff Run Watershed<a href="/files/pdf/2009_HR_annualreport_v001.pdf" target="_blank"> 2009 Annual Report</a> is now online! Visit our <a href="http://www.huffrun.org/publications" target="_blank">publications</a> page for this and past Annual Reports.</td>
-                <td>&nbsp;</td>
-            </tr>
-        </tbody>
-    </table>
-  created_at: 2006-06-12 00:31:56
-goldberg_content_pages_000035: 
-  markup_style_id: 
-  name: water_quality
-  updated_at: 2008-11-15 13:28:05
-  title: Water Quality
-  permission_id: "3"
-  id: "38"
-  content: |-
-    <h2><strong><font color="#000080">Water Quality in the Huff Run Watershed</font></strong></h2>
-    <p><img class="" style="padding-left: 10px" height="225" alt="" width="300" align="right" src="/files/Image/USGS1web.JPG" />Our <a href="http://www.usgs.gov">United States Geological Survey</a> (USGS) gauge is located on County Road 90/ New Cumberland Road. This location is far downstream, about a mile up from the mouth of Huff Run, at our most polluted site. All the acid mine drainage and other pollution concerns culminate at this downstream site. Water quality here demonstrates the changes we are making to the stream. The gauge takes daily readings of <a target="_blank" href="http://www.watersheddata.com/HuffRun/index.aspx">chemical parameters</a> including pH, temperature, conductivity, and dissolved oxygen. USGS also maintains a <a target="_blank" href="http://waterdata.usgs.gov/oh/nwis/uv?site_no=03121850&amp;PARAneter_cd=00065,00060,00010">flow station</a> here.</p>
-    <p>Huff Run's staff as well as the <a href="http://www.ohiodnr.com/mineral/default/tabid/10352/Default.aspx">Ohio Department of Natural Resources (ODNR), Division of Mineral Resources Management</a> staff take chemical water quality samples throughout the watershed. Long term main stem samples, project sites, pre construction sampling sites and other data can be found at Huff Run's digital <a target="_blank" href="http://www.watersheddata.com">water quality database</a>. Huff Run is part of ODNR's Non Point Source Database Project which is&nbsp;developed by the <a target="_blank" href="http://www.voinovichschool.ohio.edu/index.aspx">Voinovich School of Leadership and Public Affairs.</a></p>
-  markup_style: FCKeditor
-  content_cache: |-
-    <h2><strong><font color="#000080">Water Quality in the Huff Run Watershed</font></strong></h2>
-    <p><img class="" style="padding-left: 10px" height="225" alt="" width="300" align="right" src="/files/Image/USGS1web.JPG" />Our <a href="http://www.usgs.gov">United States Geological Survey</a> (USGS) gauge is located on County Road 90/ New Cumberland Road. This location is far downstream, about a mile up from the mouth of Huff Run, at our most polluted site. All the acid mine drainage and other pollution concerns culminate at this downstream site. Water quality here demonstrates the changes we are making to the stream. The gauge takes daily readings of <a target="_blank" href="http://www.watersheddata.com/HuffRun/index.aspx">chemical parameters</a> including pH, temperature, conductivity, and dissolved oxygen. USGS also maintains a <a target="_blank" href="http://waterdata.usgs.gov/oh/nwis/uv?site_no=03121850&amp;PARAneter_cd=00065,00060,00010">flow station</a> here.</p>
-    <p>Huff Run's staff as well as the <a href="http://www.ohiodnr.com/mineral/default/tabid/10352/Default.aspx">Ohio Department of Natural Resources (ODNR), Division of Mineral Resources Management</a> staff take chemical water quality samples throughout the watershed. Long term main stem samples, project sites, pre construction sampling sites and other data can be found at Huff Run's digital <a target="_blank" href="http://www.watersheddata.com">water quality database</a>. Huff Run is part of ODNR's Non Point Source Database Project which is&nbsp;developed by the <a target="_blank" href="http://www.voinovichschool.ohio.edu/index.aspx">Voinovich School of Leadership and Public Affairs.</a></p>
-  created_at: 2008-09-15 15:22:44
-goldberg_content_pages_000024: 
-  markup_style_id: 
-  name: dumping
-  updated_at: 2008-11-17 09:13:20
-  title: Open and Illegal Dumping Grounds
-  permission_id: "3"
-  id: "27"
-  content: |-
-    <h2><font color="#000080">Open and Illegal Dumping Grounds</font></h2>
-    <p><img height="162" align="right" width="200" src="/files/Image/trash2.JPG" style="padding-left: 10px;" alt="" />Illegal dumping in the watershed within isolated forested areas, along roads and within unreclaimed strip pits is a problem.</p>
-    <p>Trash disposal fees are too high for low-income residents to dispose of major items (especially for tires and large appliances). Communities and individuals are uninformed about alternatives to and the effects of illegal dumping.</p>
-    <p>Harmful impacts to the watershed and water quality from illegally dumped trash include: debris jams which increase the impacts of flooding, surface water contamination from dump site runoff containing chemicals, and significant health risks. Some health risks include: injury due to sharp objects, increase in rodents, the potential spread of diseases (West Nile Virus, encephalitis and Dengue Fever) from mosquito breeding in scrap tires. Perhaps the most important component of the illegal trash dumping problem is the continued lack of respect for the environment and how that can affect future economic development in the area. Economic impacts caused by illegal trash dumping include: decreased property values because communities become unattractive, and increased cost because of government clean-up expenditures leading to higher local, state, and federal taxes.</p>
-  markup_style: FCKeditor
-  content_cache: |-
-    <h2><font color="#000080">Open and Illegal Dumping Grounds</font></h2>
-    <p><img height="162" align="right" width="200" src="/files/Image/trash2.JPG" style="padding-left: 10px;" alt="" />Illegal dumping in the watershed within isolated forested areas, along roads and within unreclaimed strip pits is a problem.</p>
-    <p>Trash disposal fees are too high for low-income residents to dispose of major items (especially for tires and large appliances). Communities and individuals are uninformed about alternatives to and the effects of illegal dumping.</p>
-    <p>Harmful impacts to the watershed and water quality from illegally dumped trash include: debris jams which increase the impacts of flooding, surface water contamination from dump site runoff containing chemicals, and significant health risks. Some health risks include: injury due to sharp objects, increase in rodents, the potential spread of diseases (West Nile Virus, encephalitis and Dengue Fever) from mosquito breeding in scrap tires. Perhaps the most important component of the illegal trash dumping problem is the continued lack of respect for the environment and how that can affect future economic development in the area. Economic impacts caused by illegal trash dumping include: decreased property values because communities become unattractive, and increased cost because of government clean-up expenditures leading to higher local, state, and federal taxes.</p>
-  created_at: 2008-03-24 09:56:48
-goldberg_content_pages_000013: 
-  markup_style_id: 
-  name: membership
-  updated_at: 2010-08-30 12:20:29
-  title: Membership
-  permission_id: "3"
-  id: "15"
-  content: |-
-    <h2><font color="#000080">Huff Run Membership</font></h2>
-    <p>Memberships run through our fiscal year: June to May.<br />
-    <br />
-    Member benefits include voting rights at our monthly meetings, annual membership cards, a welcome packet and a car window cling. Members also receive exclusive invitations to all Huff Run events, tours and activities.</p>
-    <p>You can join our Partnership online securely and quickly through PayPal by using the button below. There is no need to have a PayPal account, just a credit card. We also accept <a href="/contact_us">checks</a>. You can also donate to our cause at our <a href="/support_us">Support Us page</a>. Thank you.&nbsp;</p>
-    <div align="left">
-    <form method="post" action="https://www.paypal.com/cgi-bin/webscr">
-        <div align="left">&nbsp;</div>
-        <div align="center"><input type="hidden" value="_s-xclick" name="cmd" /> <input type="hidden" value="327215" name="hosted_button_id" /></div>
-        <table align="center">
-            <tbody>
-                <tr align="center">
-                    <td><input type="hidden" value="Membership type" name="on0" />Membership type</td>
-                </tr>
-                <tr>
-                    <td><select name="os0">
-                    <option value="Individual">Individual $5.00 	</option>
-                    <option value="Family">Family $10.00 	</option>
-                    <option value="Non-profit">Non-profit $25.00 	</option>
-                    <option value="Business">Business $50.00 </option>
-                    </select></td>
-                </tr>
-            </tbody>
-        </table>
-        <div align="center"><input type="hidden" value="USD" name="currency_code" /> <input border="0" type="image" alt="" name="submit" src="https://www.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif" /> <img height="1" border="0" width="1" src="https://www.paypal.com/en_US/i/scr/pixel.gif" alt="" /></div>
-    </form>
-    </div>
-    <hr />
-    <p><font size="2">
-    <table cellspacing="0" cellpadding="1" border="0" width="550">
-        <tbody>
-            <tr>
-                <td colspan="3"><font size="2"><strong><font color="#000080">Huff Run Watershed Restoration  Partnership,</font></strong></font><font size="2"><strong><font color="#000080">Inc. 2010/2011 Members</font></strong></font></td>
-            </tr>
-            <tr>
-                <td>Linda Ross<br />
-                Michael and Stacey Spillman<br />
-                Marlene Myer<br />
-                Christian Vermillion<br />
-                John D McConnell<br />
-                Donald and Shirley Holder<br />
-                Chuck and Margaret Knaack<br />
-                Ray Lehman<br />
-                Tom Kolp<br />
-                Dan and Nancy Trbovich</td>
-                <td>
-                <p>Jodi Malusky<br />
-                Sally Yance<br />
-                Bob Farnsworth<br />
-                Ed Taggart<br />
-                Ramon and Carole Halter<br />
-                Jim and Carol Toms<br />
-                Bruce and Patricia Downes<br />
-                Mike and Judy Farber<br />
-                Rick Cain<br />
-                Mark and Michelle Gross<br />
-                Dave and Jeanine Rock<br />
-                Amber, Eric and Lochlann Earnhardt</p>
-                </td>
-                <td>Gary and Renee Neisel<br />
-                Gary N. and Nancy Neisel<br />
-                Cameron and Elizabeth Krahel<br />
-                The Geib Family&nbsp;&nbsp; &nbsp;<br />
-                Kathy Smith<br />
-                Brady Steinbaugh<br />
-                John&nbsp; McCoury<br />
-                Terry Scott<br />
-                Chad Kinney<br />
-                Jim&nbsp; Gue<br />
-                Cheri Harris<br />
-                Mike and Rose Gintz</td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <p><font color="#333399"><strong><font size="2">Non Profit and Business Class</font></strong></font>&nbsp;</p>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">Lindentree Industrial Corporation<br />
-                Beavers Marine Store<br />
-                Rosebud Mining Company</td>
-            </tr>
-        </tbody>
-    </table>
-    </font></p>
-    <p>&nbsp;</p>
-  markup_style: FCKeditor
-  content_cache: |-
-    <h2><font color="#000080">Huff Run Membership</font></h2>
-    <p>Memberships run through our fiscal year: June to May.<br />
-    <br />
-    Member benefits include voting rights at our monthly meetings, annual membership cards, a welcome packet and a car window cling. Members also receive exclusive invitations to all Huff Run events, tours and activities.</p>
-    <p>You can join our Partnership online securely and quickly through PayPal by using the button below. There is no need to have a PayPal account, just a credit card. We also accept <a href="/contact_us">checks</a>. You can also donate to our cause at our <a href="/support_us">Support Us page</a>. Thank you.&nbsp;</p>
-    <div align="left">
-    <form method="post" action="https://www.paypal.com/cgi-bin/webscr">
-        <div align="left">&nbsp;</div>
-        <div align="center"><input type="hidden" value="_s-xclick" name="cmd" /> <input type="hidden" value="327215" name="hosted_button_id" /></div>
-        <table align="center">
-            <tbody>
-                <tr align="center">
-                    <td><input type="hidden" value="Membership type" name="on0" />Membership type</td>
-                </tr>
-                <tr>
-                    <td><select name="os0">
-                    <option value="Individual">Individual $5.00 	</option>
-                    <option value="Family">Family $10.00 	</option>
-                    <option value="Non-profit">Non-profit $25.00 	</option>
-                    <option value="Business">Business $50.00 </option>
-                    </select></td>
-                </tr>
-            </tbody>
-        </table>
-        <div align="center"><input type="hidden" value="USD" name="currency_code" /> <input border="0" type="image" alt="" name="submit" src="https://www.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif" /> <img height="1" border="0" width="1" src="https://www.paypal.com/en_US/i/scr/pixel.gif" alt="" /></div>
-    </form>
-    </div>
-    <hr />
-    <p><font size="2">
-    <table cellspacing="0" cellpadding="1" border="0" width="550">
-        <tbody>
-            <tr>
-                <td colspan="3"><font size="2"><strong><font color="#000080">Huff Run Watershed Restoration  Partnership,</font></strong></font><font size="2"><strong><font color="#000080">Inc. 2010/2011 Members</font></strong></font></td>
-            </tr>
-            <tr>
-                <td>Linda Ross<br />
-                Michael and Stacey Spillman<br />
-                Marlene Myer<br />
-                Christian Vermillion<br />
-                John D McConnell<br />
-                Donald and Shirley Holder<br />
-                Chuck and Margaret Knaack<br />
-                Ray Lehman<br />
-                Tom Kolp<br />
-                Dan and Nancy Trbovich</td>
-                <td>
-                <p>Jodi Malusky<br />
-                Sally Yance<br />
-                Bob Farnsworth<br />
-                Ed Taggart<br />
-                Ramon and Carole Halter<br />
-                Jim and Carol Toms<br />
-                Bruce and Patricia Downes<br />
-                Mike and Judy Farber<br />
-                Rick Cain<br />
-                Mark and Michelle Gross<br />
-                Dave and Jeanine Rock<br />
-                Amber, Eric and Lochlann Earnhardt</p>
-                </td>
-                <td>Gary and Renee Neisel<br />
-                Gary N. and Nancy Neisel<br />
-                Cameron and Elizabeth Krahel<br />
-                The Geib Family&nbsp;&nbsp; &nbsp;<br />
-                Kathy Smith<br />
-                Brady Steinbaugh<br />
-                John&nbsp; McCoury<br />
-                Terry Scott<br />
-                Chad Kinney<br />
-                Jim&nbsp; Gue<br />
-                Cheri Harris<br />
-                Mike and Rose Gintz</td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <p><font color="#333399"><strong><font size="2">Non Profit and Business Class</font></strong></font>&nbsp;</p>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">Lindentree Industrial Corporation<br />
-                Beavers Marine Store<br />
-                Rosebud Mining Company</td>
-            </tr>
-        </tbody>
-    </table>
-    </font></p>
-    <p>&nbsp;</p>
-  created_at: 2007-12-21 22:45:41
-goldberg_content_pages_000002: 
-  markup_style_id: "1"
-  name: expired
-  updated_at: 2007-12-21 21:25:33
-  title: Session Expired
-  permission_id: "3"
-  id: "2"
-  content: |
-    h1. Session Expired
-    
-    Your session has expired due to inactivity.
-    
-    To continue please login again.
-
-  markup_style: Textile
-  content_cache: |-
-    <h1>Session Expired</h1>
-    
-    	<p>Your session has expired due to inactivity.</p>
-    
-    
-    	<p>To continue please login again.</p>
-  created_at: 2006-06-12 00:33:14

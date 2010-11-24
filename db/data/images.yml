@@ -1,1873 +1,1873 @@
 --- 
-images_000121: 
-  content_type: image/jpeg
-  project_id: "13"
-  size: "925838"
-  thumbnail: 
-  type: ProjectImage
-  id: "151"
-  caption: Site of mine entry, preconstruction
-  height: "375"
-  filename: mineetnry.JPG
-  position: "3"
-  parent_id: 
-  width: "500"
-images_000094: 
-  content_type: image/jpeg
-  project_id: 
-  size: "32100"
-  thumbnail: thumb
-  type: 
-  id: "120"
-  caption: 
-  height: "75"
-  filename: HR25pond_thumb.JPG
-  position: 
-  parent_id: "119"
-  width: "100"
-images_000066: 
-  content_type: image/jpeg
-  project_id: 
-  size: "28302"
-  thumbnail: thumb
-  type: 
-  id: "90"
-  caption: 
-  height: "75"
-  filename: farr_early_post_const_thumb.JPG
-  position: 
-  parent_id: "89"
-  width: "100"
-images_000038: 
-  content_type: image/jpeg
-  project_id: 
-  size: "38209"
-  thumbnail: thumb
-  type: 
-  id: "56"
-  caption: 
-  height: "66"
-  filename: HR38lower_thumb.JPG
-  position: 
-  parent_id: "55"
-  width: "100"
-images_000122: 
-  content_type: image/jpeg
-  project_id: 
-  size: "87257"
-  thumbnail: thumb
-  type: 
-  id: "152"
-  caption: 
-  height: "75"
-  filename: mineetnry_thumb.JPG
-  position: 
-  parent_id: "151"
-  width: "100"
-images_000067: 
-  content_type: image/jpeg
-  project_id: "5"
-  size: "725945"
-  thumbnail: 
-  type: ProjectImage
-  id: "93"
-  caption: Linden prebid meeting
-  height: "375"
-  filename: linden_prebid.JPG
-  position: "3"
-  parent_id: 
-  width: "500"
-images_000039: 
-  content_type: image/jpeg
-  project_id: "20"
-  size: "33152"
-  thumbnail: 
-  type: ProjectImage
-  id: "57"
-  caption: Harsha South sampling point
-  height: "201"
-  filename: harshasouth.JPG
-  position: "1"
-  parent_id: 
-  width: "300"
-images_000095: 
-  content_type: image/jpeg
-  project_id: "21"
-  size: "34384"
-  thumbnail: 
-  type: ProjectImage
-  id: "121"
-  caption: HR-38 beaver pond
-  height: "199"
-  filename: HR38beaverpond.JPG
-  position: "2"
-  parent_id: 
-  width: "300"
-images_000123: 
-  content_type: image/jpeg
-  project_id: "3"
-  size: "155054"
-  thumbnail: 
-  type: ProjectImage
-  id: "153"
-  caption: During construction - installing liner
-  height: "375"
-  filename: installing_liner_in_1B.jpg
-  position: "6"
-  parent_id: 
-  width: "500"
-images_000068: 
-  content_type: image/jpeg
-  project_id: 
-  size: "56125"
-  thumbnail: thumb
-  type: 
-  id: "94"
-  caption: 
-  height: "75"
-  filename: linden_prebid_thumb.JPG
-  position: 
-  parent_id: "93"
-  width: "100"
-images_000096: 
-  content_type: image/jpeg
-  project_id: 
-  size: "39844"
-  thumbnail: thumb
-  type: 
-  id: "122"
-  caption: 
-  height: "66"
-  filename: HR38beaverpond_thumb.JPG
-  position: 
-  parent_id: "121"
-  width: "100"
-images_000124: 
-  content_type: image/jpeg
-  project_id: 
-  size: "107463"
-  thumbnail: thumb
-  type: 
-  id: "154"
-  caption: 
-  height: "75"
-  filename: installing_liner_in_1B_thumb.jpg
-  position: 
-  parent_id: "153"
-  width: "100"
-images_000010: 
-  content_type: image/jpeg
-  project_id: 
-  size: "27606"
-  thumbnail: thumb
-  type: 
-  id: "20"
-  caption: 
-  height: "75"
-  filename: lindenoverview4web_thumb.jpg
-  position: 
-  parent_id: "19"
-  width: "100"
-images_000069: 
-  content_type: image/jpeg
-  project_id: "5"
-  size: "906069"
-  thumbnail: 
-  type: ProjectImage
-  id: "95"
-  caption: Linden's source of acid mine drainage
-  height: "335"
-  filename: linden_source.JPG
-  position: "4"
-  parent_id: 
-  width: "500"
-images_000097: 
-  content_type: image/jpeg
-  project_id: "21"
-  size: "36231"
-  thumbnail: 
-  type: ProjectImage
-  id: "123"
-  caption: HR-38 sampling point
-  height: "199"
-  filename: HR38discharge.JPG
-  position: "3"
-  parent_id: 
-  width: "300"
-images_000125: 
-  content_type: image/jpeg
-  project_id: "3"
-  size: "158342"
-  thumbnail: 
-  type: ProjectImage
-  id: "155"
-  caption: During construction - pouring concrete in road patch over new culverts
-  height: "375"
-  filename: pouring_concrete_in_road_patch.jpg
-  position: "7"
-  parent_id: 
-  width: "500"
-images_000098: 
-  content_type: image/jpeg
-  project_id: 
-  size: "42590"
-  thumbnail: thumb
-  type: 
-  id: "124"
-  caption: 
-  height: "66"
-  filename: HR38discharge_thumb.JPG
-  position: 
-  parent_id: "123"
-  width: "100"
-images_000011: 
-  content_type: image/jpeg
-  project_id: "6"
-  size: "45074"
-  thumbnail: 
-  type: ProjectImage
-  id: "21"
-  caption: Acid mine drainage plume adjacent to Huff Run
-  height: "225"
-  filename: hr42web.jpg
-  position: "1"
-  parent_id: 
-  width: "300"
-images_000126: 
-  content_type: image/jpeg
-  project_id: 
-  size: "105971"
-  thumbnail: thumb
-  type: 
-  id: "156"
-  caption: 
-  height: "75"
-  filename: pouring_concrete_in_road_patch_thumb.jpg
-  position: 
-  parent_id: "155"
-  width: "100"
-images_000040: 
-  content_type: image/jpeg
-  project_id: 
-  size: "38743"
-  thumbnail: thumb
-  type: 
-  id: "58"
-  caption: 
-  height: "67"
-  filename: harshasouth_thumb.JPG
-  position: 
-  parent_id: "57"
-  width: "100"
-images_000099: 
-  content_type: image/jpeg
-  project_id: "22"
-  size: "28745"
-  thumbnail: 
-  type: ProjectImage
-  id: "125"
-  caption: Jobes Reclamation site
-  height: "225"
-  filename: jobes2.JPG
-  position: "2"
-  parent_id: 
-  width: "300"
-images_000012: 
-  content_type: image/jpeg
-  project_id: 
-  size: "51216"
-  thumbnail: thumb
-  type: 
-  id: "22"
-  caption: 
-  height: "75"
-  filename: hr42web_thumb.jpg
-  position: 
-  parent_id: "21"
-  width: "100"
-images_000127: 
-  content_type: image/jpeg
-  project_id: "3"
-  size: "93786"
-  thumbnail: 
-  type: ProjectImage
-  id: "157"
-  caption: Post construction - open limestone channel
-  height: "500"
-  filename: Hasha_North_6-10-2009_006.jpg
-  position: "8"
-  parent_id: 
-  width: "375"
-images_000041: 
-  content_type: image/jpeg
-  project_id: "18"
-  size: "37079"
-  thumbnail: 
-  type: ProjectImage
-  id: "59"
-  caption: Just upstream of HR-25 sampling point
-  height: "225"
-  filename: HR-25.JPG
-  position: "1"
-  parent_id: 
-  width: "300"
-images_000013: 
-  content_type: image/jpeg
-  project_id: "7"
-  size: "25635"
-  thumbnail: 
-  type: ProjectImage
-  id: "23"
-  caption: Farr, post construction, looking upstream from the finishing cell
-  height: "201"
-  filename: farrweb.jpg
-  position: "1"
-  parent_id: 
-  width: "300"
-images_000128: 
-  content_type: image/jpeg
-  project_id: 
-  size: "62147"
-  thumbnail: thumb
-  type: 
-  id: "158"
-  caption: 
-  height: "100"
-  filename: Hasha_North_6-10-2009_006_thumb.jpg
-  position: 
-  parent_id: "157"
-  width: "75"
-images_000070: 
-  content_type: image/jpeg
-  project_id: 
-  size: "129170"
-  thumbnail: thumb
-  type: 
-  id: "96"
-  caption: 
-  height: "67"
-  filename: linden_source_thumb.JPG
-  position: 
-  parent_id: "95"
-  width: "100"
-images_000042: 
-  content_type: image/jpeg
-  project_id: 
-  size: "43641"
-  thumbnail: thumb
-  type: 
-  id: "60"
-  caption: 
-  height: "75"
-  filename: HR-25_thumb.JPG
-  position: 
-  parent_id: "59"
-  width: "100"
-images_000014: 
-  content_type: image/jpeg
-  project_id: 
-  size: "29971"
-  thumbnail: thumb
-  type: 
-  id: "24"
-  caption: 
-  height: "67"
-  filename: farrweb_thumb.jpg
-  position: 
-  parent_id: "23"
-  width: "100"
-images_000129: 
-  content_type: image/jpeg
-  project_id: "3"
-  size: "81795"
-  thumbnail: 
-  type: ProjectImage
-  id: "159"
-  caption: Harsha North - post construction
-  height: "375"
-  filename: Hasha_North_6-10-2009_025.jpg
-  position: "9"
-  parent_id: 
-  width: "500"
-images_000071: 
-  content_type: image/jpeg
-  project_id: "5"
-  size: "909897"
-  thumbnail: 
-  type: ProjectImage
-  id: "97"
-  caption: Linden innoculating
-  height: "335"
-  filename: linden_innoculation.JPG
-  position: "5"
-  parent_id: 
-  width: "500"
-images_000043: 
-  content_type: image/jpeg
-  project_id: "17"
-  size: "21626"
-  thumbnail: 
-  type: ProjectImage
-  id: "61"
-  caption: Reclamation at HR-22 forfeiture project
-  height: "225"
-  filename: HR22AML.JPG
-  position: "1"
-  parent_id: 
-  width: "300"
-images_000015: 
-  content_type: image/jpeg
-  project_id: "7"
-  size: "22913"
-  thumbnail: 
-  type: ProjectImage
-  id: "25"
-  caption: Farr, post construction, looking downstream from finishing cell
-  height: "225"
-  filename: farrlastcellweb.jpg
-  position: "2"
-  parent_id: 
-  width: "300"
-images_000072: 
-  content_type: image/jpeg
-  project_id: 
-  size: "125280"
-  thumbnail: thumb
-  type: 
-  id: "98"
-  caption: 
-  height: "67"
-  filename: linden_innoculation_thumb.JPG
-  position: 
-  parent_id: "97"
-  width: "100"
-images_000044: 
-  content_type: image/jpeg
-  project_id: 
-  size: "25677"
-  thumbnail: thumb
-  type: 
-  id: "62"
-  caption: 
-  height: "75"
-  filename: HR22AML_thumb.JPG
-  position: 
-  parent_id: "61"
-  width: "100"
-images_000016: 
-  content_type: image/jpeg
-  project_id: 
-  size: "26544"
-  thumbnail: thumb
-  type: 
-  id: "26"
-  caption: 
-  height: "75"
-  filename: farrlastcellweb_thumb.jpg
-  position: 
-  parent_id: "25"
-  width: "100"
-images_000073: 
-  content_type: image/jpeg
-  project_id: "5"
-  size: "883037"
-  thumbnail: 
-  type: ProjectImage
-  id: "99"
-  caption: innoculation bucket
-  height: "335"
-  filename: pyrolusite_process_bucket.JPG
-  position: "6"
-  parent_id: 
-  width: "500"
-images_000045: 
-  content_type: image/jpeg
-  project_id: "2"
-  size: "35524"
-  thumbnail: 
-  type: ProjectImage
-  id: "63"
-  caption: Lyons main drainage post construction
-  height: "225"
-  filename: lyons_post.JPG
-  position: "2"
-  parent_id: 
-  width: "300"
-images_000100: 
-  content_type: image/jpeg
-  project_id: 
-  size: "34104"
-  thumbnail: thumb
-  type: 
-  id: "126"
-  caption: 
-  height: "75"
-  filename: jobes2_thumb.JPG
-  position: 
-  parent_id: "125"
-  width: "100"
-images_000017: 
-  content_type: image/jpeg
-  project_id: "2"
-  size: "17969"
-  thumbnail: 
-  type: ProjectImage
-  id: "27"
-  caption: Lyons Project from the air
-  height: "193"
-  filename: lyonsfromair.jpg
-  position: "1"
-  parent_id: 
-  width: "300"
-images_000046: 
-  content_type: image/jpeg
-  project_id: 
-  size: "41732"
-  thumbnail: thumb
-  type: 
-  id: "64"
-  caption: 
-  height: "75"
-  filename: lyons_post_thumb.JPG
-  position: 
-  parent_id: "63"
-  width: "100"
-images_000101: 
-  content_type: image/jpeg
-  project_id: "2"
-  size: "826472"
-  thumbnail: 
-  type: ProjectImage
-  id: "129"
-  caption: Lyons main drainage pre construction
-  height: "339"
-  filename: Lyons.jpg
-  position: "8"
-  parent_id: 
-  width: "500"
-images_000018: 
-  content_type: image/jpeg
-  project_id: 
-  size: "20712"
-  thumbnail: thumb
-  type: 
-  id: "28"
-  caption: 
-  height: "64"
-  filename: lyonsfromair_thumb.jpg
-  position: 
-  parent_id: "27"
-  width: "100"
-images_000074: 
-  content_type: image/jpeg
-  project_id: 
-  size: "118901"
-  thumbnail: thumb
-  type: 
-  id: "100"
-  caption: 
-  height: "67"
-  filename: pyrolusite_process_bucket_thumb.JPG
-  position: 
-  parent_id: "99"
-  width: "100"
-images_000130: 
-  content_type: image/jpeg
-  project_id: 
-  size: "53418"
-  thumbnail: thumb
-  type: 
-  id: "160"
-  caption: 
-  height: "75"
-  filename: Hasha_North_6-10-2009_025_thumb.jpg
-  position: 
-  parent_id: "159"
-  width: "100"
-images_000047: 
-  content_type: image/jpeg
-  project_id: "2"
-  size: "30755"
-  thumbnail: 
-  type: ProjectImage
-  id: "65"
-  caption: Lyons main drainage pre construction, looking downstream
-  height: "200"
-  filename: lyons_discharge.JPG
-  position: "3"
-  parent_id: 
-  width: "300"
-images_000102: 
-  content_type: image/jpeg
-  project_id: 
-  size: "321322"
-  thumbnail: thumb
-  type: 
-  id: "130"
-  caption: 
-  height: "68"
-  filename: Lyons_thumb.jpg
-  position: 
-  parent_id: "129"
-  width: "100"
-images_000019: 
-  content_type: image/jpeg
-  project_id: "9"
-  size: "15217"
-  thumbnail: 
-  type: ProjectImage
-  id: "31"
-  caption: Acid Pit Project, completed
-  height: "225"
-  filename: acidpitcompleted2.jpg
-  position: "1"
-  parent_id: 
-  width: "300"
-images_000075: 
-  content_type: image/jpeg
-  project_id: "6"
-  size: "752416"
-  thumbnail: 
-  type: ProjectImage
-  id: "101"
-  caption: HR-42
-  height: "375"
-  filename: famous_hr42_pic.JPG
-  position: "2"
-  parent_id: 
-  width: "500"
-images_000131: 
-  content_type: image/jpeg
-  project_id: "3"
-  size: "59471"
-  thumbnail: 
-  type: ProjectImage
-  id: "161"
-  caption: Harsha North - post construction
-  height: "375"
-  filename: Hasha_North_6-10-2009_029.jpg
-  position: "10"
-  parent_id: 
-  width: "500"
-images_000048: 
-  content_type: image/jpeg
-  project_id: 
-  size: "36184"
-  thumbnail: thumb
-  type: 
-  id: "66"
-  caption: 
-  height: "67"
-  filename: lyons_discharge_thumb.JPG
-  position: 
-  parent_id: "65"
-  width: "100"
-images_000103: 
-  content_type: image/jpeg
-  project_id: "23"
-  size: "98053"
-  thumbnail: 
-  type: ProjectImage
-  id: "131"
-  caption: Upper Impoundment on Hope Road West Project
-  height: "225"
-  filename: hoperdwpit.JPG
-  position: "1"
-  parent_id: 
-  width: "300"
-images_000076: 
-  content_type: image/jpeg
-  project_id: 
-  size: "54950"
-  thumbnail: thumb
-  type: 
-  id: "102"
-  caption: 
-  height: "75"
-  filename: famous_hr42_pic_thumb.JPG
-  position: 
-  parent_id: "101"
-  width: "100"
-images_000132: 
-  content_type: image/jpeg
-  project_id: 
-  size: "38984"
-  thumbnail: thumb
-  type: 
-  id: "162"
-  caption: 
-  height: "75"
-  filename: Hasha_North_6-10-2009_029_thumb.jpg
-  position: 
-  parent_id: "161"
-  width: "100"
-images_000049: 
-  content_type: image/jpeg
-  project_id: "2"
-  size: "21163"
-  thumbnail: 
-  type: ProjectImage
-  id: "67"
-  caption: Lyons Project, middle of site
-  height: "225"
-  filename: lyons_postconstruction_07_OLCs.JPG
-  position: "4"
-  parent_id: 
-  width: "300"
-images_000104: 
-  content_type: image/jpeg
-  project_id: 
-  size: "99545"
-  thumbnail: thumb
-  type: 
-  id: "132"
-  caption: 
-  height: "75"
-  filename: hoperdwpit_thumb.JPG
-  position: 
-  parent_id: "131"
-  width: "100"
-images_000077: 
-  content_type: image/jpeg
-  project_id: "8"
-  size: "636333"
-  thumbnail: 
-  type: ProjectImage
-  id: "103"
-  caption: Belden preconstruction
-  height: "335"
-  filename: belden_pre.jpg
-  position: "1"
-  parent_id: 
-  width: "500"
 images_000133: 
+  position: "11"
+  size: "85359"
   content_type: image/jpeg
   project_id: "3"
-  size: "85359"
   thumbnail: 
-  type: ProjectImage
   id: "163"
+  type: ProjectImage
   caption: Harsha North - post construction
   height: "375"
   filename: Hasha_North_6-10-2009_051.jpg
-  position: "11"
   parent_id: 
   width: "500"
 images_000105: 
+  position: "2"
+  size: "110132"
   content_type: image/jpeg
   project_id: "23"
-  size: "110132"
   thumbnail: 
-  type: ProjectImage
   id: "133"
+  type: ProjectImage
   caption: Coal Refuse Pile on Hope Road West
   height: "225"
   filename: hoperdwspoil.JPG
-  position: "2"
   parent_id: 
   width: "300"
 images_000078: 
+  position: 
+  size: "62273"
   content_type: image/jpeg
   project_id: 
-  size: "62273"
   thumbnail: thumb
-  type: 
   id: "104"
+  type: 
   caption: 
   height: "67"
   filename: belden_pre_thumb.jpg
-  position: 
   parent_id: "103"
   width: "100"
 images_000134: 
+  position: 
+  size: "56312"
   content_type: image/jpeg
   project_id: 
-  size: "56312"
   thumbnail: thumb
-  type: 
   id: "164"
+  type: 
   caption: 
   height: "75"
   filename: Hasha_North_6-10-2009_051_thumb.jpg
-  position: 
   parent_id: "163"
   width: "100"
-images_000106: 
-  content_type: image/jpeg
-  project_id: 
-  size: "109255"
-  thumbnail: thumb
-  type: 
-  id: "134"
-  caption: 
-  height: "75"
-  filename: hoperdwspoil_thumb.JPG
-  position: 
-  parent_id: "133"
-  width: "100"
 images_000020: 
+  position: 
+  size: "19216"
   content_type: image/jpeg
   project_id: 
-  size: "19216"
   thumbnail: thumb
-  type: 
   id: "32"
+  type: 
   caption: 
   height: "75"
   filename: acidpitcompleted2_thumb.jpg
-  position: 
   parent_id: "31"
   width: "100"
 images_000079: 
+  position: "2"
+  size: "640572"
   content_type: image/jpeg
   project_id: "8"
-  size: "640572"
   thumbnail: 
-  type: ProjectImage
   id: "105"
+  type: ProjectImage
   caption: Belden, preconstruction
   height: "335"
   filename: belden_pre2.jpg
-  position: "2"
   parent_id: 
   width: "500"
+images_000106: 
+  position: 
+  size: "109255"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "134"
+  type: 
+  caption: 
+  height: "75"
+  filename: hoperdwspoil_thumb.JPG
+  parent_id: "133"
+  width: "100"
 images_000135: 
+  position: "5"
+  size: "135150"
   content_type: image/jpeg
   project_id: "7"
-  size: "135150"
   thumbnail: 
-  type: ProjectImage
   id: "165"
+  type: ProjectImage
   caption: Farr, preconstruction rail road bed
   height: "375"
   filename: MVC-005F.JPG
-  position: "5"
-  parent_id: 
-  width: "500"
-images_000107: 
-  content_type: image/jpeg
-  project_id: "22"
-  size: "201204"
-  thumbnail: 
-  type: ProjectImage
-  id: "135"
-  caption: Jobes during construction
-  height: "333"
-  filename: Jobes.JPG
-  position: "3"
   parent_id: 
   width: "500"
 images_000021: 
+  position: "2"
+  size: "36610"
   content_type: image/jpeg
   project_id: "9"
-  size: "36610"
   thumbnail: 
-  type: ProjectImage
   id: "33"
+  type: ProjectImage
   caption: Acid Pit Project, pre construction
   height: "225"
   filename: acidpitweb.jpg
-  position: "2"
   parent_id: 
   width: "300"
+images_000107: 
+  position: "3"
+  size: "201204"
+  content_type: image/jpeg
+  project_id: "22"
+  thumbnail: 
+  id: "135"
+  type: ProjectImage
+  caption: Jobes during construction
+  height: "333"
+  filename: Jobes.JPG
+  parent_id: 
+  width: "500"
 images_000136: 
+  position: 
+  size: "30091"
   content_type: image/jpeg
   project_id: 
-  size: "30091"
   thumbnail: thumb
-  type: 
   id: "166"
+  type: 
   caption: 
   height: "75"
   filename: MVC-005F_thumb.JPG
-  position: 
   parent_id: "165"
   width: "100"
-images_000108: 
-  content_type: image/jpeg
-  project_id: 
-  size: "22017"
-  thumbnail: thumb
-  type: 
-  id: "136"
-  caption: 
-  height: "67"
-  filename: Jobes_thumb.JPG
-  position: 
-  parent_id: "135"
-  width: "100"
-images_000050: 
-  content_type: image/jpeg
-  project_id: 
-  size: "24984"
-  thumbnail: thumb
-  type: 
-  id: "68"
-  caption: 
-  height: "75"
-  filename: lyons_postconstruction_07_OLCs_thumb.JPG
-  position: 
-  parent_id: "67"
-  width: "100"
 images_000022: 
+  position: 
+  size: "41943"
   content_type: image/jpeg
   project_id: 
-  size: "41943"
   thumbnail: thumb
-  type: 
   id: "34"
+  type: 
   caption: 
   height: "75"
   filename: acidpitweb_thumb.jpg
-  position: 
   parent_id: "33"
   width: "100"
+images_000108: 
+  position: 
+  size: "22017"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "136"
+  type: 
+  caption: 
+  height: "67"
+  filename: Jobes_thumb.JPG
+  parent_id: "135"
+  width: "100"
+images_000050: 
+  position: 
+  size: "24984"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "68"
+  type: 
+  caption: 
+  height: "75"
+  filename: lyons_postconstruction_07_OLCs_thumb.JPG
+  parent_id: "67"
+  width: "100"
 images_000137: 
+  position: "4"
+  size: "923467"
   content_type: image/jpeg
   project_id: "13"
-  size: "923467"
   thumbnail: 
-  type: ProjectImage
   id: "167"
+  type: ProjectImage
   caption: Aerobic wetland - post construction
   height: "375"
   filename: aerobic_wetland.JPG
-  position: "4"
   parent_id: 
   width: "500"
-images_000051: 
-  content_type: image/jpeg
-  project_id: "2"
-  size: "27004"
-  thumbnail: 
-  type: ProjectImage
-  id: "69"
-  caption: Steel slag ponds on Lyons Project
-  height: "200"
-  filename: lyons_postconstruction_07_slagponds.JPG
-  position: "5"
-  parent_id: 
-  width: "300"
 images_000023: 
+  position: "1"
+  size: "37531"
   content_type: image/jpeg
   project_id: "12"
-  size: "37531"
   thumbnail: 
-  type: ProjectImage
   id: "35"
+  type: ProjectImage
   caption: Thomas lower ponds
   height: "224"
   filename: thomasweb.jpg
-  position: "1"
   parent_id: 
   width: "300"
 images_000080: 
+  position: 
+  size: "59494"
   content_type: image/jpeg
   project_id: 
-  size: "59494"
   thumbnail: thumb
-  type: 
   id: "106"
+  type: 
   caption: 
   height: "67"
   filename: belden_pre2_thumb.jpg
-  position: 
   parent_id: "105"
   width: "100"
 images_000109: 
+  position: "3"
+  size: "873135"
   content_type: image/jpeg
   project_id: "15"
-  size: "873135"
   thumbnail: 
-  type: ProjectImage
   id: "139"
+  type: ProjectImage
   caption: AML project before reclamation
   height: "309"
   filename: AML_before_reclamation.jpg
-  position: "3"
   parent_id: 
   width: "500"
+images_000051: 
+  position: "5"
+  size: "27004"
+  content_type: image/jpeg
+  project_id: "2"
+  thumbnail: 
+  id: "69"
+  type: ProjectImage
+  caption: Steel slag ponds on Lyons Project
+  height: "200"
+  filename: lyons_postconstruction_07_slagponds.JPG
+  parent_id: 
+  width: "300"
 images_000138: 
+  position: 
+  size: "62385"
   content_type: image/jpeg
   project_id: 
-  size: "62385"
   thumbnail: thumb
-  type: 
   id: "168"
+  type: 
   caption: 
   height: "75"
   filename: aerobic_wetland_thumb.JPG
-  position: 
   parent_id: "167"
   width: "100"
-images_000052: 
-  content_type: image/jpeg
-  project_id: 
-  size: "31947"
-  thumbnail: thumb
-  type: 
-  id: "70"
-  caption: 
-  height: "67"
-  filename: lyons_postconstruction_07_slagponds_thumb.JPG
-  position: 
-  parent_id: "69"
-  width: "100"
 images_000024: 
+  position: 
+  size: "42577"
   content_type: image/jpeg
   project_id: 
-  size: "42577"
   thumbnail: thumb
-  type: 
   id: "36"
+  type: 
   caption: 
   height: "75"
   filename: thomasweb_thumb.jpg
-  position: 
   parent_id: "35"
   width: "100"
+images_000052: 
+  position: 
+  size: "31947"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "70"
+  type: 
+  caption: 
+  height: "67"
+  filename: lyons_postconstruction_07_slagponds_thumb.JPG
+  parent_id: "69"
+  width: "100"
 images_000139: 
+  position: "5"
+  size: "917628"
   content_type: image/jpeg
   project_id: "13"
-  size: "917628"
   thumbnail: 
-  type: ProjectImage
   id: "169"
+  type: ProjectImage
   caption: Post construction - former mine entry site with mine drain
   height: "375"
   filename: former_mine_entry.jpg
-  position: "5"
   parent_id: 
   width: "500"
 images_000025: 
+  position: "2"
+  size: "18007"
   content_type: image/jpeg
   project_id: "12"
-  size: "18007"
   thumbnail: 
-  type: ProjectImage
   id: "37"
+  type: ProjectImage
   caption: Thomas upper pond, preconstruction
   height: "224"
   filename: thomaspitweb.jpg
-  position: "2"
   parent_id: 
   width: "300"
 images_000081: 
+  position: "3"
+  size: "26119"
   content_type: image/jpeg
   project_id: "8"
-  size: "26119"
   thumbnail: 
-  type: ProjectImage
   id: "107"
+  type: ProjectImage
   caption: Belden under construction from air
   height: "200"
   filename: belden_under_construction2.JPG
-  position: "3"
   parent_id: 
   width: "300"
 images_000053: 
+  position: "6"
+  size: "21202"
   content_type: image/jpeg
   project_id: "2"
-  size: "21202"
   thumbnail: 
-  type: ProjectImage
   id: "71"
+  type: ProjectImage
   caption: Acidic pond and spoil on Lyons Project site, pre construction
   height: "200"
   filename: lyons_preconst.JPG
-  position: "6"
   parent_id: 
   width: "300"
 images_000026: 
+  position: 
+  size: "20706"
   content_type: image/jpeg
   project_id: 
-  size: "20706"
   thumbnail: thumb
-  type: 
   id: "38"
+  type: 
   caption: 
   height: "75"
   filename: thomaspitweb_thumb.jpg
-  position: 
   parent_id: "37"
   width: "100"
 images_000082: 
+  position: 
+  size: "30995"
   content_type: image/jpeg
   project_id: 
-  size: "30995"
   thumbnail: thumb
-  type: 
   id: "108"
+  type: 
   caption: 
   height: "67"
   filename: belden_under_construction2_thumb.JPG
-  position: 
   parent_id: "107"
   width: "100"
 images_000054: 
+  position: 
+  size: "25087"
   content_type: image/jpeg
   project_id: 
-  size: "25087"
   thumbnail: thumb
-  type: 
   id: "72"
+  type: 
   caption: 
   height: "67"
   filename: lyons_preconst_thumb.JPG
-  position: 
   parent_id: "71"
   width: "100"
 images_000027: 
+  position: "1"
+  size: "23563"
   content_type: image/jpeg
   project_id: "15"
-  size: "23563"
   thumbnail: 
-  type: ProjectImage
   id: "43"
+  type: ProjectImage
   caption: Tree planting on Huff Run AML project
   height: "225"
   filename: hramlweb.jpg
-  position: "1"
   parent_id: 
   width: "300"
 images_000083: 
+  position: "4"
+  size: "40154"
   content_type: image/jpeg
   project_id: "8"
-  size: "40154"
   thumbnail: 
-  type: ProjectImage
   id: "109"
+  type: ProjectImage
   caption: Belden sampling point
   height: "225"
   filename: beldenhr12.JPG
-  position: "4"
   parent_id: 
   width: "300"
 images_000055: 
+  position: "7"
+  size: "40393"
   content_type: image/jpeg
   project_id: "2"
-  size: "40393"
   thumbnail: 
-  type: ProjectImage
   id: "73"
+  type: ProjectImage
   caption: Lyons Project ground breaking
   height: "224"
   filename: lyonsgroundbreaking.JPG
-  position: "7"
   parent_id: 
   width: "300"
 images_000110: 
+  position: 
+  size: "117360"
   content_type: image/jpeg
   project_id: 
-  size: "117360"
   thumbnail: thumb
-  type: 
   id: "140"
+  type: 
   caption: 
   height: "62"
   filename: AML_before_reclamation_thumb.jpg
-  position: 
   parent_id: "139"
   width: "100"
-images_000028: 
-  content_type: image/jpeg
-  project_id: 
-  size: "27074"
-  thumbnail: thumb
-  type: 
-  id: "44"
-  caption: 
-  height: "75"
-  filename: hramlweb_thumb.jpg
-  position: 
-  parent_id: "43"
-  width: "100"
 images_000084: 
+  position: 
+  size: "46902"
   content_type: image/jpeg
   project_id: 
-  size: "46902"
   thumbnail: thumb
-  type: 
   id: "110"
+  type: 
   caption: 
   height: "75"
   filename: beldenhr12_thumb.JPG
-  position: 
   parent_id: "109"
   width: "100"
 images_000056: 
+  position: 
+  size: "47124"
   content_type: image/jpeg
   project_id: 
-  size: "47124"
   thumbnail: thumb
-  type: 
   id: "74"
+  type: 
   caption: 
   height: "75"
   filename: lyonsgroundbreaking_thumb.JPG
-  position: 
   parent_id: "73"
   width: "100"
 images_000111: 
+  position: "3"
+  size: "48547"
   content_type: image/jpeg
   project_id: "6"
-  size: "48547"
   thumbnail: 
-  type: ProjectImage
   id: "141"
+  type: ProjectImage
   caption: Fern Hill, just as construction was finishing up. Vegetation still coming in.
   height: "364"
   filename: hr_42_hills.jpg
-  position: "3"
   parent_id: 
   width: "500"
-images_000140: 
+images_000028: 
+  position: 
+  size: "27074"
   content_type: image/jpeg
   project_id: 
-  size: "66548"
   thumbnail: thumb
+  id: "44"
   type: 
+  caption: 
+  height: "75"
+  filename: hramlweb_thumb.jpg
+  parent_id: "43"
+  width: "100"
+images_000140: 
+  position: 
+  size: "66548"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
   id: "170"
+  type: 
   caption: 
   height: "75"
   filename: former_mine_entry_thumb.jpg
-  position: 
   parent_id: "169"
   width: "100"
-images_000029: 
-  content_type: image/jpeg
-  project_id: "15"
-  size: "27692"
-  thumbnail: 
-  type: ProjectImage
-  id: "45"
-  caption: Rock channel on Huff Run AML project
-  height: "225"
-  filename: hramlrockchannel2web.jpg
-  position: "2"
-  parent_id: 
-  width: "300"
 images_000085: 
+  position: "1"
+  size: "491902"
   content_type: image/jpeg
   project_id: "13"
-  size: "491902"
   thumbnail: 
-  type: ProjectImage
   id: "111"
+  type: ProjectImage
   caption: Site of future RAPS
   height: "335"
   filename: site_of_mz_raps.jpg
-  position: "1"
   parent_id: 
   width: "500"
 images_000057: 
+  position: "3"
+  size: "19884"
   content_type: image/jpeg
   project_id: "3"
-  size: "19884"
   thumbnail: 
-  type: ProjectImage
   id: "79"
+  type: ProjectImage
   caption: Harsha North, post construction
   height: "225"
   filename: harsha_n_hills.JPG
-  position: "3"
   parent_id: 
   width: "300"
 images_000112: 
+  position: 
+  size: "40636"
   content_type: image/jpeg
   project_id: 
-  size: "40636"
   thumbnail: thumb
-  type: 
   id: "142"
+  type: 
   caption: 
   height: "73"
   filename: hr_42_hills_thumb.jpg
-  position: 
   parent_id: "141"
   width: "100"
+images_000029: 
+  position: "2"
+  size: "27692"
+  content_type: image/jpeg
+  project_id: "15"
+  thumbnail: 
+  id: "45"
+  type: ProjectImage
+  caption: Rock channel on Huff Run AML project
+  height: "225"
+  filename: hramlrockchannel2web.jpg
+  parent_id: 
+  width: "300"
 images_000141: 
+  position: "6"
+  size: "1016175"
   content_type: image/jpeg
   project_id: "13"
-  size: "1016175"
   thumbnail: 
-  type: ProjectImage
   id: "171"
+  type: ProjectImage
   caption: Post construction - anaerobic wetland
   height: "375"
   filename: anaerobic_wetland.JPG
-  position: "6"
   parent_id: 
   width: "500"
 images_000086: 
+  position: 
+  size: "47836"
   content_type: image/jpeg
   project_id: 
-  size: "47836"
   thumbnail: thumb
-  type: 
   id: "112"
+  type: 
   caption: 
   height: "67"
   filename: site_of_mz_raps_thumb.jpg
-  position: 
   parent_id: "111"
   width: "100"
 images_000058: 
+  position: 
+  size: "23772"
   content_type: image/jpeg
   project_id: 
-  size: "23772"
   thumbnail: thumb
-  type: 
   id: "80"
+  type: 
   caption: 
   height: "75"
   filename: harsha_n_hills_thumb.JPG
-  position: 
   parent_id: "79"
   width: "100"
 images_000113: 
+  position: "5"
+  size: "247458"
   content_type: image/jpeg
   project_id: "8"
-  size: "247458"
   thumbnail: 
-  type: ProjectImage
   id: "143"
+  type: ProjectImage
   caption: Slag Bed Three, after construction
   height: "375"
   filename: IMGP0615.JPG
-  position: "5"
   parent_id: 
   width: "500"
 images_000142: 
+  position: 
+  size: "64925"
   content_type: image/jpeg
   project_id: 
-  size: "64925"
   thumbnail: thumb
-  type: 
   id: "172"
+  type: 
   caption: 
   height: "75"
   filename: anaerobic_wetland_thumb.JPG
-  position: 
   parent_id: "171"
   width: "100"
 images_000087: 
+  position: "2"
+  size: "86281"
   content_type: image/jpeg
   project_id: "16"
-  size: "86281"
   thumbnail: 
-  type: ProjectImage
   id: "113"
+  type: ProjectImage
   caption: Lindentree reclamation, postconstruction
   height: "338"
   filename: lindentree_field.jpg
-  position: "2"
   parent_id: 
   width: "500"
 images_000059: 
+  position: "4"
+  size: "29863"
   content_type: image/jpeg
   project_id: "3"
-  size: "29863"
   thumbnail: 
-  type: ProjectImage
   id: "81"
+  type: ProjectImage
   caption: Harsha North, pre construction gob
   height: "225"
   filename: harsha_n_spoil_pre.JPG
-  position: "4"
   parent_id: 
   width: "300"
 images_000114: 
+  position: 
+  size: "71226"
   content_type: image/jpeg
   project_id: 
-  size: "71226"
   thumbnail: thumb
-  type: 
   id: "144"
+  type: 
   caption: 
   height: "75"
   filename: IMGP0615_thumb.JPG
-  position: 
   parent_id: "143"
   width: "100"
 images_000143: 
+  position: "7"
+  size: "933718"
   content_type: image/jpeg
   project_id: "13"
-  size: "933718"
   thumbnail: 
-  type: ProjectImage
   id: "173"
+  type: ProjectImage
   caption: Post construction - RAPS on left with aerobic wetland
   height: "375"
   filename: RAPS.JPG
-  position: "7"
   parent_id: 
   width: "500"
 images_000115: 
+  position: "6"
+  size: "260038"
   content_type: image/jpeg
   project_id: "8"
-  size: "260038"
   thumbnail: 
-  type: ProjectImage
   id: "145"
+  type: ProjectImage
   caption: Belden Sediment Pond, after construction
   height: "375"
   filename: sediment_pond.JPG
-  position: "6"
   parent_id: 
   width: "500"
 images_000088: 
+  position: 
+  size: "63167"
   content_type: image/jpeg
   project_id: 
-  size: "63167"
   thumbnail: thumb
-  type: 
   id: "114"
+  type: 
   caption: 
   height: "68"
   filename: lindentree_field_thumb.jpg
-  position: 
   parent_id: "113"
   width: "100"
 images_000001: 
+  position: "1"
+  size: "107983"
   content_type: image/jpeg
   project_id: "1"
-  size: "107983"
   thumbnail: 
-  type: ProjectImage
   id: "1"
+  type: ProjectImage
   caption: 
   height: "200"
   filename: video-games-live.jpg
-  position: "1"
   parent_id: 
   width: "229"
 images_000144: 
+  position: 
+  size: "58428"
   content_type: image/jpeg
   project_id: 
-  size: "58428"
   thumbnail: thumb
-  type: 
   id: "174"
+  type: 
   caption: 
   height: "75"
   filename: RAPS_thumb.JPG
-  position: 
   parent_id: "173"
   width: "100"
 images_000116: 
+  position: 
+  size: "72817"
   content_type: image/jpeg
   project_id: 
-  size: "72817"
   thumbnail: thumb
-  type: 
   id: "146"
+  type: 
   caption: 
   height: "75"
   filename: sediment_pond_thumb.JPG
-  position: 
   parent_id: "145"
   width: "100"
-images_000030: 
-  content_type: image/jpeg
-  project_id: 
-  size: "32065"
-  thumbnail: thumb
-  type: 
-  id: "46"
-  caption: 
-  height: "75"
-  filename: hramlrockchannel2web_thumb.jpg
-  position: 
-  parent_id: "45"
-  width: "100"
 images_000089: 
+  position: "3"
+  size: "729100"
   content_type: image/jpeg
   project_id: "16"
-  size: "729100"
   thumbnail: 
-  type: ProjectImage
   id: "115"
+  type: ProjectImage
   caption: Acidic pond, preconstruction
   height: "375"
   filename: lindentreepond.JPG
-  position: "3"
   parent_id: 
   width: "500"
 images_000002: 
+  position: 
+  size: "28237"
   content_type: image/jpeg
   project_id: 
-  size: "28237"
   thumbnail: thumb
-  type: 
   id: "2"
+  type: 
   caption: 
   height: "87"
   filename: video-games-live_thumb.jpg
-  position: 
   parent_id: "1"
   width: "100"
+images_000030: 
+  position: 
+  size: "32065"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "46"
+  type: 
+  caption: 
+  height: "75"
+  filename: hramlrockchannel2web_thumb.jpg
+  parent_id: "45"
+  width: "100"
 images_000117: 
+  position: "7"
+  size: "251118"
   content_type: image/jpeg
   project_id: "8"
-  size: "251118"
   thumbnail: 
-  type: ProjectImage
   id: "147"
+  type: ProjectImage
   caption: Belden small slag bed, after construction
   height: "375"
   filename: small_slag_bed.JPG
-  position: "7"
   parent_id: 
   width: "500"
-images_000031: 
-  content_type: image/jpeg
-  project_id: "16"
-  size: "29882"
-  thumbnail: 
-  type: ProjectImage
-  id: "47"
-  caption: Existing wetland on site, enhanced by Lindentree Project
-  height: "225"
-  filename: lindentreewetlandweb.jpg
-  position: "1"
-  parent_id: 
-  width: "300"
 images_000003: 
+  position: "1"
+  size: "48604"
   content_type: image/jpeg
   project_id: "3"
-  size: "48604"
   thumbnail: 
-  type: ProjectImage
   id: "9"
+  type: ProjectImage
   caption: Gob piles on the property, preconstruction
   height: "200"
   filename: harshanweb2.jpg
-  position: "1"
   parent_id: 
   width: "150"
+images_000031: 
+  position: "1"
+  size: "29882"
+  content_type: image/jpeg
+  project_id: "16"
+  thumbnail: 
+  id: "47"
+  type: ProjectImage
+  caption: Existing wetland on site, enhanced by Lindentree Project
+  height: "225"
+  filename: lindentreewetlandweb.jpg
+  parent_id: 
+  width: "300"
 images_000118: 
+  position: 
+  size: "76898"
   content_type: image/jpeg
   project_id: 
-  size: "76898"
   thumbnail: thumb
-  type: 
   id: "148"
+  type: 
   caption: 
   height: "75"
   filename: small_slag_bed_thumb.JPG
-  position: 
   parent_id: "147"
   width: "100"
 images_000004: 
+  position: 
+  size: "21372"
   content_type: image/jpeg
   project_id: 
-  size: "21372"
   thumbnail: thumb
-  type: 
   id: "10"
+  type: 
   caption: 
   height: "100"
   filename: harshanweb2_thumb.jpg
-  position: 
   parent_id: "9"
   width: "75"
 images_000060: 
+  position: 
+  size: "35102"
   content_type: image/jpeg
   project_id: 
-  size: "35102"
   thumbnail: thumb
-  type: 
   id: "82"
+  type: 
   caption: 
   height: "75"
   filename: harsha_n_spoil_pre_thumb.JPG
-  position: 
   parent_id: "81"
   width: "100"
 images_000032: 
+  position: 
+  size: "34086"
   content_type: image/jpeg
   project_id: 
-  size: "34086"
   thumbnail: thumb
-  type: 
   id: "48"
+  type: 
   caption: 
   height: "75"
   filename: lindentreewetlandweb_thumb.jpg
-  position: 
   parent_id: "47"
   width: "100"
 images_000119: 
+  position: "2"
+  size: "746788"
   content_type: image/jpeg
   project_id: "13"
-  size: "746788"
   thumbnail: 
-  type: ProjectImage
   id: "149"
+  type: ProjectImage
   caption: Downstream site of future wetland
   height: "375"
   filename: mzdownstream.jpg
-  position: "2"
   parent_id: 
   width: "500"
 images_000005: 
+  position: "2"
+  size: "38411"
   content_type: image/jpeg
   project_id: "3"
-  size: "38411"
   thumbnail: 
-  type: ProjectImage
   id: "11"
+  type: ProjectImage
   caption: Discharge from Harsha North, preconstruction
   height: "200"
   filename: harshanweb1.jpg
-  position: "2"
   parent_id: 
   width: "267"
 images_000090: 
+  position: 
+  size: "52228"
   content_type: image/jpeg
   project_id: 
-  size: "52228"
   thumbnail: thumb
-  type: 
   id: "116"
+  type: 
   caption: 
   height: "75"
   filename: lindentreepond_thumb.JPG
-  position: 
   parent_id: "115"
   width: "100"
 images_000061: 
+  position: "5"
+  size: "37154"
   content_type: image/jpeg
   project_id: "3"
-  size: "37154"
   thumbnail: 
-  type: ProjectImage
   id: "83"
+  type: ProjectImage
   caption: Harsha North, pre construction main drainage channel
   height: "225"
   filename: harshaN_pre_drainage.JPG
-  position: "5"
   parent_id: 
   width: "300"
 images_000033: 
+  position: "1"
+  size: "21846"
   content_type: image/jpeg
   project_id: "19"
-  size: "21846"
   thumbnail: 
-  type: ProjectImage
   id: "51"
+  type: ProjectImage
   caption: Taggart's Wetland Fall 06
   height: "191"
   filename: taggarts_wetland.JPG
-  position: "1"
   parent_id: 
   width: "300"
 images_000006: 
+  position: 
+  size: "40500"
   content_type: image/jpeg
   project_id: 
-  size: "40500"
   thumbnail: thumb
-  type: 
   id: "12"
+  type: 
   caption: 
   height: "75"
   filename: harshanweb1_thumb.jpg
-  position: 
   parent_id: "11"
   width: "100"
 images_000091: 
+  position: "2"
+  size: "24346"
   content_type: image/jpeg
   project_id: "17"
-  size: "24346"
   thumbnail: 
-  type: ProjectImage
   id: "117"
+  type: ProjectImage
   caption: Project from the air, at close of construction
   height: "200"
   filename: hr22air.JPG
-  position: "2"
   parent_id: 
   width: "300"
 images_000062: 
+  position: 
+  size: "43531"
   content_type: image/jpeg
   project_id: 
-  size: "43531"
   thumbnail: thumb
-  type: 
   id: "84"
+  type: 
   caption: 
   height: "75"
   filename: harshaN_pre_drainage_thumb.JPG
-  position: 
   parent_id: "83"
   width: "100"
 images_000034: 
+  position: 
+  size: "26011"
   content_type: image/jpeg
   project_id: 
-  size: "26011"
   thumbnail: thumb
-  type: 
   id: "52"
+  type: 
   caption: 
   height: "64"
   filename: taggarts_wetland_thumb.JPG
-  position: 
   parent_id: "51"
   width: "100"
-images_000007: 
-  content_type: image/jpeg
-  project_id: "5"
-  size: "54673"
-  thumbnail: 
-  type: ProjectImage
-  id: "17"
-  caption: Linden, post construction, during 2005 Awareness Day
-  height: "300"
-  filename: lindenweb.jpg
-  position: "1"
-  parent_id: 
-  width: "400"
 images_000063: 
+  position: "3"
+  size: "65089"
   content_type: image/jpeg
   project_id: "7"
-  size: "65089"
   thumbnail: 
-  type: ProjectImage
   id: "85"
+  type: ProjectImage
   caption: Farr, pre construction
   height: "375"
   filename: farr_pre.JPG
-  position: "3"
   parent_id: 
   width: "500"
 images_000035: 
+  position: "1"
+  size: "27114"
   content_type: image/jpeg
   project_id: "22"
-  size: "27114"
   thumbnail: 
-  type: ProjectImage
   id: "53"
+  type: ProjectImage
   caption: Effluent from Jobes Reclamation Project to Huff Run
   height: "225"
   filename: jobes1.JPG
-  position: "1"
   parent_id: 
   width: "300"
-images_000008: 
+images_000007: 
+  position: "1"
+  size: "54673"
   content_type: image/jpeg
-  project_id: 
-  size: "63557"
-  thumbnail: thumb
-  type: 
-  id: "18"
-  caption: 
-  height: "75"
-  filename: lindenweb_thumb.jpg
-  position: 
-  parent_id: "17"
-  width: "100"
-images_000092: 
-  content_type: image/jpeg
-  project_id: 
-  size: "28880"
-  thumbnail: thumb
-  type: 
-  id: "118"
-  caption: 
-  height: "67"
-  filename: hr22air_thumb.JPG
-  position: 
-  parent_id: "117"
-  width: "100"
+  project_id: "5"
+  thumbnail: 
+  id: "17"
+  type: ProjectImage
+  caption: Linden, post construction, during 2005 Awareness Day
+  height: "300"
+  filename: lindenweb.jpg
+  parent_id: 
+  width: "400"
 images_000064: 
+  position: 
+  size: "40478"
   content_type: image/jpeg
   project_id: 
-  size: "40478"
   thumbnail: thumb
-  type: 
   id: "86"
+  type: 
   caption: 
   height: "75"
   filename: farr_pre_thumb.JPG
-  position: 
   parent_id: "85"
   width: "100"
 images_000036: 
+  position: 
+  size: "32243"
   content_type: image/jpeg
   project_id: 
-  size: "32243"
   thumbnail: thumb
-  type: 
   id: "54"
+  type: 
   caption: 
   height: "75"
   filename: jobes1_thumb.JPG
-  position: 
   parent_id: "53"
   width: "100"
-images_000120: 
+images_000008: 
+  position: 
+  size: "63557"
   content_type: image/jpeg
   project_id: 
-  size: "74165"
   thumbnail: thumb
+  id: "18"
   type: 
+  caption: 
+  height: "75"
+  filename: lindenweb_thumb.jpg
+  parent_id: "17"
+  width: "100"
+images_000092: 
+  position: 
+  size: "28880"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "118"
+  type: 
+  caption: 
+  height: "67"
+  filename: hr22air_thumb.JPG
+  parent_id: "117"
+  width: "100"
+images_000120: 
+  position: 
+  size: "74165"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
   id: "150"
+  type: 
   caption: 
   height: "75"
   filename: mzdownstream_thumb.jpg
-  position: 
   parent_id: "149"
   width: "100"
-images_000009: 
-  content_type: image/jpeg
-  project_id: "5"
-  size: "23779"
-  thumbnail: 
-  type: ProjectImage
-  id: "19"
-  caption: Linden, upstream view
-  height: "225"
-  filename: lindenoverview4web.jpg
-  position: "2"
-  parent_id: 
-  width: "300"
-images_000093: 
-  content_type: image/jpeg
-  project_id: "18"
-  size: "27321"
-  thumbnail: 
-  type: ProjectImage
-  id: "119"
-  caption: HR-25 pond where drainage oriniginates
-  height: "225"
-  filename: HR25pond.JPG
-  position: "2"
-  parent_id: 
-  width: "300"
 images_000065: 
+  position: "4"
+  size: "129656"
   content_type: image/jpeg
   project_id: "7"
-  size: "129656"
   thumbnail: 
-  type: ProjectImage
   id: "89"
+  type: ProjectImage
   caption: Farr, post construction in 2001
   height: "375"
   filename: farr_early_post_const.JPG
-  position: "4"
   parent_id: 
   width: "500"
 images_000037: 
+  position: "1"
+  size: "32310"
   content_type: image/jpeg
   project_id: "21"
-  size: "32310"
   thumbnail: 
-  type: ProjectImage
   id: "55"
+  type: ProjectImage
   caption: End of HR- 38 site leading to discharge
   height: "199"
   filename: HR38lower.JPG
+  parent_id: 
+  width: "300"
+images_000009: 
+  position: "2"
+  size: "23779"
+  content_type: image/jpeg
+  project_id: "5"
+  thumbnail: 
+  id: "19"
+  type: ProjectImage
+  caption: Linden, upstream view
+  height: "225"
+  filename: lindenoverview4web.jpg
+  parent_id: 
+  width: "300"
+images_000093: 
+  position: "2"
+  size: "27321"
+  content_type: image/jpeg
+  project_id: "18"
+  thumbnail: 
+  id: "119"
+  type: ProjectImage
+  caption: HR-25 pond where drainage oriniginates
+  height: "225"
+  filename: HR25pond.JPG
+  parent_id: 
+  width: "300"
+images_000121: 
+  position: "3"
+  size: "925838"
+  content_type: image/jpeg
+  project_id: "13"
+  thumbnail: 
+  id: "151"
+  type: ProjectImage
+  caption: Site of mine entry, preconstruction
+  height: "375"
+  filename: mineetnry.JPG
+  parent_id: 
+  width: "500"
+images_000066: 
+  position: 
+  size: "28302"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "90"
+  type: 
+  caption: 
+  height: "75"
+  filename: farr_early_post_const_thumb.JPG
+  parent_id: "89"
+  width: "100"
+images_000038: 
+  position: 
+  size: "38209"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "56"
+  type: 
+  caption: 
+  height: "66"
+  filename: HR38lower_thumb.JPG
+  parent_id: "55"
+  width: "100"
+images_000094: 
+  position: 
+  size: "32100"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "120"
+  type: 
+  caption: 
+  height: "75"
+  filename: HR25pond_thumb.JPG
+  parent_id: "119"
+  width: "100"
+images_000122: 
+  position: 
+  size: "87257"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "152"
+  type: 
+  caption: 
+  height: "75"
+  filename: mineetnry_thumb.JPG
+  parent_id: "151"
+  width: "100"
+images_000067: 
+  position: "3"
+  size: "725945"
+  content_type: image/jpeg
+  project_id: "5"
+  thumbnail: 
+  id: "93"
+  type: ProjectImage
+  caption: Linden prebid meeting
+  height: "375"
+  filename: linden_prebid.JPG
+  parent_id: 
+  width: "500"
+images_000039: 
   position: "1"
+  size: "33152"
+  content_type: image/jpeg
+  project_id: "20"
+  thumbnail: 
+  id: "57"
+  type: ProjectImage
+  caption: Harsha South sampling point
+  height: "201"
+  filename: harshasouth.JPG
+  parent_id: 
+  width: "300"
+images_000095: 
+  position: "2"
+  size: "34384"
+  content_type: image/jpeg
+  project_id: "21"
+  thumbnail: 
+  id: "121"
+  type: ProjectImage
+  caption: HR-38 beaver pond
+  height: "199"
+  filename: HR38beaverpond.JPG
+  parent_id: 
+  width: "300"
+images_000123: 
+  position: "6"
+  size: "155054"
+  content_type: image/jpeg
+  project_id: "3"
+  thumbnail: 
+  id: "153"
+  type: ProjectImage
+  caption: During construction - installing liner
+  height: "375"
+  filename: installing_liner_in_1B.jpg
+  parent_id: 
+  width: "500"
+images_000068: 
+  position: 
+  size: "56125"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "94"
+  type: 
+  caption: 
+  height: "75"
+  filename: linden_prebid_thumb.JPG
+  parent_id: "93"
+  width: "100"
+images_000096: 
+  position: 
+  size: "39844"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "122"
+  type: 
+  caption: 
+  height: "66"
+  filename: HR38beaverpond_thumb.JPG
+  parent_id: "121"
+  width: "100"
+images_000124: 
+  position: 
+  size: "107463"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "154"
+  type: 
+  caption: 
+  height: "75"
+  filename: installing_liner_in_1B_thumb.jpg
+  parent_id: "153"
+  width: "100"
+images_000069: 
+  position: "4"
+  size: "906069"
+  content_type: image/jpeg
+  project_id: "5"
+  thumbnail: 
+  id: "95"
+  type: ProjectImage
+  caption: Linden's source of acid mine drainage
+  height: "335"
+  filename: linden_source.JPG
+  parent_id: 
+  width: "500"
+images_000097: 
+  position: "3"
+  size: "36231"
+  content_type: image/jpeg
+  project_id: "21"
+  thumbnail: 
+  id: "123"
+  type: ProjectImage
+  caption: HR-38 sampling point
+  height: "199"
+  filename: HR38discharge.JPG
+  parent_id: 
+  width: "300"
+images_000010: 
+  position: 
+  size: "27606"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "20"
+  type: 
+  caption: 
+  height: "75"
+  filename: lindenoverview4web_thumb.jpg
+  parent_id: "19"
+  width: "100"
+images_000125: 
+  position: "7"
+  size: "158342"
+  content_type: image/jpeg
+  project_id: "3"
+  thumbnail: 
+  id: "155"
+  type: ProjectImage
+  caption: During construction - pouring concrete in road patch over new culverts
+  height: "375"
+  filename: pouring_concrete_in_road_patch.jpg
+  parent_id: 
+  width: "500"
+images_000098: 
+  position: 
+  size: "42590"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "124"
+  type: 
+  caption: 
+  height: "66"
+  filename: HR38discharge_thumb.JPG
+  parent_id: "123"
+  width: "100"
+images_000011: 
+  position: "1"
+  size: "45074"
+  content_type: image/jpeg
+  project_id: "6"
+  thumbnail: 
+  id: "21"
+  type: ProjectImage
+  caption: Acid mine drainage plume adjacent to Huff Run
+  height: "225"
+  filename: hr42web.jpg
+  parent_id: 
+  width: "300"
+images_000126: 
+  position: 
+  size: "105971"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "156"
+  type: 
+  caption: 
+  height: "75"
+  filename: pouring_concrete_in_road_patch_thumb.jpg
+  parent_id: "155"
+  width: "100"
+images_000040: 
+  position: 
+  size: "38743"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "58"
+  type: 
+  caption: 
+  height: "67"
+  filename: harshasouth_thumb.JPG
+  parent_id: "57"
+  width: "100"
+images_000099: 
+  position: "2"
+  size: "28745"
+  content_type: image/jpeg
+  project_id: "22"
+  thumbnail: 
+  id: "125"
+  type: ProjectImage
+  caption: Jobes Reclamation site
+  height: "225"
+  filename: jobes2.JPG
+  parent_id: 
+  width: "300"
+images_000012: 
+  position: 
+  size: "51216"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "22"
+  type: 
+  caption: 
+  height: "75"
+  filename: hr42web_thumb.jpg
+  parent_id: "21"
+  width: "100"
+images_000127: 
+  position: "8"
+  size: "93786"
+  content_type: image/jpeg
+  project_id: "3"
+  thumbnail: 
+  id: "157"
+  type: ProjectImage
+  caption: Post construction - open limestone channel
+  height: "500"
+  filename: Hasha_North_6-10-2009_006.jpg
+  parent_id: 
+  width: "375"
+images_000041: 
+  position: "1"
+  size: "37079"
+  content_type: image/jpeg
+  project_id: "18"
+  thumbnail: 
+  id: "59"
+  type: ProjectImage
+  caption: Just upstream of HR-25 sampling point
+  height: "225"
+  filename: HR-25.JPG
+  parent_id: 
+  width: "300"
+images_000013: 
+  position: "1"
+  size: "25635"
+  content_type: image/jpeg
+  project_id: "7"
+  thumbnail: 
+  id: "23"
+  type: ProjectImage
+  caption: Farr, post construction, looking upstream from the finishing cell
+  height: "201"
+  filename: farrweb.jpg
+  parent_id: 
+  width: "300"
+images_000128: 
+  position: 
+  size: "62147"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "158"
+  type: 
+  caption: 
+  height: "100"
+  filename: Hasha_North_6-10-2009_006_thumb.jpg
+  parent_id: "157"
+  width: "75"
+images_000070: 
+  position: 
+  size: "129170"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "96"
+  type: 
+  caption: 
+  height: "67"
+  filename: linden_source_thumb.JPG
+  parent_id: "95"
+  width: "100"
+images_000042: 
+  position: 
+  size: "43641"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "60"
+  type: 
+  caption: 
+  height: "75"
+  filename: HR-25_thumb.JPG
+  parent_id: "59"
+  width: "100"
+images_000014: 
+  position: 
+  size: "29971"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "24"
+  type: 
+  caption: 
+  height: "67"
+  filename: farrweb_thumb.jpg
+  parent_id: "23"
+  width: "100"
+images_000129: 
+  position: "9"
+  size: "81795"
+  content_type: image/jpeg
+  project_id: "3"
+  thumbnail: 
+  id: "159"
+  type: ProjectImage
+  caption: Harsha North - post construction
+  height: "375"
+  filename: Hasha_North_6-10-2009_025.jpg
+  parent_id: 
+  width: "500"
+images_000043: 
+  position: "1"
+  size: "21626"
+  content_type: image/jpeg
+  project_id: "17"
+  thumbnail: 
+  id: "61"
+  type: ProjectImage
+  caption: Reclamation at HR-22 forfeiture project
+  height: "225"
+  filename: HR22AML.JPG
+  parent_id: 
+  width: "300"
+images_000015: 
+  position: "2"
+  size: "22913"
+  content_type: image/jpeg
+  project_id: "7"
+  thumbnail: 
+  id: "25"
+  type: ProjectImage
+  caption: Farr, post construction, looking downstream from finishing cell
+  height: "225"
+  filename: farrlastcellweb.jpg
+  parent_id: 
+  width: "300"
+images_000071: 
+  position: "5"
+  size: "909897"
+  content_type: image/jpeg
+  project_id: "5"
+  thumbnail: 
+  id: "97"
+  type: ProjectImage
+  caption: Linden innoculating
+  height: "335"
+  filename: linden_innoculation.JPG
+  parent_id: 
+  width: "500"
+images_000044: 
+  position: 
+  size: "25677"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "62"
+  type: 
+  caption: 
+  height: "75"
+  filename: HR22AML_thumb.JPG
+  parent_id: "61"
+  width: "100"
+images_000016: 
+  position: 
+  size: "26544"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "26"
+  type: 
+  caption: 
+  height: "75"
+  filename: farrlastcellweb_thumb.jpg
+  parent_id: "25"
+  width: "100"
+images_000072: 
+  position: 
+  size: "125280"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "98"
+  type: 
+  caption: 
+  height: "67"
+  filename: linden_innoculation_thumb.JPG
+  parent_id: "97"
+  width: "100"
+images_000045: 
+  position: "2"
+  size: "35524"
+  content_type: image/jpeg
+  project_id: "2"
+  thumbnail: 
+  id: "63"
+  type: ProjectImage
+  caption: Lyons main drainage post construction
+  height: "225"
+  filename: lyons_post.JPG
+  parent_id: 
+  width: "300"
+images_000100: 
+  position: 
+  size: "34104"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "126"
+  type: 
+  caption: 
+  height: "75"
+  filename: jobes2_thumb.JPG
+  parent_id: "125"
+  width: "100"
+images_000017: 
+  position: "1"
+  size: "17969"
+  content_type: image/jpeg
+  project_id: "2"
+  thumbnail: 
+  id: "27"
+  type: ProjectImage
+  caption: Lyons Project from the air
+  height: "193"
+  filename: lyonsfromair.jpg
+  parent_id: 
+  width: "300"
+images_000073: 
+  position: "6"
+  size: "883037"
+  content_type: image/jpeg
+  project_id: "5"
+  thumbnail: 
+  id: "99"
+  type: ProjectImage
+  caption: innoculation bucket
+  height: "335"
+  filename: pyrolusite_process_bucket.JPG
+  parent_id: 
+  width: "500"
+images_000046: 
+  position: 
+  size: "41732"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "64"
+  type: 
+  caption: 
+  height: "75"
+  filename: lyons_post_thumb.JPG
+  parent_id: "63"
+  width: "100"
+images_000101: 
+  position: "8"
+  size: "826472"
+  content_type: image/jpeg
+  project_id: "2"
+  thumbnail: 
+  id: "129"
+  type: ProjectImage
+  caption: Lyons main drainage pre construction
+  height: "339"
+  filename: Lyons.jpg
+  parent_id: 
+  width: "500"
+images_000018: 
+  position: 
+  size: "20712"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "28"
+  type: 
+  caption: 
+  height: "64"
+  filename: lyonsfromair_thumb.jpg
+  parent_id: "27"
+  width: "100"
+images_000074: 
+  position: 
+  size: "118901"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "100"
+  type: 
+  caption: 
+  height: "67"
+  filename: pyrolusite_process_bucket_thumb.JPG
+  parent_id: "99"
+  width: "100"
+images_000130: 
+  position: 
+  size: "53418"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "160"
+  type: 
+  caption: 
+  height: "75"
+  filename: Hasha_North_6-10-2009_025_thumb.jpg
+  parent_id: "159"
+  width: "100"
+images_000047: 
+  position: "3"
+  size: "30755"
+  content_type: image/jpeg
+  project_id: "2"
+  thumbnail: 
+  id: "65"
+  type: ProjectImage
+  caption: Lyons main drainage pre construction, looking downstream
+  height: "200"
+  filename: lyons_discharge.JPG
+  parent_id: 
+  width: "300"
+images_000102: 
+  position: 
+  size: "321322"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "130"
+  type: 
+  caption: 
+  height: "68"
+  filename: Lyons_thumb.jpg
+  parent_id: "129"
+  width: "100"
+images_000019: 
+  position: "1"
+  size: "15217"
+  content_type: image/jpeg
+  project_id: "9"
+  thumbnail: 
+  id: "31"
+  type: ProjectImage
+  caption: Acid Pit Project, completed
+  height: "225"
+  filename: acidpitcompleted2.jpg
+  parent_id: 
+  width: "300"
+images_000075: 
+  position: "2"
+  size: "752416"
+  content_type: image/jpeg
+  project_id: "6"
+  thumbnail: 
+  id: "101"
+  type: ProjectImage
+  caption: HR-42
+  height: "375"
+  filename: famous_hr42_pic.JPG
+  parent_id: 
+  width: "500"
+images_000131: 
+  position: "10"
+  size: "59471"
+  content_type: image/jpeg
+  project_id: "3"
+  thumbnail: 
+  id: "161"
+  type: ProjectImage
+  caption: Harsha North - post construction
+  height: "375"
+  filename: Hasha_North_6-10-2009_029.jpg
+  parent_id: 
+  width: "500"
+images_000048: 
+  position: 
+  size: "36184"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "66"
+  type: 
+  caption: 
+  height: "67"
+  filename: lyons_discharge_thumb.JPG
+  parent_id: "65"
+  width: "100"
+images_000103: 
+  position: "1"
+  size: "98053"
+  content_type: image/jpeg
+  project_id: "23"
+  thumbnail: 
+  id: "131"
+  type: ProjectImage
+  caption: Upper Impoundment on Hope Road West Project
+  height: "225"
+  filename: hoperdwpit.JPG
+  parent_id: 
+  width: "300"
+images_000076: 
+  position: 
+  size: "54950"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "102"
+  type: 
+  caption: 
+  height: "75"
+  filename: famous_hr42_pic_thumb.JPG
+  parent_id: "101"
+  width: "100"
+images_000132: 
+  position: 
+  size: "38984"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "162"
+  type: 
+  caption: 
+  height: "75"
+  filename: Hasha_North_6-10-2009_029_thumb.jpg
+  parent_id: "161"
+  width: "100"
+images_000104: 
+  position: 
+  size: "99545"
+  content_type: image/jpeg
+  project_id: 
+  thumbnail: thumb
+  id: "132"
+  type: 
+  caption: 
+  height: "75"
+  filename: hoperdwpit_thumb.JPG
+  parent_id: "131"
+  width: "100"
+images_000077: 
+  position: "1"
+  size: "636333"
+  content_type: image/jpeg
+  project_id: "8"
+  thumbnail: 
+  id: "103"
+  type: ProjectImage
+  caption: Belden preconstruction
+  height: "335"
+  filename: belden_pre.jpg
+  parent_id: 
+  width: "500"
+images_000049: 
+  position: "4"
+  size: "21163"
+  content_type: image/jpeg
+  project_id: "2"
+  thumbnail: 
+  id: "67"
+  type: ProjectImage
+  caption: Lyons Project, middle of site
+  height: "225"
+  filename: lyons_postconstruction_07_OLCs.JPG
   parent_id: 
   width: "300"

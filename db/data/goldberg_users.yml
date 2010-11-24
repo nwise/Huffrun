@@ -2,13 +2,13 @@
 goldberg_users_000001: 
   name: admin
   password_expired: 
-  start_path: /admin
+  password_changed_at: 
   self_reg_confirmation_required: "0"
+  start_path: /admin
   fullname: Maureen Wise
-  password_salt: "5415262900.41276242155288"
   role_id: "3"
   id: "2"
-  password_changed_at: 
+  password_salt: "5415262900.41276242155288"
   password: 493890508e43dd8305a0dbd21a7d909c33ebbbfe
   confirmation_key: 
   email: info@huffrun.org
