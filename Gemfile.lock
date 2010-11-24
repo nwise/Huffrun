@@ -11,6 +11,7 @@ GEM
     activeresource (2.0.2)
       activesupport (= 2.0.2)
     activesupport (2.0.2)
+    mysql (2.8.1)
     rails (2.0.2)
       actionmailer (= 2.0.2)
       actionpack (= 2.0.2)
@@ -25,4 +26,5 @@ PLATFORMS
 
 DEPENDENCIES
   RedCloth (= 4.2.3)
+  mysql
   rails (= 2.0.2)
