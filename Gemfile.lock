@@ -20,6 +20,7 @@ GEM
       activesupport (= 2.0.2)
       rake (>= 0.7.2)
     rake (0.8.7)
+    ruby-pg (0.7.9.2008.01.28)
 
 PLATFORMS
   ruby
@@ -28,3 +29,4 @@ DEPENDENCIES
   RedCloth (= 4.2.3)
   mysql
   rails (= 2.0.2)
+  ruby-pg
