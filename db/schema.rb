@@ -23,8 +23,8 @@ ActiveRecord::Schema.define(:version => 3) do
     t.string   "markup_style"
   end
 
-  add_index "goldberg_content_pages", ["permission_id"], :name => "fk_content_page_permission_id"
   add_index "goldberg_content_pages", ["markup_style_id"], :name => "fk_content_page_markup_style_id"
+  add_index "goldberg_content_pages", ["permission_id"], :name => "fk_content_page_permission_id"
 
   create_table "goldberg_controller_actions", :force => true do |t|
     t.integer "site_controller_id"
@@ -45,18 +45,18 @@ ActiveRecord::Schema.define(:version => 3) do
     t.integer "content_page_id"
   end
 
-  add_index "goldberg_menu_items", ["controller_action_id"], :name => "fk_menu_item_controller_action_id"
   add_index "goldberg_menu_items", ["content_page_id"], :name => "fk_menu_item_content_page_id"
+  add_index "goldberg_menu_items", ["controller_action_id"], :name => "fk_menu_item_controller_action_id"
   add_index "goldberg_menu_items", ["parent_id"], :name => "fk_menu_item_parent_id"
 
   create_table "goldberg_permissions", :force => true do |t|
-    t.string "name", :default => ""
+    t.string "name"
   end
 
   create_table "goldberg_roles", :force => true do |t|
     t.string   "name"
     t.integer  "parent_id"
-    t.string   "description",     :default => "", :null => false
+    t.string   "description",     :null => false
     t.integer  "default_page_id"
     t.text     "cache"
     t.datetime "created_at"
@@ -64,16 +64,16 @@ ActiveRecord::Schema.define(:version => 3) do
     t.string   "start_path"
   end
 
-  add_index "goldberg_roles", ["parent_id"], :name => "fk_role_parent_id"
   add_index "goldberg_roles", ["default_page_id"], :name => "fk_role_default_page_id"
+  add_index "goldberg_roles", ["parent_id"], :name => "fk_role_parent_id"
 
   create_table "goldberg_roles_permissions", :force => true do |t|
     t.integer "role_id"
     t.integer "permission_id"
   end
 
-  add_index "goldberg_roles_permissions", ["role_id"], :name => "fk_roles_permission_role_id"
   add_index "goldberg_roles_permissions", ["permission_id"], :name => "fk_roles_permission_permission_id"
+  add_index "goldberg_roles_permissions", ["role_id"], :name => "fk_roles_permission_role_id"
 
   create_table "goldberg_site_controllers", :force => true do |t|
     t.string  "name"
@@ -86,14 +86,14 @@ ActiveRecord::Schema.define(:version => 3) do
   create_table "goldberg_system_settings", :force => true do |t|
     t.string  "site_name"
     t.string  "site_subtitle"
-    t.string  "footer_message",                      :default => ""
+    t.string  "footer_message"
     t.integer "public_role_id"
-    t.integer "session_timeout",                     :default => 0,  :null => false
+    t.integer "session_timeout",                     :default => 0, :null => false
     t.integer "site_default_page_id"
     t.integer "not_found_page_id"
     t.integer "permission_denied_page_id"
     t.integer "session_expired_page_id"
-    t.integer "menu_depth",                          :default => 0,  :null => false
+    t.integer "menu_depth",                          :default => 0, :null => false
     t.string  "start_path"
     t.string  "site_url_prefix"
     t.boolean "self_reg_enabled"
@@ -103,11 +103,11 @@ ActiveRecord::Schema.define(:version => 3) do
     t.boolean "self_reg_send_confirmation_email"
   end
 
-  add_index "goldberg_system_settings", ["public_role_id"], :name => "fk_system_settings_public_role_id"
-  add_index "goldberg_system_settings", ["site_default_page_id"], :name => "fk_system_settings_site_default_page_id"
   add_index "goldberg_system_settings", ["not_found_page_id"], :name => "fk_system_settings_not_found_page_id"
   add_index "goldberg_system_settings", ["permission_denied_page_id"], :name => "fk_system_settings_permission_denied_page_id"
+  add_index "goldberg_system_settings", ["public_role_id"], :name => "fk_system_settings_public_role_id"
   add_index "goldberg_system_settings", ["session_expired_page_id"], :name => "fk_system_settings_session_expired_page_id"
+  add_index "goldberg_system_settings", ["site_default_page_id"], :name => "fk_system_settings_site_default_page_id"
 
   create_table "goldberg_users", :force => true do |t|
     t.string   "name"
