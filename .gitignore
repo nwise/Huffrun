@@ -1,3 +1,4 @@
+mirror/*
 .rsync_cache
 config/database.yml*
 log/*.log
