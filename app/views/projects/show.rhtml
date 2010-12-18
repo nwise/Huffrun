@@ -19,22 +19,23 @@
 </p>
 -->
 </fieldset><br />
+<!--
 <fieldset>
 	<legend>Project Images</legend>
-<% unless @project.project_images.empty? %>
-  <% @project.project_images.each do |pi| %>
+<%# unless @project.project_images.empty? %>
+  <%# @project.project_images.each do |pi| %>
   <div style='float:left;width:300px;margin:12px;padding:5px;border:1px solid #eee;'>
     <div style="float:left;padding-right:20px;width:100px;">
-      <%= link_to( image_tag(pi.public_filename(:thumb)), pi.public_filename ) %> 
+      <%#= link_to( image_tag(pi.public_filename(:thumb)), pi.public_filename ) %> 
     </div>
-    <div style='float:left;width:160px;'><%=h pi.caption %></div>
+    <div style='float:left;width:160px;'><%#=h pi.caption %></div>
   </div>	
   
-  <% end %>
+  <%# end %>
 
-<% end %>
+<%# end %>
 </fieldset>
 <br />
-
+-->
 
 <%= link_to 'Back to Project List', :action => 'index' %>
