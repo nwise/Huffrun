@@ -5,7 +5,7 @@ class Image < ActiveRecord::Base
                  :max_size => 1000.kilobytes,
                  :resize_to => '500x500>',
                  :thumbnails => { :thumb => '100x100>' },
-                 :path_prefix => 'public/system/images'
+                 :path_prefix => 'public/images'
 
   validates_as_attachment
 
