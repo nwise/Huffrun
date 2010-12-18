@@ -5,9 +5,10 @@
   		<h3><%= link_to( project.name, { :action => 'show', :id => project.id } ) %></h3>
 	</div> 
 	<div class='project_image_cell'> 
-		<% unless project.project_images.empty? -%>
-	    	<%= image_tag(project.project_images.first.public_filename(:thumb)) %>
-		<% end -%>
+    
+    <%# unless project.project_images.empty? -%>
+	    	<%#= image_tag(project.project_images.first.public_filename(:thumb)) %>
+		<%# end -%>
 	</div>
 	<div class='project_description_cell'>
 		<% if project.description.length > 250 -%>
