@@ -4,9 +4,6 @@ log/*.log
 tmp/**/*
 doc/api
 doc/app
-nbproject
-public/assets
-public/system
 *.swp
 tmp/*
 huffrun.sql
