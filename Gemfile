@@ -8,3 +8,4 @@ gem 'postgres', '0.7.9.2008.01.28'
 gem 'heroku', '1.17.10'
 gem 'taps', '0.3.23'
 gem 'passenger', '3.0.2'
+
