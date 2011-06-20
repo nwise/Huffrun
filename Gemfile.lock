@@ -16,11 +16,12 @@ GEM
     fastthread (1.0.7)
     file-tail (1.0.5)
       spruz (>= 0.1.0)
-    heroku (2.3.3)
-      launchy (>= 0.3.2)
-      rest-client (~> 1.6.1)
-      term-ansicolor (~> 1.0.5)
-    launchy (0.4.0)
+    heroku (1.17.10)
+      json (~> 1.4.6)
+      launchy (~> 0.3.2)
+      rest-client (>= 1.4.0, < 1.7.0)
+    json (1.4.6)
+    launchy (0.3.7)
       configuration (>= 0.0.5)
       rake (>= 0.8.1)
     mime-types (1.16)
@@ -56,16 +57,15 @@ GEM
       sequel (~> 3.20.0)
       sinatra (~> 1.0.0)
       sqlite3-ruby (~> 1.2)
-    term-ansicolor (1.0.5)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   RedCloth (= 4.2.3)
-  heroku
+  heroku (= 1.17.10)
   mysql
-  passenger
-  postgres
+  passenger (= 3.0.2)
+  postgres (= 0.7.9.2008.01.28)
   rails (= 2.0.2)
   taps (= 0.3.23)
