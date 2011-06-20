@@ -32,6 +32,7 @@ GEM
       rack
       rake (>= 0.8.1)
     pg (0.11.0)
+    postgres (0.7.9.2008.01.28)
     rack (1.2.1)
     rails (2.0.2)
       actionmailer (= 2.0.2)
@@ -67,5 +68,6 @@ DEPENDENCIES
   mysql
   passenger
   pg
+  postgres
   rails (= 2.0.2)
   taps (= 0.3.23)
