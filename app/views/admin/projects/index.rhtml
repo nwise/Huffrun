@@ -12,7 +12,7 @@
     <td><%=h project.name %></td>
     <td><%=h project.description %></td>
     <td><%=h project.completed %></td>
-    <td><%= link_to 'Show', project_path(project) %></td>
+    <td><%#= link_to 'Show', project_path(project) %></td>
     <td><%= link_to 'Edit', edit_project_path(project) %></td>
     <td><%= link_to 'Destroy', project_path(project), :confirm => 'Are you sure?', :method => :delete %></td>
   </tr>
